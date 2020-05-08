@@ -13,7 +13,7 @@ excerpt: >
 feature_row:
   - image_path: /images/robotics.jpg
     title: "Robotics"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    excerpt: "Established in 2006, 8059 Blank. is a robotics team from Anglo Chinese School (Independent) based in Singapore. We have been actively competing in VEX Robotics Competitions as well as taking part in other various competitions, such as RoboCup and FIRST Global. "
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
