@@ -61,7 +61,7 @@ function restart(playerHealth, playerSize, playerSpeed, bulletHealth, reloadSpee
   world.player.vy = 0;
   world.player.size = playerSize;
   world.player.score = 0;
-  world.player.moveSpeed = playerSpeed;
+  world.player.maxMove = playerSpeed;
   oBHealth = bulletHealth;
   bBounce = bulletBounce;
   bDmg = bulletDmg;
@@ -69,16 +69,15 @@ function restart(playerHealth, playerSize, playerSpeed, bulletHealth, reloadSpee
 }
 
 //Konami
-//Initialisation for konami
 function konami() {
   var gameMode = Math.random() * 3;
   //gameOver = false;
   if (gameMode <= 1) {
     alert("Gamemode: tiny");
-    restart(5, w / 200, w / world.frames / 20, 1, 0.05 * world.frames, false, 0.2, false);
+    restart(5, w / 200, w / world.frames, 1, 0.05 * world.frames, false, 0.2, false);
   } else if (gameMode <= 2) {
     alert("Gamemode: huge");
-    restart(50, w / 30, w / world.frames / 25, 5, 0.5 * world.frames, true, 1, true)
+    restart(50, w / 30, w / world.frames, 5, 0.5 * world.frames, true, 1, true)
   } else if (gameMode <= 3) {
     alert("Gamemode: handicapped")
     restart(30, w / 100, 0, 2, 0.1 * world.frames, true, 1, true);
@@ -264,7 +263,6 @@ function Bullet(x, y, vx, vy) {
     }
   }
 }
-
 //Enemy
 function Enemy(x, y, dx, dy) {
   //Position of enemy
@@ -277,16 +275,14 @@ function Enemy(x, y, dx, dy) {
   this.health = 1;
   var health = this.health;
   //Size and colour change
-  this.size = (Math.random() + 1) * (w / 100) + 5;
-  //this.size += 5;
+  this.size = (Math.random() + 1) * (w / 100);
   var colour = "red";
   this.colour = colour;
   var colourTime = 1 * world.frames;
   colourTime *= Math.random() * 3 + 1;
   this.draw = function () {
     if (this.health != health) {
-      this.size *= this.health;
-      this.size += this.health * 5;
+      this.size -= 0.5;
       health = this.health;
     }
     //Enemy starts as a red circle
@@ -556,7 +552,7 @@ function World() {
     }
     if (killPlayer) {
       this.player.health = 0;
-      pauseGame = true;
+      killPlayer = false;
     }
     //Kill player and end game 
     if (this.player.health == 0) {
@@ -585,7 +581,6 @@ function World() {
           konami();
         }
       }
-      killPlayer = false;
     }
     //Kill enemy
     var l = this.enemies.length;
@@ -705,7 +700,7 @@ ctx.canvas.onkeyup = function (evt) {
           k = true;
         } else {
           alert("Gamemode: normal");
-          restart(5, w / 100, w / world.frames / 25, 1, 0.3 * world.frames, false, 1, true);
+          restart(5, w / 100, w / world.frames, 1, 0.3 * world.frames, false, 1, true);
           k = false;
         }
       }
@@ -717,9 +712,7 @@ ctx.canvas.onkeyup = function (evt) {
 //Initialisation
 var world = new World();
 world.init();
-/*if (!pauseGame && startGame || gameOver) {
-  world.update();
-}*/
+
 
 
 // Animation loop
