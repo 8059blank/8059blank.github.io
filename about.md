@@ -1,4 +1,4 @@
 ---
 layout: single
-title: Aboutt
+title: About
 ---
