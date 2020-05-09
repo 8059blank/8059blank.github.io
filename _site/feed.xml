@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-09T21:26:12+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">8059 Blank</title><subtitle>Anglo Chinese School (Independent)</subtitle><author><name>8059 Blank</name></author><entry><title type="html">Aspera</title><link href="http://localhost:4000/aspera/" rel="alternate" type="text/html" title="Aspera" /><published>2020-03-05T00:00:00+08:00</published><updated>2020-03-05T00:00:00+08:00</updated><id>http://localhost:4000/aspera</id><content type="html" xml:base="http://localhost:4000/aspera/">&lt;p&gt;&lt;a href=&quot;../projects/aspera/index.html&quot;&gt;Project Demo&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-10T00:53:56+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">8059 Blank</title><subtitle>Anglo Chinese School (Independent)</subtitle><author><name>8059 Blank</name></author><entry><title type="html">Aspera</title><link href="http://localhost:4000/aspera/" rel="alternate" type="text/html" title="Aspera" /><published>2020-03-05T00:00:00+08:00</published><updated>2020-03-05T00:00:00+08:00</updated><id>http://localhost:4000/aspera</id><content type="html" xml:base="http://localhost:4000/aspera/">&lt;p&gt;&lt;a href=&quot;../projects/aspera/index.html&quot;&gt;Project Demo&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;intro&quot;&gt;Intro:&lt;/h2&gt;
 
@@ -56,11 +56,12 @@
       &lt;li&gt;Contains &lt;code class=&quot;highlighter-rouge&quot;&gt;init()&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;update()&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;spawn()&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;draw()&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;move()&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;kill()&lt;/code&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Detection of &lt;code class=&quot;highlighter-rouge&quot;&gt;keydown&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;keyup&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;mousedown&lt;/code&gt;, and the running of the animation loop.
-    &lt;h2 id=&quot;code-runthrough&quot;&gt;Code Runthrough&lt;/h2&gt;
-    &lt;h3 id=&quot;canvas&quot;&gt;Canvas&lt;/h3&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Detection of &lt;code class=&quot;highlighter-rouge&quot;&gt;keydown&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;keyup&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;mousedown&lt;/code&gt;, and the running of the animation loop.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&quot;code-runthrough&quot;&gt;Code Runthrough&lt;/h2&gt;
+
+&lt;h3 id=&quot;canvas&quot;&gt;Canvas&lt;/h3&gt;
 
 &lt;p&gt;First, we call the canvas and set &lt;code class=&quot;highlighter-rouge&quot;&gt;canvas.width&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;canvas.height&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;window.innerWidth&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;window.innerHeight&lt;/code&gt;. This allows for full screen gameplay. Next, we set var w and h to .width and .height so it is more convenient for us to refer to it later on in the game, such as checking for enemies hitting the walls and bouncing off.&lt;/p&gt;
 

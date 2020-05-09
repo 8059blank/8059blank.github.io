@@ -103,7 +103,7 @@
 
   </head>
 
-  <body class="layout--posts wide">
+  <body class="layout--posts">
     <nav class="skip-links">
   <h2 class="screen-reader-text">Skip links</h2>
   <ul>
@@ -323,11 +323,12 @@
       <li>Contains <code class="highlighter-rouge">init()</code>, <code class="highlighter-rouge">update()</code>, <code class="highlighter-rouge">spawn()</code>, <code class="highlighter-rouge">draw()</code>, <code class="highlighter-rouge">move()</code> and <code class="highlighter-rouge">kill()</code></li>
     </ul>
   </li>
-  <li>Detection of <code class="highlighter-rouge">keydown</code> and <code class="highlighter-rouge">keyup</code>, <code class="highlighter-rouge">mousedown</code>, and the running of the animation loop.
-    <h2 id="code-runthrough">Code Runthrough</h2>
-    <h3 id="canvas">Canvas</h3>
-  </li>
+  <li>Detection of <code class="highlighter-rouge">keydown</code> and <code class="highlighter-rouge">keyup</code>, <code class="highlighter-rouge">mousedown</code>, and the running of the animation loop.</li>
 </ul>
+
+<h2 id="code-runthrough">Code Runthrough</h2>
+
+<h3 id="canvas">Canvas</h3>
 
 <p>First, we call the canvas and set <code class="highlighter-rouge">canvas.width</code> and <code class="highlighter-rouge">canvas.height</code> to <code class="highlighter-rouge">window.innerWidth</code> and <code class="highlighter-rouge">window.innerHeight</code>. This allows for full screen gameplay. Next, we set var w and h to .width and .height so it is more convenient for us to refer to it later on in the game, such as checking for enemies hitting the walls and bouncing off.</p>
 
