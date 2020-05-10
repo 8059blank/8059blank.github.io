@@ -138,7 +138,10 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: https://www.instagram.com/8059blank/
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: https://www.youtube.com/channel/UC7e6cLG3RlxN_Gfss6cpRGA
 
 
 # Reading Files
