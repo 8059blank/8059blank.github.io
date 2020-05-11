@@ -5,6 +5,12 @@ var store = [{
         "url": "http://localhost:4000/aspera/",
         "teaser": null
       },{
+        "title": "The Artist's Masterpiece",
+        "excerpt":"By Nicholas Quek EXE Download (Note: This game can only be played if you download Adobe Flash Like getting a Nintendo to play Super Mario) Greetings and welcome to the Write Up on my recently created game, The Artist’s Masterpiece. The game is a combination of Platforming and Basic Combat....","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/artists-masterpiece/",
+        "teaser": null
+      },{
         "title": "Flappy Bird Multiplayer",
         "excerpt":"JAR Download Overview Flappy bird is the classic game where the bird needs to jump through pipes as long as it can if not it will fall to its doom! Now this version of flappy bird enables local multiplayer! Implementation Set up the file (Create your JPanel, JFrame, and etc.)...","categories": [],
         "tags": [],

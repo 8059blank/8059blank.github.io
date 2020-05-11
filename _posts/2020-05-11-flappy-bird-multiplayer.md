@@ -3,7 +3,7 @@ layout: posts
 title: Flappy Bird Multiplayer
 ---
 
-[JAR Download](../projects/flappy-bird-multiplayer/FlappyBird001.jar)
+[JAR Download](../projects/2020-05-11-flappy-bird-multiplayer/FlappyBird001.jar)
 
 ## Overview
 Flappy bird is the classic game where the bird needs to jump through pipes as long as it can if not it will fall to its doom! Now this version of flappy bird enables local multiplayer!

@@ -5,6 +5,10 @@
 <lastmod>2020-05-03T00:00:00+08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/artists-masterpiece/</loc>
+<lastmod>2020-05-11T00:00:00+08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/flappy-bird-multiplayer/</loc>
 <lastmod>2020-05-11T00:00:00+08:00</lastmod>
 </url>
@@ -27,7 +31,7 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/projects/aspera/</loc>
-<lastmod>2020-05-11T13:24:10+08:00</lastmod>
+<loc>http://localhost:4000/projects/2020-05-03-aspera/</loc>
+<lastmod>2020-05-11T14:24:00+08:00</lastmod>
 </url>
 </urlset>
