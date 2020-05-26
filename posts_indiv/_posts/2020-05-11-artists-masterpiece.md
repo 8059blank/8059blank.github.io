@@ -5,7 +5,7 @@ title: The Artist's Masterpiece
 
 By Nicholas Quek
 
-[EXE Download](../projects/2020-05-11-artists-masterpiece/Artists-Masterpiece.exe) 
+[EXE Download](../projects/indiv/2020-05-11-artists-masterpiece/Artists-Masterpiece.exe) 
 
 (Note: This game can only be played if you download Adobe Flash Like getting a Nintendo to play Super Mario)
 
@@ -48,7 +48,7 @@ However, I ran into some problems while programming **Damage Detection**. Majori
 ### Colour Detection
 In the Creation of "Artist's Masterpiece", the following code was used to cause damage when The Player hit the **Colour Black:**
 
-![](../projects/2020-05-11-artists-masterpiece/image001.png)
+![](../projects/indiv/2020-05-11-artists-masterpiece/image001.png)
 
 This saves me from the creation of hitboxes, Halving the total number of sprites which would be required to be created.
 
