@@ -5,7 +5,7 @@ title: Projects
 
 ## Club Projects
 <ul class="posts">
-  {% for post in site.categories.posts_club %}
+  {% for post in site.categories.club %}
     <a href="{{ post.url }}" title="{{ post.title }}" style="color:black;text-decoration:none;">
       <div class="card">
         <img src="{{ post.image }}" style="width:100%">
@@ -20,7 +20,7 @@ title: Projects
 
 ## Individual Projects
 <ul class="posts">
-  {% for post in site.categories.posts_indiv %}
+  {% for post in site.categories.individual %}
     <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
   {% endfor %}	
 </ul>

@@ -2,116 +2,84 @@
 layout: single
 title: Achievements
 ---
-## Robotics
-### 2020
+## 2020
 - Singapore VRC National Championship - Robot Skills Champion, Excellence Award 
+- Cyberthon - 3rd Placing, Data Science Award
 
-### 2019
+## 2019
 - Singapore VRC National Championship - Tournament Champion (Tertiary), Excellence Award, Design Award
 - VEX Robotics World Championship - High School Math Division Champion, Amaze Award
 - Singapore VEX Robotics Championship - Tournament Finalists (Tertiary), Create Award
+- National Olympiad in Informatics - 3 Silver, 5 Bronze
 
-### 2018
+## 2018
 - Singapore VEX Robotics Championship - Tournament Champion (Tertiary), Excellence Award
 - VEX Robotics World Championship - High School Math Division Champion, Inspire Award, Amaze Award
 - FIRST Global Winning Alliance Award - Gold
 - FIRST Global Grand Challenge Award - Silver
 - FIRST Global Challenge Award - Bronze
+- National Olympiad in Informatics - 1 Silver, 5 Bronze
 
-### 2017
+## 2017
 - Singapore VEX Robotics Championship - Tournament Champion (Tertiary), Excellence Award
 - VEX Robotics World Championship - High School Division Finalist
 - FIRST Global Challenge Award - Silver
 
-### 2016
+## 2016
 - Singapore VEX Robotics Championship - Tournament Champion (Tertiary), Excellence Award
 - VEX Robotics World Championship - High School Division Quarter-finalist, Teamwork Award
 
-### 2015
+## 2015
 - Singapore VEX Robotics Championship - Tournament Champion (Tertiary 1st, 2nd, 3rd Placing), Excellence Award
 - VEX Robotics World Championship - High School Division Semi-finalist
+- National Olympiad in Informatics - 1 Bronze
 
-### 2014
+## 2014
 - RoboCup - 2nd Placing
 - Singapore VEX Robotics Championship - Tournament Champion (Tertiary 1st, 2nd, 3rd, 4th Placing), Excellence Award
 - VEX Robotics World Championship - High School Division Semi-finalist
+- National Olympiad in Informatics - 1 Silver, 1 Bronze
 
-### 2013
+## 2013
 - RoboCup - 2nd Placing
 - Singapore VEX Robotics Championship - Tournament Champion (Tertiary 1st, 2nd, 3rd, 4th Placing, Secondary 1st Placing), Excellence Award
 - VEX Robotics World Championship - High School Division Finalist
+- National Olympiad in Informatics - 1 Gold, 2 Bronze
 
-### 2012
+## 2012
 - RoboCup - 2nd Placing
 - Singapore VEX Robotics Championship - Tournament Champion (Tertiary 1st, 2nd, 3rd Placing, Secondary 1st Placing), Excellence Award
 - VEX Robotics World Championship - High School Division Semi-finalist
+- National Olympiad in Informatics - 2 Silver, 2 Bronze
 
-### 2011
+## 2011
 - RoboCup - 3rd Placing
 - Singapore VEX Robotics Championship - Tournament Champion, Programming Skils 2nd Placing
+- National Olympiad in Informatics - 1 Silver
 
-### 2010
+## 2010
 - Interschool Micromouse Competition - Secondary School Division 1 Finalist
 - RoboCup - 3rd Placing
 - Singapore VEX Robotics Championship - Tournament Champion (Tertiary and Secondary), Programming Skils Champion
 - VEX Robotics World Championship - High School Division Semi-finalist, Design Award, Unite Award
+- National Olympiad in Informatics - 1 Gold, 1 Silver, 3 Bronze, Top Secondary School Contestant
 
-### 2009
+## 2009
 - Interschool Micromouse Competition - Secondary School Division 1 Finalist
 - RoboCup - 4th Placing
 - Singapore VEX Robotics Championship - Tournament Champion, Driver Skills Champion, Programming Skils 2nd Placing
+- National Olympiad in Informatics - 3 Bronze
 
-### 2008
+## 2008
 - Interschool Micromouse Competition - Secondary School Division 2 Champion, Open Category 2nd Runner Up
 - RoboCup - 4th Placing
 - Singapore VEX Robotics Championship - 2nd Runner Up
-
-### 2007
-- Interschool Micromouse Competition - Secondary School Division 3 Champion
-- RoboCup - 4th Placing
-
-
-
-## TechSquad
-To be won?
-
-
-## Coding Competition Team
-### 2020
-- Cyberthon - 3rd Placing, Data Science Award
-
-### 2019
-- National Olympiad in Informatics - 3 Silver, 5 Bronze
-
-### 2018
-- National Olympiad in Informatics - 1 Silver, 5 Bronze
-
-### 2015
-- National Olympiad in Informatics - 1 Bronze
-
-### 2014
-- National Olympiad in Informatics - 1 Silver, 1 Bronze
-
-### 2013
-- National Olympiad in Informatics - 1 Gold, 2 Bronze
-
-### 2012
-- National Olympiad in Informatics - 2 Silver, 2 Bronze
-
-### 2011
-- National Olympiad in Informatics - 1 Silver
-
-### 2010
-- National Olympiad in Informatics - 1 Gold, 1 Silver, 3 Bronze, Top Secondary School Contestant
-
-### 2009
-- National Olympiad in Informatics - 3 Bronze
-
-### 2008
 - National Olympiad in Informatics - 5 Bronze
 
-### 2007
+## 2007
+- Interschool Micromouse Competition - Secondary School Division 3 Champion
+- RoboCup - 4th Placing
 - National Olympiad in Informatics - 1 Silver, 1 Bronze
 
-### 2006
+## 2006
 - National Olympiad in Informatics - 1 Silver
