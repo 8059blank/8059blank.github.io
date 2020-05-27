@@ -4,7 +4,18 @@ layout: archive
 
 {{ content }}
 
-<ul class="taxonomy__index">
+<section id="Latest Projects" class="taxonomy__section">
+  <h2 class="archive__subtitle">Other Projects</h2>
+    <div class="entries-{{ page.entries_layout | default: 'list' }}">
+      {% assign postInCatNotCurrent = site.categories[page.categories.first] | where_exp: "item","item.title != page.title" %}
+      {% for post in postInCatNotCurrent limit:3 %}
+        {% include archive-single.html type=page.entries_layout %}
+      {% endfor %}
+    </div>
+    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+</section>
+
+<!--ul class="taxonomy__index">
   {% assign postsInYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}
     <li>
@@ -13,9 +24,9 @@ layout: archive
       </a>
     </li>
   {% endfor %}
-</ul>
+</ul-->
 
-{% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+<!--{% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% for year in postsByYear %}
   <section id="{{ year.name }}" class="taxonomy__section">
     <h2 class="archive__subtitle">{{ year.name }}</h2>
@@ -26,4 +37,4 @@ layout: archive
     </div>
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
-{% endfor %}
+{% endfor %}-->
