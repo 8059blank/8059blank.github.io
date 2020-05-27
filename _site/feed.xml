@@ -1,82 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-27T14:59:05+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">8059 Blank</title><subtitle>Anglo Chinese School (Independent)</subtitle><author><name>8059 Blank</name></author><entry><title type="html">AC Minecraft</title><link href="http://localhost:4000/posts_club/acs-minecraft-map/" rel="alternate" type="text/html" title="AC Minecraft" /><published>2020-05-26T00:00:00+08:00</published><updated>2020-05-26T00:00:00+08:00</updated><id>http://localhost:4000/posts_club/acs-minecraft-map</id><content type="html" xml:base="http://localhost:4000/posts_club/acs-minecraft-map/"></content><author><name>8059 Blank</name></author><summary type="html">Creation of Anglo-Chinese School (Independent) in Minecraft</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/projects/club/test.jpg" /><media:content medium="image" url="http://localhost:4000/projects/club/test.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Flappy Bird Multiplayer</title><link href="http://localhost:4000/posts_indiv/flappy-bird-multiplayer/" rel="alternate" type="text/html" title="Flappy Bird Multiplayer" /><published>2020-05-11T00:00:00+08:00</published><updated>2020-05-11T00:00:00+08:00</updated><id>http://localhost:4000/posts_indiv/flappy-bird-multiplayer</id><content type="html" xml:base="http://localhost:4000/posts_indiv/flappy-bird-multiplayer/">&lt;p&gt;&lt;a href=&quot;../projects/indiv/2020-05-11-flappy-bird-multiplayer/FlappyBird001.jar&quot;&gt;JAR Download&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Flappy bird is the classic game where the bird needs to jump through pipes as long as it can if not it will fall to its doom! Now this version of flappy bird enables local multiplayer!&lt;/p&gt;
-
-&lt;h2 id=&quot;implementation&quot;&gt;Implementation&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;Set up the file (Create your JPanel, JFrame, and etc.)&lt;/li&gt;
-  &lt;li&gt;Turn your background into blue through your JPanel&lt;/li&gt;
-  &lt;li&gt;import these things
-    &lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.Color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.Font&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.Graphics&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.Image&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.Rectangle&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.Toolkit&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.event.ActionEvent&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.event.ActionListener&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.io.InputStream&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.net.URL&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;javax.swing.Timer&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.util.Random&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Create green ground below by creating a rectangle&lt;/li&gt;
-  &lt;li&gt;Add the moving pipes
- a. Add a timer
-    &lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &lt;span class=&quot;nc&quot;&gt;Timer&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;t&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Timer&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;ActionListener&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
- &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-
-    &lt;p&gt;b. Create pipe with this format&lt;/p&gt;
-    &lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &lt;span class=&quot;nc&quot;&gt;Rectangle&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Rectangle&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pipex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pipey&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]+&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;250&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;80&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1100&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
- &lt;span class=&quot;nc&quot;&gt;Rectangle&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r3&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Rectangle&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pipex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;80&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pipey&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;squeeze&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-    &lt;p&gt;Explanation:&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;In which &lt;code class=&quot;highlighter-rouge&quot;&gt;pipex[0]&lt;/code&gt; is x coordinate&lt;/li&gt;
-      &lt;li&gt;Y coordinate for top pipe is 0&lt;/li&gt;
-      &lt;li&gt;Height of top pipe = &lt;code class=&quot;highlighter-rouge&quot;&gt;pipey[0] + squeeze&lt;/code&gt; (so pipe can be smaller)&lt;/li&gt;
-      &lt;li&gt;Y coordinate for bottom pipe is &lt;code class=&quot;highlighter-rouge&quot;&gt;pipey[0] + 250&lt;/code&gt; (basically this is how big the pipe is)&lt;/li&gt;
-      &lt;li&gt;80 is width of both pipes&lt;/li&gt;
-      &lt;li&gt;(Remember to fill the rectangles with the exact same format)&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p&gt;c. In the timer write this code so this means that the pipes will move towards the left creating an illusion for the birds&lt;/p&gt;
-    &lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &lt;span class=&quot;n&quot;&gt;pipex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]-=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;constant&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
- &lt;span class=&quot;n&quot;&gt;pipex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]-=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;constant&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
- &lt;span class=&quot;n&quot;&gt;pipex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]-=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;constant&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
- &lt;span class=&quot;n&quot;&gt;pipex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]-=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;constant&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-    &lt;p&gt;d. Write a code so that when the pipes reach a certain x coordinate, it will teleport into another x coordinate, creating a loop&lt;/p&gt;
-
-    &lt;p&gt;e. If you want, add a randomizer in code d so your pipes can have a bigger variety&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Add the bird
- a. Add a rectangle which has customizable y coordinate
- b. Add an image corresponding to the rectangle
- c. In the counter make it so that the bird always falls in an accelerating rate
- d. Add a function so when you press the up-key, the bird goes up, the acceleration stops for a few ticks, and the bird also has reduced speed
- e. Make it so that when the Bird intersects with the roof, ground , or pipes it dies (removed from screen)
- f. Repeat for the other bird&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Add scoreboard
- a. In the timer, add a code in which so every certain amount of ticks a score variable increases
- b. Repeat for the other bird
- c. Show scores on the ground&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Create dying mechanism
- a. Make it so that when both birds die it switches to game over screen
- b. Show who won, and their respective scores&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Create a loop so you can restart the game&lt;/li&gt;
-  &lt;li&gt;Save in a jar file&lt;/li&gt;
-  &lt;li&gt;Your game is done&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>8059 Blank</name></author><summary type="html">JAR Download</summary></entry><entry><title type="html">The Artist’s Masterpiece</title><link href="http://localhost:4000/posts_indiv/artists-masterpiece/" rel="alternate" type="text/html" title="The Artist's Masterpiece" /><published>2020-05-11T00:00:00+08:00</published><updated>2020-05-11T00:00:00+08:00</updated><id>http://localhost:4000/posts_indiv/artists-masterpiece</id><content type="html" xml:base="http://localhost:4000/posts_indiv/artists-masterpiece/">&lt;p&gt;By Nicholas Quek&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-27T15:35:47+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">8059 Blank</title><subtitle>Anglo Chinese School (Independent)</subtitle><author><name>8059 Blank</name></author><entry><title type="html">AC Minecraft</title><link href="http://localhost:4000/posts_club/acs-minecraft-map/" rel="alternate" type="text/html" title="AC Minecraft" /><published>2020-05-26T00:00:00+08:00</published><updated>2020-05-26T00:00:00+08:00</updated><id>http://localhost:4000/posts_club/acs-minecraft-map</id><content type="html" xml:base="http://localhost:4000/posts_club/acs-minecraft-map/"></content><author><name>8059 Blank</name></author><summary type="html">Creation of Anglo-Chinese School (Independent) in Minecraft</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/projects/club/test.jpg" /><media:content medium="image" url="http://localhost:4000/projects/club/test.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Artist’s Masterpiece</title><link href="http://localhost:4000/posts_indiv/artists-masterpiece/" rel="alternate" type="text/html" title="The Artist's Masterpiece" /><published>2020-05-11T00:00:00+08:00</published><updated>2020-05-11T00:00:00+08:00</updated><id>http://localhost:4000/posts_indiv/artists-masterpiece</id><content type="html" xml:base="http://localhost:4000/posts_indiv/artists-masterpiece/">&lt;p&gt;By Nicholas Quek&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;../projects/indiv/2020-05-11-artists-masterpiece/Artists-Masterpiece.exe&quot;&gt;EXE Download&lt;/a&gt;&lt;/p&gt;
 
@@ -170,7 +92,85 @@
   &lt;li&gt;
     &lt;p&gt;Stay true to the type of game being created, build the game around the basic mechanics of the game to keep the gameplay constant.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>8059 Blank</name></author><summary type="html">By Nicholas Quek</summary></entry><entry><title type="html">Aspera</title><link href="http://localhost:4000/posts_indiv/aspera/" rel="alternate" type="text/html" title="Aspera" /><published>2020-05-03T00:00:00+08:00</published><updated>2020-05-03T00:00:00+08:00</updated><id>http://localhost:4000/posts_indiv/aspera</id><content type="html" xml:base="http://localhost:4000/posts_indiv/aspera/">&lt;p&gt;&lt;a href=&quot;../projects/indiv/2020-05-03-aspera/index.html&quot;&gt;Project Demo&lt;/a&gt;&lt;/p&gt;
+&lt;/ol&gt;</content><author><name>8059 Blank</name></author><summary type="html">By Nicholas Quek</summary></entry><entry><title type="html">Flappy Bird Multiplayer</title><link href="http://localhost:4000/posts_indiv/flappy-bird-multiplayer/" rel="alternate" type="text/html" title="Flappy Bird Multiplayer" /><published>2020-05-11T00:00:00+08:00</published><updated>2020-05-11T00:00:00+08:00</updated><id>http://localhost:4000/posts_indiv/flappy-bird-multiplayer</id><content type="html" xml:base="http://localhost:4000/posts_indiv/flappy-bird-multiplayer/">&lt;p&gt;&lt;a href=&quot;../projects/indiv/2020-05-11-flappy-bird-multiplayer/FlappyBird001.jar&quot;&gt;JAR Download&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Flappy bird is the classic game where the bird needs to jump through pipes as long as it can if not it will fall to its doom! Now this version of flappy bird enables local multiplayer!&lt;/p&gt;
+
+&lt;h2 id=&quot;implementation&quot;&gt;Implementation&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Set up the file (Create your JPanel, JFrame, and etc.)&lt;/li&gt;
+  &lt;li&gt;Turn your background into blue through your JPanel&lt;/li&gt;
+  &lt;li&gt;import these things
+    &lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.Color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.Font&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.Graphics&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.Image&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.Rectangle&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.Toolkit&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.event.ActionEvent&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.event.ActionListener&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.io.InputStream&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.net.URL&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;javax.swing.Timer&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.util.Random&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Create green ground below by creating a rectangle&lt;/li&gt;
+  &lt;li&gt;Add the moving pipes
+ a. Add a timer
+    &lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &lt;span class=&quot;nc&quot;&gt;Timer&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;t&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Timer&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;ActionListener&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+ &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+
+    &lt;p&gt;b. Create pipe with this format&lt;/p&gt;
+    &lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &lt;span class=&quot;nc&quot;&gt;Rectangle&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Rectangle&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pipex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pipey&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]+&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;250&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;80&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1100&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+ &lt;span class=&quot;nc&quot;&gt;Rectangle&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r3&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Rectangle&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pipex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;80&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pipey&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;squeeze&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;p&gt;Explanation:&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;In which &lt;code class=&quot;highlighter-rouge&quot;&gt;pipex[0]&lt;/code&gt; is x coordinate&lt;/li&gt;
+      &lt;li&gt;Y coordinate for top pipe is 0&lt;/li&gt;
+      &lt;li&gt;Height of top pipe = &lt;code class=&quot;highlighter-rouge&quot;&gt;pipey[0] + squeeze&lt;/code&gt; (so pipe can be smaller)&lt;/li&gt;
+      &lt;li&gt;Y coordinate for bottom pipe is &lt;code class=&quot;highlighter-rouge&quot;&gt;pipey[0] + 250&lt;/code&gt; (basically this is how big the pipe is)&lt;/li&gt;
+      &lt;li&gt;80 is width of both pipes&lt;/li&gt;
+      &lt;li&gt;(Remember to fill the rectangles with the exact same format)&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;c. In the timer write this code so this means that the pipes will move towards the left creating an illusion for the birds&lt;/p&gt;
+    &lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &lt;span class=&quot;n&quot;&gt;pipex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]-=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;constant&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+ &lt;span class=&quot;n&quot;&gt;pipex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]-=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;constant&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+ &lt;span class=&quot;n&quot;&gt;pipex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]-=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;constant&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+ &lt;span class=&quot;n&quot;&gt;pipex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]-=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;constant&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+    &lt;p&gt;d. Write a code so that when the pipes reach a certain x coordinate, it will teleport into another x coordinate, creating a loop&lt;/p&gt;
+
+    &lt;p&gt;e. If you want, add a randomizer in code d so your pipes can have a bigger variety&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Add the bird
+ a. Add a rectangle which has customizable y coordinate
+ b. Add an image corresponding to the rectangle
+ c. In the counter make it so that the bird always falls in an accelerating rate
+ d. Add a function so when you press the up-key, the bird goes up, the acceleration stops for a few ticks, and the bird also has reduced speed
+ e. Make it so that when the Bird intersects with the roof, ground , or pipes it dies (removed from screen)
+ f. Repeat for the other bird&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Add scoreboard
+ a. In the timer, add a code in which so every certain amount of ticks a score variable increases
+ b. Repeat for the other bird
+ c. Show scores on the ground&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Create dying mechanism
+ a. Make it so that when both birds die it switches to game over screen
+ b. Show who won, and their respective scores&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Create a loop so you can restart the game&lt;/li&gt;
+  &lt;li&gt;Save in a jar file&lt;/li&gt;
+  &lt;li&gt;Your game is done&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>8059 Blank</name></author><summary type="html">JAR Download</summary></entry><entry><title type="html">Aspera</title><link href="http://localhost:4000/posts_indiv/aspera/" rel="alternate" type="text/html" title="Aspera" /><published>2020-05-03T00:00:00+08:00</published><updated>2020-05-03T00:00:00+08:00</updated><id>http://localhost:4000/posts_indiv/aspera</id><content type="html" xml:base="http://localhost:4000/posts_indiv/aspera/">&lt;p&gt;&lt;a href=&quot;../projects/indiv/2020-05-03-aspera/index.html&quot;&gt;Project Demo&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;intro&quot;&gt;Intro:&lt;/h2&gt;
 
