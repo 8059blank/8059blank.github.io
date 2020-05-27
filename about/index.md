@@ -5,7 +5,7 @@ title: About
 
 ## Robotics
 
-![Robotics](../images/robotics.jpg){:width="500px"}
+![Robotics](../images/rts.png){:width="500px"}
 
 Established in 2006, 8059 Blank. is a robotics team from Anglo-Chinese School (Independent) based in Singapore. We have been actively competing in VEX Robotics Competitions as well as taking part in other various competitions, such as RoboCup and FIRST Global. 
 
