@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/aspera/</loc>
+<loc>http://localhost:4000/posts_indiv/aspera/</loc>
 <lastmod>2020-05-03T00:00:00+08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/artists-masterpiece/</loc>
+<loc>http://localhost:4000/posts_indiv/artists-masterpiece/</loc>
 <lastmod>2020-05-11T00:00:00+08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/flappy-bird-multiplayer/</loc>
+<loc>http://localhost:4000/posts_indiv/flappy-bird-multiplayer/</loc>
 <lastmod>2020-05-11T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/posts_club/acs-minecraft-map/</loc>
+<lastmod>2020-05-26T00:00:00+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
@@ -31,7 +35,7 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/projects/2020-05-03-aspera/</loc>
+<loc>http://localhost:4000/projects/indiv/2020-05-03-aspera/</loc>
 <lastmod>2020-05-11T14:24:00+08:00</lastmod>
 </url>
 </urlset>
