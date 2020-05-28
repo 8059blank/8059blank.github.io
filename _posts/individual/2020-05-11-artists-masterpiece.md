@@ -6,7 +6,7 @@ categories: individual
 
 By Nicholas Quek
 
-[EXE Download](../projects/indiv/2020-05-11-artists-masterpiece/Artists-Masterpiece.exe) 
+[EXE Download](../../projects/indiv/2020-05-11-artists-masterpiece/Artists-Masterpiece.exe) 
 
 (Note: This game can only be played if you download Adobe Flash Like getting a Nintendo to play Super Mario)
 
