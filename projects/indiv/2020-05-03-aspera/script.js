@@ -743,3 +743,45 @@ function updateAll() {
   }
 }
 updateAll();
+
+window.onresize = function () {
+  var canvas = document.getElementById('canvas');
+  canvas.width = window.innerWidth;
+  canvas.style.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+  canvas.style.height = window.innerHeight;
+  w = ctx.canvas.width;
+  h = ctx.canvas.height;
+  world.player.size = w / 100;
+  world.player.moveSpeed = w / world.frames / 25;
+  world.player.maxMove = w / world.frames;
+  world.player.bulletSpeed = w / world.frames * 1.1;
+  if (!pauseGame && startGame) {
+    for (i = 0; i < 8; i++) {
+      world.draw();
+    }
+  }
+  if (pauseGame) {
+    for (i = 0; i < 8; i++) {
+      world.draw();
+    }
+  }
+  if (!startGame) {
+    ctx.save();
+    ctx.fillRect(0, 0, w, h);
+    ctx.textAlign = "center";
+    ctx.textBaseline = 'middle';
+    ctx.fillStyle = 'white';
+    ctx.font = "50pt sans-serif";
+    ctx.fillText("Aspera", w / 2, h / 2 + 120);
+    ctx.font = "15pt sans-serif";
+    ctx.fillText("Click to shoot", w / 2, h / 2 - 100);
+    ctx.fillText("WASD to move", w / 2, h / 2 - 75);
+    ctx.fillText("Avoid enemies", w / 2, h / 2 - 50);
+    ctx.fillText("Press P to pause", w / 2, h / 2 - 25);
+    ctx.fillText("and K to kill yourself", w / 2, h / 2);
+    ctx.font = "25pt sans-serif";
+    ctx.fillText("Click and press B to begin", w / 2, h / 2 + 50);
+    ctx.restore();
+  }
+}
