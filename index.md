@@ -31,20 +31,20 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
-<br/>
+<br/><br/>
 
 ![Robotics](images/rts.png){:width="500px"}
 
 Established in 2006, 8059 Blank. is a robotics team from Anglo-Chinese School (Independent) based in Singapore. We have been actively competing in VEX Robotics Competitions as well as taking part in other various competitions, such as RoboCup and FIRST Global. 
 
-<br/><br/>
+<br/><br/><br/>
 
 
 ![Coding Competition Team](images/CCT.png){:width="500px"}
 
 Our Coding Competition Team specialises in everything involving code. We pride ourselves in our eagerness to learn, explore, and apply our knowledge in various fields. Some of the things we do include Competitive Programming, Software Engineering, and Artificial Intelligence amongst others...
 
-<br/><br/>
+<br/><br/><br/>
 
 ![TechSquad](images/TechSquad.png){:width="500px"}
 
