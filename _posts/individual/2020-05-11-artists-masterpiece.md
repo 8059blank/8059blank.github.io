@@ -2,9 +2,11 @@
 layout: posts
 title: The Artist's Masterpiece
 categories: individual
+author:
+  name: Nicholas Quek
+  class: '2.10'
 ---
 
-By Nicholas Quek
 
 [EXE Download](../../projects/indiv/2020-05-11-artists-masterpiece/Artists-Masterpiece.exe) 
 

@@ -2,6 +2,9 @@
 layout: posts
 title: Flappy Bird Multiplayer
 categories: individual
+author:
+  name: Kenneth Hendra
+  class: '3.12'
 ---
 
 [JAR Download](../../projects/indiv/2020-05-11-flappy-bird-multiplayer/FlappyBird001.jar)
