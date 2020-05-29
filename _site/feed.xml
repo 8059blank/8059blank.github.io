@@ -1,4 +1,239 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-28T22:05:04+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">8059 Blank</title><subtitle>Anglo Chinese School (Independent)</subtitle><author><name>8059 Blank</name></author><entry><title type="html">AC Minecraft</title><link href="http://localhost:4000/club/acs-minecraft-map/" rel="alternate" type="text/html" title="AC Minecraft" /><published>2020-05-26T00:00:00+08:00</published><updated>2020-05-26T00:00:00+08:00</updated><id>http://localhost:4000/club/acs-minecraft-map</id><content type="html" xml:base="http://localhost:4000/club/acs-minecraft-map/"></content><author><name>8059 Blank</name></author><category term="Minecraft" /><summary type="html">Creation of Anglo-Chinese School (Independent) in Minecraft</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/projects/club/test.jpg" /><media:content medium="image" url="http://localhost:4000/projects/club/test.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Artist’s Masterpiece</title><link href="http://localhost:4000/individual/artists-masterpiece/" rel="alternate" type="text/html" title="The Artist's Masterpiece" /><published>2020-05-11T00:00:00+08:00</published><updated>2020-05-11T00:00:00+08:00</updated><id>http://localhost:4000/individual/artists-masterpiece</id><content type="html" xml:base="http://localhost:4000/individual/artists-masterpiece/">&lt;p&gt;&lt;a href=&quot;../../projects/indiv/2020-05-11-artists-masterpiece/Artists-Masterpiece.exe&quot;&gt;EXE Download&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-29T17:13:45+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">8059 Blank</title><subtitle>Anglo Chinese School (Independent)</subtitle><author><name>8059 Blank</name></author><entry><title type="html">Making a Snake Game</title><link href="http://localhost:4000/individual/snake-game/" rel="alternate" type="text/html" title="Making a Snake Game" /><published>2020-05-29T00:00:00+08:00</published><updated>2020-05-29T00:00:00+08:00</updated><id>http://localhost:4000/individual/snake-game</id><content type="html" xml:base="http://localhost:4000/individual/snake-game/">&lt;p&gt;This project was my first real project I ever really took the time to properly finish, and it was quite an enriching experience for me. I learnt more about python and more specifically, pygame, which before this I was quite inexperienced in.&lt;/p&gt;
+
+&lt;p&gt;I began by trying to plan the code out in my head. I decided where roughly each part of the code will be, but other than that it was a very simple plan. On hindsight, I should have spent more work and time on the plan, and not have rushed into the code.&lt;/p&gt;
+
+&lt;p&gt;Next, after setting up the main screen and other things like the icon and title, I made the background for the game. I wanted the background to be similiar to that of a chess board, except the tiles are alternating between black and grey. The background actually took me quite a bit of time as I was not yet familiar with functions like ‘get_rect’, ‘draw.rect’, and blit, and the differences between them. I took some time before I fully grasped them and managed to write the code properly.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;cells&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cellwidth&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cellwidth&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;40&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;screeny&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cellwidth&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;screenx&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cellwidth&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)]&lt;/span&gt; 
+&lt;span class=&quot;n&quot;&gt;cellcounter&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt; 
+&lt;span class=&quot;n&quot;&gt;background&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pygame&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Surface&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;convert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; 
+&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;item&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cells&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; 
+	&lt;span class=&quot;n&quot;&gt;cellcounter&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; 
+	&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cellcounter&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; 			
+		&lt;span class=&quot;n&quot;&gt;pygame&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;draw&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rect&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;item&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;I first made a list of all the different cells in the game. Each item in the list contained the ‘rectangle’ information for each cell- its x position, y position, width, and height. Then I created a new black screen called ‘background’, and drew a grey square into alternate cells.&lt;/p&gt;
+
+&lt;p&gt;Next, I added the code for the snake. At first I wanted to use a list of the cells that the snake occupied, but I was not sure how to add in collision logic later on. I also considered using variables for the snake head’s x and y coordinates. In the end I used both.&lt;/p&gt;
+
+&lt;p&gt;python
+snakecells = [] 
+snakeheadx,snakeheady = cells[131][0],cells[131][1]&lt;/p&gt;
+
+&lt;p&gt;The snake head x and y here are the fixed starting positions of the snake&lt;/p&gt;
+
+&lt;p&gt;For the snake’s movement, I used a variable ‘direction’. It is assigned -1 for left, 1 for right, -2 for up, and 2 for down. Then, the x coordinate of the snake will move by 32 ( the length of 1 cell) * direction for left or right, and the y coordinate 32 / 2* direction (as direction is 2).&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;abs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;direction&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; 
+	&lt;span class=&quot;n&quot;&gt;snakeheadx&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cellwidth&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;direction&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;elif&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;abs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;direction&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; 
+	&lt;span class=&quot;n&quot;&gt;snakeheady&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cellwidth&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;direction&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If the snake does not collide with anything and all is well, the first element of the list snakecells (if any) is removed and the cell with the x and y coordinates of the snakehead will be appended to the list snakecells.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;snakecells&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; 
+	&lt;span class=&quot;n&quot;&gt;snakecells&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; 
+&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cells&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)):&lt;/span&gt; 
+	&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cells&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;snakeheadx&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;snakeheady&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt; 
+		&lt;span class=&quot;n&quot;&gt;snakecells&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;append&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cells&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;For collision logic, there are 2 ways the snake can die. 1) it hits its head to the wall, 2) it hits against itself. For hitting against the wall, the program checked whether the x and y coordinates of the snake is beyond the width and height of the screen.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;snakeheadx&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;or&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;snakeheadx&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;screenx&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;or&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;snakeheady&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;or&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;snakeheady&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;screeny&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; 
+	&lt;span class=&quot;n&quot;&gt;game_over&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;For if the snake hits against itself, I made a set of the list snakecells and compared its length with that of the list snakecells. This part is actually after the part about updating ‘snakecells’, as I needed the cell information of the current cell head, and whether that information was already in ‘snakecells’, which would have meant the snake collided against itself.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;snakecells&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;set&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;snakecells&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)):&lt;/span&gt; 
+	&lt;span class=&quot;n&quot;&gt;game_over&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Fourthly was the code for the apples the snake ate. The apples in my snake game were quite simple, they were just a red circle.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;pygame&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;draw&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;circle&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;screen&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;255&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;applex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;round&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cellwidth&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;appley&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;round&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cellwidth&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)),&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;round&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cellwidth&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Next for the apple, I wrote in the logic of what would happen when the snake ‘ate’ the apple.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;appleEaten&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt; 
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;applex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;snakeheadx&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;appley&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;snakeheady&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; 
+	&lt;span class=&quot;n&quot;&gt;appleEaten&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;True&lt;/span&gt; 
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;appleEaten&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; 
+	&lt;span class=&quot;n&quot;&gt;length&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; 
+	&lt;span class=&quot;n&quot;&gt;applepos&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Whenever, the program ran through the main while Loop, the variable ‘appleEaten’ will be set to false. Then, if the snake had eaten the apple( if the head of the snake’s x and y coordinates were equal to those of the apples), appleEaten would be set to true, and the length snake will increase by 1. (I also needed to set a variable called applepos, which I will explain more on later).&lt;/p&gt;
+
+&lt;p&gt;Next, I also had to extend the previous statement on removing the oldest element from snakecells, so that it would only be removed if the snake had not eaten an apple on this iteration of the while loop, so that the snake’s length will ‘increase’ properly.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;snakecells&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;appleEaten&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; 
+	&lt;span class=&quot;n&quot;&gt;snakecells&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;About the previously mentioned ‘applepos’ variable, it was for creating the new location for the apple. As zero’s boolean value is False, I used it as a condition for a while loop. The while loop sets applepos to a random value in cells, and if that value is not in snakecells, so that the apple is not going to be in the snake, the x and y coordinates of the apple will be set to that. If the random position in fact is inside snakecells, applepos is set to 0, and the cycle repeats.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;applepos&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; 
+	&lt;span class=&quot;n&quot;&gt;applepos&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;randint&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cells&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; 
+	&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cells&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;applepos&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;snakecells&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; 
+		&lt;span class=&quot;n&quot;&gt;applex&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;appley&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cells&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;applepos&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cells&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;applepos&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;][&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; 
+	&lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; 
+		&lt;span class=&quot;n&quot;&gt;applepos&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt; 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Lastly were the embellishments like the sound and the endscreen. I did not know much about sound and rendering text in pygame, but thanks to this project I managed to learn them.&lt;/p&gt;
+
+&lt;p&gt;Though snake is a very simple game to code compared to other games, the novice that I am had much to learn and had a very fun time doing this project over the course of the weekend. I look forward to doing something like this in the future again&lt;/p&gt;</content><author><name>Marcus Cheong</name></author><summary type="html">This project was my first real project I ever really took the time to properly finish, and it was quite an enriching experience for me. I learnt more about python and more specifically, pygame, which before this I was quite inexperienced in.</summary></entry><entry><title type="html">AC Minecraft</title><link href="http://localhost:4000/club/acs-minecraft-map/" rel="alternate" type="text/html" title="AC Minecraft" /><published>2020-05-29T00:00:00+08:00</published><updated>2020-05-29T00:00:00+08:00</updated><id>http://localhost:4000/club/acs-minecraft-map</id><content type="html" xml:base="http://localhost:4000/club/acs-minecraft-map/">&lt;p&gt;During the COVID-19 outbreak in Singapore, schools and workplaces were closed, and students were required to embark on full home-based learning online. In the light of this situation, the Robotics and Technological Society took our ACS(I) campus online, making a virtual rendition of our school in Minecraft. Working for over 3 months to complete this project, we are finally releasing it to the student body on 1st June 2020, where they were able to explore parts of school they had long missed with classmates. Our club is grateful for this opportunity to give back to the school family and use our creative skills to strengthen our AC bond in spirit while apart.&lt;/p&gt;
+
+&lt;h2 id=&quot;contributors&quot;&gt;Contributors&lt;/h2&gt;
+&lt;div style=&quot;display:flex&quot;&gt;
+    &lt;div style=&quot;width:50%&quot;&gt;
+        
+            
+            
+            &lt;li&gt;Marcus Chin (3.07)&lt;/li&gt;
+            
+        
+            
+            
+        
+            
+            
+            &lt;li&gt;Quek Teck Yong (3.11)&lt;/li&gt;
+            
+        
+            
+            
+        
+            
+            
+            &lt;li&gt;Joel Teo (3.11)&lt;/li&gt;
+            
+        
+            
+            
+        
+            
+            
+            &lt;li&gt;Zachary Lim (3.12)&lt;/li&gt;
+            
+        
+            
+            
+        
+            
+            
+            &lt;li&gt;Marcus Quek (4.12)&lt;/li&gt;
+            
+        
+            
+            
+        
+            
+            
+            &lt;li&gt;Yuan Jing Xin (5.04)&lt;/li&gt;
+            
+        
+            
+            
+        
+            
+            
+            &lt;li&gt;Aloysius Wong (5.08)&lt;/li&gt;
+            
+        
+            
+            
+        
+            
+            
+            &lt;li&gt;Evans Soh (5.13)&lt;/li&gt;
+            
+        
+            
+            
+        
+            
+            
+            &lt;li&gt;Alvin Ng (6.04)&lt;/li&gt;
+            
+        
+    &lt;/div&gt;
+    &lt;div style=&quot;width:50%&quot;&gt;
+        
+            
+            
+        
+            
+            
+            &lt;li&gt;Ryan Yap (3.09)&lt;/li&gt;
+            
+        
+            
+            
+        
+            
+            
+            &lt;li&gt;Wong Yeh Siang (3.11)&lt;/li&gt;
+            
+        
+            
+            
+        
+            
+            
+            &lt;li&gt;Chen An Hong (3.12)&lt;/li&gt;
+            
+        
+            
+            
+        
+            
+            
+            &lt;li&gt;Toh Xue Hong (3.12)&lt;/li&gt;
+            
+        
+            
+            
+        
+            
+            
+            &lt;li&gt;Benjamin Chia (5.04)&lt;/li&gt;
+            
+        
+            
+            
+        
+            
+            
+            &lt;li&gt;Dylan Michael Chong (5.05)&lt;/li&gt;
+            
+        
+            
+            
+        
+            
+            
+            &lt;li&gt;Julian Khong (5.09)&lt;/li&gt;
+            
+        
+            
+            
+        
+            
+            
+            &lt;li&gt;Jarrett Tan (6.02)&lt;/li&gt;
+            
+        
+            
+            
+        
+    &lt;/div&gt;
+&lt;/div&gt;</content><author><name>8059 Blank</name></author><summary type="html">Creation of Anglo-Chinese School (Independent) in Minecraft</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/projects/club/AC%20Minecraft/cover.png" /><media:content medium="image" url="http://localhost:4000/projects/club/AC%20Minecraft/cover.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">AC Minecraft</title><link href="http://localhost:4000/club/acs-minecraft-map/" rel="alternate" type="text/html" title="AC Minecraft" /><published>2020-05-26T00:00:00+08:00</published><updated>2020-05-26T00:00:00+08:00</updated><id>http://localhost:4000/club/acs-minecraft-map</id><content type="html" xml:base="http://localhost:4000/club/acs-minecraft-map/">&lt;p&gt;During the COVID-19 outbreak in Singapore, schools and workplaces were closed, and students were required to embark on full home-based learning online. In the light of this situation, our Robotics and Technological Society took our ACS(I) campus online, making a virtual rendition of our school in Minecraft. Working for over 3 months to complete this project, we are finally releasing it to our student body, where they were able to explore parts of school they had long missed with classmates. Our club is grateful for this opportunity to give back to the school family and use our creative skills to strengthen our AC bond in spirit while apart.&lt;/p&gt;</content><author><name>8059 Blank</name></author><summary type="html">Creation of Anglo-Chinese School (Independent) in Minecraft</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/projects/club/AC%20Minecraft/cover.png" /><media:content medium="image" url="http://localhost:4000/projects/club/AC%20Minecraft/cover.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Artist’s Masterpiece</title><link href="http://localhost:4000/individual/artists-masterpiece/" rel="alternate" type="text/html" title="The Artist's Masterpiece" /><published>2020-05-11T00:00:00+08:00</published><updated>2020-05-11T00:00:00+08:00</updated><id>http://localhost:4000/individual/artists-masterpiece</id><content type="html" xml:base="http://localhost:4000/individual/artists-masterpiece/">&lt;p&gt;&lt;a href=&quot;../../projects/indiv/2020-05-11-artists-masterpiece/Artists-Masterpiece.exe&quot;&gt;EXE Download&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;(Note: This game can only be played if you download Adobe Flash Like getting a Nintendo to play Super Mario)&lt;/p&gt;
 
@@ -90,85 +325,7 @@
   &lt;li&gt;
     &lt;p&gt;Stay true to the type of game being created, build the game around the basic mechanics of the game to keep the gameplay constant.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Nicholas Quek</name></author><summary type="html">EXE Download</summary></entry><entry><title type="html">Flappy Bird Multiplayer</title><link href="http://localhost:4000/individual/flappy-bird-multiplayer/" rel="alternate" type="text/html" title="Flappy Bird Multiplayer" /><published>2020-05-11T00:00:00+08:00</published><updated>2020-05-11T00:00:00+08:00</updated><id>http://localhost:4000/individual/flappy-bird-multiplayer</id><content type="html" xml:base="http://localhost:4000/individual/flappy-bird-multiplayer/">&lt;p&gt;&lt;a href=&quot;../../projects/indiv/2020-05-11-flappy-bird-multiplayer/FlappyBird001.jar&quot;&gt;JAR Download&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Flappy bird is the classic game where the bird needs to jump through pipes as long as it can if not it will fall to its doom! Now this version of flappy bird enables local multiplayer!&lt;/p&gt;
-
-&lt;h2 id=&quot;implementation&quot;&gt;Implementation&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;Set up the file (Create your JPanel, JFrame, and etc.)&lt;/li&gt;
-  &lt;li&gt;Turn your background into blue through your JPanel&lt;/li&gt;
-  &lt;li&gt;import these things
-    &lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.Color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.Font&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.Graphics&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.Image&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.Rectangle&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.Toolkit&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.event.ActionEvent&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.awt.event.ActionListener&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.io.InputStream&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.net.URL&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;javax.swing.Timer&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.util.Random&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Create green ground below by creating a rectangle&lt;/li&gt;
-  &lt;li&gt;Add the moving pipes
- a. Add a timer
-    &lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &lt;span class=&quot;nc&quot;&gt;Timer&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;t&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Timer&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;ActionListener&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
- &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-
-    &lt;p&gt;b. Create pipe with this format&lt;/p&gt;
-    &lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &lt;span class=&quot;nc&quot;&gt;Rectangle&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r2&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Rectangle&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pipex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pipey&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]+&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;250&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;80&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1100&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
- &lt;span class=&quot;nc&quot;&gt;Rectangle&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r3&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;Rectangle&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pipex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;80&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pipey&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;squeeze&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-    &lt;p&gt;Explanation:&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;In which &lt;code class=&quot;highlighter-rouge&quot;&gt;pipex[0]&lt;/code&gt; is x coordinate&lt;/li&gt;
-      &lt;li&gt;Y coordinate for top pipe is 0&lt;/li&gt;
-      &lt;li&gt;Height of top pipe = &lt;code class=&quot;highlighter-rouge&quot;&gt;pipey[0] + squeeze&lt;/code&gt; (so pipe can be smaller)&lt;/li&gt;
-      &lt;li&gt;Y coordinate for bottom pipe is &lt;code class=&quot;highlighter-rouge&quot;&gt;pipey[0] + 250&lt;/code&gt; (basically this is how big the pipe is)&lt;/li&gt;
-      &lt;li&gt;80 is width of both pipes&lt;/li&gt;
-      &lt;li&gt;(Remember to fill the rectangles with the exact same format)&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p&gt;c. In the timer write this code so this means that the pipes will move towards the left creating an illusion for the birds&lt;/p&gt;
-    &lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &lt;span class=&quot;n&quot;&gt;pipex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]-=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;constant&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
- &lt;span class=&quot;n&quot;&gt;pipex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]-=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;constant&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
- &lt;span class=&quot;n&quot;&gt;pipex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]-=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;constant&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
- &lt;span class=&quot;n&quot;&gt;pipex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]-=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;constant&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-    &lt;p&gt;d. Write a code so that when the pipes reach a certain x coordinate, it will teleport into another x coordinate, creating a loop&lt;/p&gt;
-
-    &lt;p&gt;e. If you want, add a randomizer in code d so your pipes can have a bigger variety&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Add the bird
- a. Add a rectangle which has customizable y coordinate
- b. Add an image corresponding to the rectangle
- c. In the counter make it so that the bird always falls in an accelerating rate
- d. Add a function so when you press the up-key, the bird goes up, the acceleration stops for a few ticks, and the bird also has reduced speed
- e. Make it so that when the Bird intersects with the roof, ground , or pipes it dies (removed from screen)
- f. Repeat for the other bird&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Add scoreboard
- a. In the timer, add a code in which so every certain amount of ticks a score variable increases
- b. Repeat for the other bird
- c. Show scores on the ground&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Create dying mechanism
- a. Make it so that when both birds die it switches to game over screen
- b. Show who won, and their respective scores&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Create a loop so you can restart the game&lt;/li&gt;
-  &lt;li&gt;Save in a jar file&lt;/li&gt;
-  &lt;li&gt;Your game is done&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Kenneth Hendra</name></author><summary type="html">JAR Download</summary></entry><entry><title type="html">Aspera</title><link href="http://localhost:4000/individual/aspera/" rel="alternate" type="text/html" title="Aspera" /><published>2020-05-03T00:00:00+08:00</published><updated>2020-05-03T00:00:00+08:00</updated><id>http://localhost:4000/individual/aspera</id><content type="html" xml:base="http://localhost:4000/individual/aspera/">&lt;p&gt;&lt;a href=&quot;../../projects/indiv/2020-05-03-aspera/index.html&quot;&gt;Project Demo&lt;/a&gt;&lt;/p&gt;
+&lt;/ol&gt;</content><author><name>Nicholas Quek</name></author><summary type="html">EXE Download</summary></entry><entry><title type="html">Aspera</title><link href="http://localhost:4000/individual/aspera/" rel="alternate" type="text/html" title="Aspera" /><published>2020-05-03T00:00:00+08:00</published><updated>2020-05-03T00:00:00+08:00</updated><id>http://localhost:4000/individual/aspera</id><content type="html" xml:base="http://localhost:4000/individual/aspera/">&lt;p&gt;&lt;a href=&quot;../../projects/indiv/2020-05-03-aspera/index.html&quot;&gt;Project Demo&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;intro&quot;&gt;Intro:&lt;/h2&gt;
 

@@ -11,15 +11,21 @@ var store = [{
         "url": "http://localhost:4000/individual/artists-masterpiece/",
         "teaser": null
       },{
-        "title": "Flappy Bird Multiplayer",
-        "excerpt":"JAR Download Overview Flappy bird is the classic game where the bird needs to jump through pipes as long as it can if not it will fall to its doom! Now this version of flappy bird enables local multiplayer! Implementation Set up the file (Create your JPanel, JFrame, and etc.)...","categories": ["individual"],
+        "title": "AC Minecraft",
+        "excerpt":"During the COVID-19 outbreak in Singapore, schools and workplaces were closed, and students were required to embark on full home-based learning online. In the light of this situation, our Robotics and Technological Society took our ACS(I) campus online, making a virtual rendition of our school in Minecraft. Working for over...","categories": ["club"],
         "tags": [],
-        "url": "http://localhost:4000/individual/flappy-bird-multiplayer/",
+        "url": "http://localhost:4000/club/acs-minecraft-map/",
         "teaser": null
       },{
         "title": "AC Minecraft",
-        "excerpt":" ","categories": ["club"],
-        "tags": ["Minecraft"],
+        "excerpt":"During the COVID-19 outbreak in Singapore, schools and workplaces were closed, and students were required to embark on full home-based learning online. In the light of this situation, the Robotics and Technological Society took our ACS(I) campus online, making a virtual rendition of our school in Minecraft. Working for over...","categories": ["club"],
+        "tags": [],
         "url": "http://localhost:4000/club/acs-minecraft-map/",
+        "teaser": null
+      },{
+        "title": "Making a Snake Game",
+        "excerpt":"This project was my first real project I ever really took the time to properly finish, and it was quite an enriching experience for me. I learnt more about python and more specifically, pygame, which before this I was quite inexperienced in. I began by trying to plan the code...","categories": ["individual"],
+        "tags": [],
+        "url": "http://localhost:4000/individual/snake-game/",
         "teaser": null
       }]
