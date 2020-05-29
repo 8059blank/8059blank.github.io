@@ -1,4 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-29T17:26:24+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">8059 Blank</title><subtitle>Anglo Chinese School (Independent)</subtitle><author><name>8059 Blank</name></author><entry><title type="html">Making a Snake Game</title><link href="http://localhost:4000/individual/snake-game/" rel="alternate" type="text/html" title="Making a Snake Game" /><published>2020-05-29T00:00:00+08:00</published><updated>2020-05-29T00:00:00+08:00</updated><id>http://localhost:4000/individual/snake-game</id><content type="html" xml:base="http://localhost:4000/individual/snake-game/">&lt;p&gt;This project was my first real project I ever really took the time to properly finish, and it was quite an enriching experience for me. I learnt more about python and more specifically, pygame, which before this I was quite inexperienced in.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-29T23:24:21+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">8059 Blank</title><subtitle>Anglo Chinese School (Independent)</subtitle><author><name>8059 Blank</name></author><entry><title type="html">AC Minecraft</title><link href="http://localhost:4000/club/acs-minecraft-map/" rel="alternate" type="text/html" title="AC Minecraft" /><published>2020-05-29T00:00:00+08:00</published><updated>2020-05-29T00:00:00+08:00</updated><id>http://localhost:4000/club/acs-minecraft-map</id><content type="html" xml:base="http://localhost:4000/club/acs-minecraft-map/">&lt;style&gt;
+.two-col-flex{
+    column-count: 2;
+}
+
+@media (max-width: 800px) {
+    .two-col-flex{
+        column-count: 1;
+    }
+}
+
+.two-col-flex li {
+  /* Just in case there are inline attributes */
+  width: 100% !important;
+  height: auto !important;
+}
+&lt;/style&gt;
+
+&lt;p&gt;During the COVID-19 outbreak in Singapore, schools and workplaces were closed, and students were required to embark on full home-based learning online. In the light of this situation, the Robotics and Technological Society took our ACS(I) campus online, making a virtual rendition of our school in Minecraft. Working for over 3 months to complete this project, we are finally releasing it to the student body on 1st June 2020, where they were able to explore parts of school they had long missed with classmates. Our club is grateful for this opportunity to give back to the school family and use our creative skills to strengthen our AC bond in spirit while apart.&lt;/p&gt;
+
+&lt;h2 id=&quot;contributors&quot;&gt;Contributors&lt;/h2&gt;
+
+&lt;section class=&quot;two-col-flex&quot;&gt;
+    
+        &lt;li&gt;Marcus Chin (3.07)&lt;/li&gt;
+    
+        &lt;li&gt;Ryan Yap (3.09)&lt;/li&gt;
+    
+        &lt;li&gt;Quek Teck Yong (3.11)&lt;/li&gt;
+    
+        &lt;li&gt;Wong Yeh Siang (3.11)&lt;/li&gt;
+    
+        &lt;li&gt;Joel Teo (3.11)&lt;/li&gt;
+    
+        &lt;li&gt;Chen An Hong (3.12)&lt;/li&gt;
+    
+        &lt;li&gt;Zachary Lim (3.12)&lt;/li&gt;
+    
+        &lt;li&gt;Toh Xue Hong (3.12)&lt;/li&gt;
+    
+        &lt;li&gt;Marcus Quek (4.12)&lt;/li&gt;
+    
+        &lt;li&gt;Benjamin Chia (5.04)&lt;/li&gt;
+    
+        &lt;li&gt;Yuan Jing Xin (5.04)&lt;/li&gt;
+    
+        &lt;li&gt;Dylan Michael Chong (5.05)&lt;/li&gt;
+    
+        &lt;li&gt;Aloysius Wong (5.08)&lt;/li&gt;
+    
+        &lt;li&gt;Julian Khong (5.09)&lt;/li&gt;
+    
+        &lt;li&gt;Evans Soh (5.13)&lt;/li&gt;
+    
+        &lt;li&gt;Jarrett Tan (6.02)&lt;/li&gt;
+    
+        &lt;li&gt;Alvin Ng (6.04)&lt;/li&gt;
+    
+&lt;/section&gt;</content><author><name>8059 Blank</name></author><summary type="html">Creation of Anglo-Chinese School (Independent) in Minecraft</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/projects/club/AC%20Minecraft/cover.png" /><media:content medium="image" url="http://localhost:4000/projects/club/AC%20Minecraft/cover.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Making a Snake Game</title><link href="http://localhost:4000/individual/snake-game/" rel="alternate" type="text/html" title="Making a Snake Game" /><published>2020-05-29T00:00:00+08:00</published><updated>2020-05-29T00:00:00+08:00</updated><id>http://localhost:4000/individual/snake-game</id><content type="html" xml:base="http://localhost:4000/individual/snake-game/">&lt;p&gt;This project was my first real project I ever really took the time to properly finish, and it was quite an enriching experience for me. I learnt more about python and more specifically, pygame, which before this I was quite inexperienced in.&lt;/p&gt;
 
 &lt;p&gt;I began by trying to plan the code out in my head. I decided where roughly each part of the code will be, but other than that it was a very simple plan. On hindsight, I should have spent more work and time on the plan, and not have rushed into the code.&lt;/p&gt;
 
@@ -87,65 +145,7 @@ snakeheadx,snakeheady = cells[131][0],cells[131][1]&lt;/p&gt;
 
 &lt;p&gt;Lastly were the embellishments like the sound and the endscreen. I did not know much about sound and rendering text in pygame, but thanks to this project I managed to learn them.&lt;/p&gt;
 
-&lt;p&gt;Though snake is a very simple game to code compared to other games, the novice that I am had much to learn and had a very fun time doing this project over the course of the weekend. I look forward to doing something like this in the future again&lt;/p&gt;</content><author><name>Marcus Cheong</name></author><summary type="html">This project was my first real project I ever really took the time to properly finish, and it was quite an enriching experience for me. I learnt more about python and more specifically, pygame, which before this I was quite inexperienced in.</summary></entry><entry><title type="html">AC Minecraft</title><link href="http://localhost:4000/club/acs-minecraft-map/" rel="alternate" type="text/html" title="AC Minecraft" /><published>2020-05-29T00:00:00+08:00</published><updated>2020-05-29T00:00:00+08:00</updated><id>http://localhost:4000/club/acs-minecraft-map</id><content type="html" xml:base="http://localhost:4000/club/acs-minecraft-map/">&lt;style&gt;
-.two-col-flex{
-    column-count: 2;
-}
-
-@media (max-width: 800px) {
-    .two-col-flex{
-        column-count: 1;
-    }
-}
-
-.two-col-flex li {
-  /* Just in case there are inline attributes */
-  width: 100% !important;
-  height: auto !important;
-}
-&lt;/style&gt;
-
-&lt;p&gt;During the COVID-19 outbreak in Singapore, schools and workplaces were closed, and students were required to embark on full home-based learning online. In the light of this situation, the Robotics and Technological Society took our ACS(I) campus online, making a virtual rendition of our school in Minecraft. Working for over 3 months to complete this project, we are finally releasing it to the student body on 1st June 2020, where they were able to explore parts of school they had long missed with classmates. Our club is grateful for this opportunity to give back to the school family and use our creative skills to strengthen our AC bond in spirit while apart.&lt;/p&gt;
-
-&lt;h2 id=&quot;contributors&quot;&gt;Contributors&lt;/h2&gt;
-
-&lt;section class=&quot;two-col-flex&quot;&gt;
-    
-        &lt;li&gt;Marcus Chin (3.07)&lt;/li&gt;
-    
-        &lt;li&gt;Ryan Yap (3.09)&lt;/li&gt;
-    
-        &lt;li&gt;Quek Teck Yong (3.11)&lt;/li&gt;
-    
-        &lt;li&gt;Wong Yeh Siang (3.11)&lt;/li&gt;
-    
-        &lt;li&gt;Joel Teo (3.11)&lt;/li&gt;
-    
-        &lt;li&gt;Chen An Hong (3.12)&lt;/li&gt;
-    
-        &lt;li&gt;Zachary Lim (3.12)&lt;/li&gt;
-    
-        &lt;li&gt;Toh Xue Hong (3.12)&lt;/li&gt;
-    
-        &lt;li&gt;Marcus Quek (4.12)&lt;/li&gt;
-    
-        &lt;li&gt;Benjamin Chia (5.04)&lt;/li&gt;
-    
-        &lt;li&gt;Yuan Jing Xin (5.04)&lt;/li&gt;
-    
-        &lt;li&gt;Dylan Michael Chong (5.05)&lt;/li&gt;
-    
-        &lt;li&gt;Aloysius Wong (5.08)&lt;/li&gt;
-    
-        &lt;li&gt;Julian Khong (5.09)&lt;/li&gt;
-    
-        &lt;li&gt;Evans Soh (5.13)&lt;/li&gt;
-    
-        &lt;li&gt;Jarrett Tan (6.02)&lt;/li&gt;
-    
-        &lt;li&gt;Alvin Ng (6.04)&lt;/li&gt;
-    
-&lt;/section&gt;</content><author><name>8059 Blank</name></author><summary type="html">Creation of Anglo-Chinese School (Independent) in Minecraft</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/projects/club/AC%20Minecraft/cover.png" /><media:content medium="image" url="http://localhost:4000/projects/club/AC%20Minecraft/cover.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Artist’s Masterpiece</title><link href="http://localhost:4000/individual/artists-masterpiece/" rel="alternate" type="text/html" title="The Artist's Masterpiece" /><published>2020-05-11T00:00:00+08:00</published><updated>2020-05-11T00:00:00+08:00</updated><id>http://localhost:4000/individual/artists-masterpiece</id><content type="html" xml:base="http://localhost:4000/individual/artists-masterpiece/">&lt;p&gt;&lt;a href=&quot;../../projects/indiv/2020-05-11-artists-masterpiece/Artists-Masterpiece.exe&quot;&gt;EXE Download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Though snake is a very simple game to code compared to other games, the novice that I am had much to learn and had a very fun time doing this project over the course of the weekend. I look forward to doing something like this in the future again&lt;/p&gt;</content><author><name>Marcus Cheong</name></author><summary type="html">This project was my first real project I ever really took the time to properly finish, and it was quite an enriching experience for me. I learnt more about python and more specifically, pygame, which before this I was quite inexperienced in.</summary></entry><entry><title type="html">The Artist’s Masterpiece</title><link href="http://localhost:4000/individual/artists-masterpiece/" rel="alternate" type="text/html" title="The Artist's Masterpiece" /><published>2020-05-11T00:00:00+08:00</published><updated>2020-05-11T00:00:00+08:00</updated><id>http://localhost:4000/individual/artists-masterpiece</id><content type="html" xml:base="http://localhost:4000/individual/artists-masterpiece/">&lt;p&gt;&lt;a href=&quot;../../projects/indiv/2020-05-11-artists-masterpiece/Artists-Masterpiece.exe&quot;&gt;EXE Download&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;(Note: This game can only be played if you download Adobe Flash Like getting a Nintendo to play Super Mario)&lt;/p&gt;
 

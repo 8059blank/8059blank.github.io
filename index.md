@@ -3,8 +3,9 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_color: "#3e414c"
+  overlay_image: /images/overlay.jpg
+  overlay_filter: 0.5
   actions:
     - label: "Learn More"
       url: "/about/"
