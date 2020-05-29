@@ -22,25 +22,30 @@ Evans Soh (5.13),
 Jarrett Tan (6.02),
 Alvin Ng (6.04)]
 ---
+<style>
+.two-col-flex{
+    column-count: 2;
+}
+
+@media (max-width: 800px) {
+    .two-col-flex{
+        column-count: 1;
+    }
+}
+
+.two-col-flex li {
+  /* Just in case there are inline attributes */
+  width: 100% !important;
+  height: auto !important;
+}
+</style>
 
 During the COVID-19 outbreak in Singapore, schools and workplaces were closed, and students were required to embark on full home-based learning online. In the light of this situation, the Robotics and Technological Society took our ACS(I) campus online, making a virtual rendition of our school in Minecraft. Working for over 3 months to complete this project, we are finally releasing it to the student body on 1st June 2020, where they were able to explore parts of school they had long missed with classmates. Our club is grateful for this opportunity to give back to the school family and use our creative skills to strengthen our AC bond in spirit while apart.
 
 ## Contributors
-<div style="display:flex">
-    <div style="width:50%">
-        {% for name in page.contrib %}
-            {% assign mod2 = forloop.index | modulo: 2 %}
-            {% if mod2 == 1 %}
-            <li>{{name}}</li>
-            {% endif %}
-        {% endfor %}
-    </div>
-    <div style="width:50%">
-        {% for name in page.contrib %}
-            {% assign mod2 = forloop.index | modulo: 2 %}
-            {% if mod2 == 0 %}
-            <li>{{name}}</li>
-            {% endif %}
-        {% endfor %}
-    </div>
-</div>
+
+<section class="two-col-flex">
+    {% for name in page.contrib %}
+        <li>{{name}}</li>
+    {% endfor %}
+</section>

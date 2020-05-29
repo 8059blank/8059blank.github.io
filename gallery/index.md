@@ -5,8 +5,8 @@ title: Gallery
 {% assign gallery = site.static_files | where_exp: "x", "x.path contains '/gallery/'" | sort:"path" | reverse | group_by_exp: "image", "image.path | split:'/' | slice: 2" %}
 
 <style>
-  #photos {
-  line-height: 1;
+  .gallery-col-format {
+  line-height: 0;
    
   -webkit-column-count: 5;
   -webkit-column-gap:   0px;
@@ -15,35 +15,35 @@ title: Gallery
   column-count:         5;
   }
 @media (max-width: 1200px) {
-  #photos {
+  .gallery-col-format {
     -moz-column-count:    4;
     -webkit-column-count: 4;
     column-count:         4;
   }
 }
 @media (max-width: 1000px) {
-  #photos {
+  .gallery-col-format {
   -moz-column-count:    3;
   -webkit-column-count: 3;
   column-count:         3;
   }
 }
 @media (max-width: 800px) {
-  #photos {
+  .gallery-col-format {
   -moz-column-count:    2;
   -webkit-column-count: 2;
   column-count:         2;
   }
 }
 @media (max-width: 400px) {
-  #photos {
+  .gallery-col-format {
   -moz-column-count:    1;
   -webkit-column-count: 1;
   column-count:         1;
   } 
 }
 
-#photos img {
+.gallery-col-format img {
   /* Just in case there are inline attributes */
   padding: 5px;
   width: 100% !important;
@@ -65,7 +65,7 @@ title: Gallery
   <section id="{{ year.name }}" class="taxonomy__section">
     <h2 class="archive__subtitle">{{ year.name }}</h2>
     <div class="entries-{{ page.entries_layout | default: 'list' }}">
-    <section id="photos">
+    <section class="gallery-col-format">
       {% for image in year.items %}
         <img src="{{ site.baseurl }}{{ image.path }}"/>
       {% endfor %}
