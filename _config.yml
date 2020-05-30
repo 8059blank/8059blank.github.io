@@ -96,7 +96,7 @@ author:
   name             : "8059Blank."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Anglo Chinese School (Independent)"
-  location         : #"Somewhere"
+  location         : "Singapore"
   email            :
   links:
     - label: "Email"
@@ -117,6 +117,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/8059blank/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: https://www.youtube.com/channel/UC7e6cLG3RlxN_Gfss6cpRGA
 
 # Site Footer
 footer:
