@@ -61,7 +61,7 @@ During the COVID-19 outbreak in Singapore, schools and workplaces were closed, a
 ## ACS(I) Resource Pack Download
 Click on each image to download individual resource packs.
 
-<button onclick="location.href='http://www.google.com'" type="button">Download All</button>
+<button style="background-color: #4CAF50;  border: none;  color: white;  padding: 15px 32px;  text-align: center;  text-decoration: none;  display: inline-block;  font-size: 16px;" onclick="location.href='http://www.google.com'" type="button">Download All</button>
 
 <a href=""><img src="../../projects/club/AC-Minecraft/ibmale.png" class="image-width-flex"></a>
 <a href=""><img src="../../projects/club/AC-Minecraft/ibfemale.png" class="image-width-flex"></a>
