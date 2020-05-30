@@ -11,7 +11,7 @@ var store = [{
         "url": "http://localhost:4000/individual/artists-masterpiece/",
         "teaser": null
       },{
-        "title": "AC Minecraft",
+        "title": "Minecraft - ACS(Independent) Edition",
         "excerpt":"During the COVID-19 outbreak in Singapore, schools and workplaces were closed, and students were required to embark on full home-based learning online. In the light of this situation, the Robotics and Technological Society took our ACS(I) campus online, making a virtual rendition of our school in Minecraft. Working for over...","categories": ["club"],
         "tags": [],
         "url": "http://localhost:4000/club/acs-minecraft-map/",
