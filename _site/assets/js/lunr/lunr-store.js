@@ -34,4 +34,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/individual/3D-printers-101/",
         "teaser": null
+      },{
+        "title": "3D Printers 102",
+        "excerpt":"You really want to know how each part works, if not good luck fixing your printer. Parts of a 3d Printer Recap. You should have been paying attention to 3d printers 101 :( Source: http://my3dconcepts.com/explore/main-components-of-desktop-3d-printers/ Nozzle (found attatched to your hotend) Nozzle Size Nozzle diameters affect many aspects of your...","categories": ["individual"],
+        "tags": [],
+        "url": "http://localhost:4000/individual/3D-printers-102/",
+        "teaser": null
       }]
