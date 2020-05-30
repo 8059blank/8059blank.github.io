@@ -22,4 +22,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/individual/snake-game/",
         "teaser": null
+      },{
+        "title": "3D Printers 101",
+        "excerpt":"3D printing may seem hard, but this should introduce you to all the basic concepts and ideas in 3D printing. Parts of a 3D Printer Just the important parts and their names. We will be calling them by these names as we go on. Source: http://my3dconcepts.com/explore/main-components-of-desktop-3d-printers/ Note: not all printers...","categories": ["individual"],
+        "tags": [],
+        "url": "http://localhost:4000/individual/3D-printers-101/",
+        "teaser": null
       }]

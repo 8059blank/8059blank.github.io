@@ -65,15 +65,27 @@ title: Gallery
   <section id="{{ year.name }}" class="taxonomy__section">
     <h2 class="archive__subtitle">{{ year.name }}</h2>
     <div class="entries-{{ page.entries_layout | default: 'list' }}">
+    {% assign captionFound=false %}
+    {% for file in year.items %}
+      {% if file.name == "caption.md" %}
+        {% assign captionFound=true %}
+      {% endif %}
+    {% endfor %}
+    {% if captionFound %}
+      {% capture captionPathRelative %}/{{ year.name }}/caption.md{% endcapture %}
+      {% if captionPathRelative %}
+        {% capture caption %}{% include_relative {{ captionPathRelative }} %}{% endcapture %}
+        {{ caption | markdownify }}
+      {% endif %}
+    {% endif %}
     <section class="gallery-col-format">
       {% for image in year.items %}
+        {% unless image.extname == ".txt" or image.extname == ".md" %}
         <img src="{{ site.baseurl }}{{ image.path }}"/>
+        {% endunless %}
       {% endfor %}
     </section>
     </div>
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
 {% endfor %}
-
-<!--img style="margin:10; border-radius:3px; width:33%; display: inline;" src="{{ site.baseurl }}{{ image.path }}"/-->  
-<!--{% include archive-single.html type=page.entries_layout %}-->

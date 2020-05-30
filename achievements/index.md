@@ -11,10 +11,12 @@ title: Achievements
 - VEX Robotics World Championship - High School Math Division Champion, Amaze Award
 - Singapore VEX Robotics Championship - Tournament Finalists (Tertiary), Create Award
 - National Olympiad in Informatics - 3 Silver, 5 Bronze
+- 3D-tronics - Overall Champion 
+- Student TechBlazer Award - Bronze
 
 ## 2018
-- Singapore VEX Robotics Championship - Tournament Champion (Tertiary), Excellence Award
-- VEX Robotics World Championship - High School Math Division Champion, Inspire Award, Amaze Award
+- Singapore VEX Robotics Championship - Tournament Champion (Tertiary), Excellence Award, Amaze Award, Inspire Award
+- VEX Robotics World Championship - High School Math Division Champion, Innovate Award, Amaze Award
 - FIRST Global Winning Alliance Award - Gold
 - FIRST Global Grand Challenge Award - Silver
 - FIRST Global Challenge Award - Bronze
