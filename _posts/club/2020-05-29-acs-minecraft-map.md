@@ -21,6 +21,8 @@ Julian Khong (5.09),
 Evans Soh (5.13),
 Jarrett Tan (6.02),
 Alvin Ng (6.04)]
+download_tracker: onClick="_gaq.push(['_trackEvent','File Download',this.href]);"
+download_tracker_all_btn: onClick="location.href='../../projects/club/AC-Minecraft/AC-Minecraft-Resource-Pack-All.zip';_gaq.push(['_trackEvent','File Download',this.href]);"
 ---
 <style>
 .two-col-flex{
@@ -61,12 +63,12 @@ During the COVID-19 outbreak in Singapore, schools and workplaces were closed, a
 ## ACS(I) Resource Pack Download
 Click on each image to download individual resource packs.
 
-<button style="background-color: #4CAF50;  border: none;  color: white;  padding: 15px 32px;  text-align: center;  text-decoration: none;  display: inline-block;  font-size: 16px;" onclick="location.href='../../projects/club/AC-Minecraft/AC-Minecraft-Resource-Pack-All.zip'" type="button">Download All</button>
+<button style="background-color: #4CAF50;  border: none;  color: white;  padding: 15px 32px;  text-align: center;  text-decoration: none;  display: inline-block;  font-size: 16px;" {{ page.download_tracker_all_btn }} type="button">Download All</button>
 
-<a href="../../projects/club/AC-Minecraft/IB-Male-Skin.zip"><img src="../../projects/club/AC-Minecraft/ibmale.png" class="image-width-flex"></a>
-<a href="../../projects/club/AC-Minecraft/IB-Female-Skin.zip"><img src="../../projects/club/AC-Minecraft/ibfemale.png" class="image-width-flex"></a>
-<a href="../../projects/club/AC-Minecraft/Secondary-Pants-Skin.zip"><img src="../../projects/club/AC-Minecraft/sec1.png" class="image-width-flex"></a>
-<a href="../../projects/club/AC-Minecraft/Secondary-Berms-Skin.zip"><img src="../../projects/club/AC-Minecraft/sec2.png" class="image-width-flex"></a>
+<a href="../../projects/club/AC-Minecraft/IB-Male-Skin.zip" {{ page.download_tracker }}><img src="../../projects/club/AC-Minecraft/ibmale.png" class="image-width-flex"></a>
+<a href="../../projects/club/AC-Minecraft/IB-Female-Skin.zip" {{ page.download_tracker }}><img src="../../projects/club/AC-Minecraft/ibfemale.png" class="image-width-flex"></a>
+<a href="../../projects/club/AC-Minecraft/Secondary-Pants-Skin.zip" {{ page.download_tracker }}><img src="../../projects/club/AC-Minecraft/sec1.png" class="image-width-flex"></a>
+<a href="../../projects/club/AC-Minecraft/Secondary-Berms-Skin.zip" {{ page.download_tracker }}><img src="../../projects/club/AC-Minecraft/sec2.png" class="image-width-flex"></a>
 
 
 ## Contributors
