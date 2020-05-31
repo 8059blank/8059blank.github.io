@@ -1,4 +1,114 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-31T18:08:10+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">8059Blank.</title><subtitle>Anglo Chinese School (Independent)</subtitle><author><name>8059Blank.</name></author><entry><title type="html">3D Printers 101</title><link href="http://localhost:4000/individual/3D-printers-101/" rel="alternate" type="text/html" title="3D Printers 101" /><published>2020-05-30T00:00:00+08:00</published><updated>2020-05-30T00:00:00+08:00</updated><id>http://localhost:4000/individual/3D-printers-101</id><content type="html" xml:base="http://localhost:4000/individual/3D-printers-101/">&lt;p&gt;3D printing may seem hard, but this should introduce you to all the basic concepts and ideas in 3D printing.&lt;/p&gt;
+
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-31T02:57:38+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">8059Blank.</title><subtitle>Anglo Chinese School (Independent)</subtitle><author><name>8059Blank.</name></author><entry><title type="html">3D Printers 102</title><link href="http://localhost:4000/individual/3D-printers-102/" rel="alternate" type="text/html" title="3D Printers 102" /><published>2020-05-31T00:00:00+08:00</published><updated>2020-05-31T00:00:00+08:00</updated><id>http://localhost:4000/individual/3D-printers-102</id><content type="html" xml:base="http://localhost:4000/individual/3D-printers-102/">&lt;p&gt;You really want to know how each part works, if not good luck fixing your printer.&lt;/p&gt;
+&lt;h2 id=&quot;parts-of-a-3d-printer&quot;&gt;Parts of a 3d Printer&lt;/h2&gt;
+&lt;p&gt;Recap. You should have been paying attention to 3d printers 101 :(&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://my3dconcepts.com/wp-content/uploads/2017/01/Hardware-components-of-FDM-3D-Printers.jpg&quot; alt=&quot;Main Components of FDM 3D Printers&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href=&quot;http://my3dconcepts.com/explore/main-components-of-desktop-3d-printers/&quot;&gt;http://my3dconcepts.com/explore/main-components-of-desktop-3d-printers/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;nozzle-found-attatched-to-your-hotend&quot;&gt;Nozzle (found attatched to your hotend)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cf.shopee.sg/file/872ec0fa3eb6c89b7c7dc7c573c896c3&quot; alt=&quot;24 Pack 3D Printer Extruder Nozzles Mk8 Nozzle 7 Different ...&quot; width=&quot;500px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nozzle Size&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Nozzle diameters affect many aspects of your print, from precision to speed. The goal is to balance speed and precision in your prints.&lt;/p&gt;
+
+&lt;p&gt;Larger Nozzles (&amp;gt;0.4mm)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Faster print time&lt;/li&gt;
+  &lt;li&gt;Fewer maintainance/nozzle-related errors&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Smaller Nozzles (&amp;lt;0.4mm)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;High Precision&lt;/li&gt;
+  &lt;li&gt;More maintainance (clogging)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Commonly, most people use 0.4mm nozzles as it has a good balance between speed and precision. As such, it is commonly recommended to go for 0.4mm nozzles.&lt;/p&gt;
+
+&lt;h2 id=&quot;hot-end&quot;&gt;Hot end&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://3dprint.com/wp-content/uploads/2015/04/e2.png&quot; alt=&quot;E3D Unveils Most Affordable 3D Printer Hotend Yet, The E3D Lite6 ...&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The hotend melts the filament into thin lines for printing. The quality and type of the hotend affects the chances of failed prints and the print quality. Hotends also affect the types of materials you can print with as different hotends support different temperature heating. Generally, all-metal hotends are more expensive, offer higher temperatures and overall better quality compraed to standard hotends.&lt;/p&gt;
+
+&lt;h2 id=&quot;cooling-part-cooling-fans&quot;&gt;Cooling (Part cooling fans)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQCOUIz3epw2B95JHHunCMmhmy4_t-w5HxmC58k9PV8ULE25h0&amp;amp;usqp=CAU&quot; alt=&quot;CREALITY ORIGINAL HOT End Fan Shroud Cover Part Cooling Fans ...&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Part cooling fans cools the hot freshly extruded plastic as soon as it exits the nozzle. This eliminates various forms of print problems. However, there are several materials such as ABS that will create more problems with a part cooling fan on. As such, it is recommended to always check if a part cooling fan is needed for different materials. For most filaments such as PLA, a part cooling fan is recommended.&lt;/p&gt;
+
+&lt;p&gt;FYI: our school uses PLA mostly, so ensure the part cooling fan is on and working.&lt;/p&gt;
+
+&lt;h2 id=&quot;print-bed&quot;&gt;Print Bed&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://blog-assets.pinshape.com/blog/wp-content/uploads/2015/12/02121244/HBP200-6.jpg&quot; alt=&quot;Ultimate Beginners Guide: How Do 3D Printers Work&quot; width=&quot;500px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Heated beds&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Heats up the bed.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;More stable prints / Better bed adhesion&lt;/li&gt;
+  &lt;li&gt;Reduced warping (warping occurs due to uneven cooling at the edges comapred to the interior. A heated bed prevents that)&lt;/li&gt;
+  &lt;li&gt;Allows you to print different types of materials&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Non-heated Beds&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Basically non heated…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So…&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Heated beds are helpful but not always necessary. Different materials require different temperature and sometimes heated beds. However, high print quality can still be achieved with a heated bed.&lt;/p&gt;
+
+&lt;h2 id=&quot;direct-drive-extrusion-vs-bowden-extrusion&quot;&gt;Direct Drive extrusion vs Bowden extrusion&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Direct extrusion:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn.thingiverse.com/renders/20/2f/72/39/ca/e1a3a6275f80a1bdf3ecbe4f7468b546_preview_featured.jpg&quot; alt=&quot;MK8 direct drive extruder 7mm pulley adapter by dasaki - Thingiverse&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Basically, filament enters the nozzle directly&lt;/p&gt;
+
+&lt;p&gt;Pros:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Better extrusion (the motor can easily push filament through the nozzle)&lt;/li&gt;
+  &lt;li&gt;Faster retraction (Because the extruder is literally next to the nozzle, it can retract filament better)&lt;/li&gt;
+  &lt;li&gt;Wide range of materials that can be printed (It works for lots and lots of filaments)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Cons:
+Since there is an increased weight from the extruder and its motor, the additional weight can result in backlash, banding, overshoot or frame wobble. Basically, increased weight, so you get more wobble and problems with your movement. And this results in a possible loss of accuracy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bowden Extrusion:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.ibb.co/THHHF62/Inkeddirectvsbowden-LI.jpg&quot; alt=&quot;Inkeddirectvsbowden-LI&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Filament is pushed through the PTFE tubing by the extruder before reaching the hotend/nozzle.&lt;/p&gt;
+
+&lt;p&gt;Pros:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Lighter (Less weight, faster and no more direct extrusion problems)&lt;/li&gt;
+  &lt;li&gt;Faster print (lighter weight results in faster movements and thus faster prints at high speeds)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Cons:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Slow response times due to more friction within the PTFE tubing. Bowden extruders also require longer and faster retraction compared to direct extrusion.&lt;/li&gt;
+  &lt;li&gt;Less materials that can be printed. (Flexible filaments and abrasive filaments dont really like PTFE tubing and causes binding)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;So which one then?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Its more of what do you need…&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Do you want speed, precision and standard materials? Go for bowden extrusion.&lt;/li&gt;
+  &lt;li&gt;Do you want a wider range of materials to print from? Go for direct extrusion&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;FYI: our school uses bowden extrusion, because we dont print with flexible filaments and mostly for its speed.&lt;/p&gt;</content><author><name>Sean Seah</name></author><summary type="html">You really want to know how each part works, if not good luck fixing your printer. Parts of a 3d Printer Recap. You should have been paying attention to 3d printers 101 :(</summary></entry><entry><title type="html">3D Printers 101</title><link href="http://localhost:4000/individual/3D-printers-101/" rel="alternate" type="text/html" title="3D Printers 101" /><published>2020-05-30T00:00:00+08:00</published><updated>2020-05-30T00:00:00+08:00</updated><id>http://localhost:4000/individual/3D-printers-101</id><content type="html" xml:base="http://localhost:4000/individual/3D-printers-101/">&lt;p&gt;3D printing may seem hard, but this should introduce you to all the basic concepts and ideas in 3D printing.&lt;/p&gt;
 
 &lt;h2 id=&quot;parts-of-a-3d-printer&quot;&gt;Parts of a 3D Printer&lt;/h2&gt;
 
@@ -1028,4 +1138,12 @@ snakeheadx,snakeheady = cells[131][0],cells[131][1]&lt;/p&gt;
 &lt;p&gt;Lastly, I wanted to include some way for the player to regenerate health. First, I tried making some enemies have a heal tag so when they die the player regenerates health. However, it was perhaps too effective, especially late-game, with many many enemies spawning at the same time. The player was basically invincible. When I tried lowering the chance for an enemy to carry the heal tag, it became so negligible that it wasn’t really that useful anymore. Thus, I got rid of that idea, and tried spawning in a healer that heals the player every 20 points or so. It actually sounded pretty cool, but was really difficult. I may consider adding that some day. Lastly, I made it such that the player heals every 100 points, similar to the healer. However, like before, it was too overpowered late-game, and the player became invincible. Thus, I tried making the player shoot multiple bullets per shot. At first, I made the bullets shoot horizontally, sort of like a shotgun but the bullets remain parallel. It was pretty easy to implement, but I realised that the player could just stay in a corner and become practically untouchable. Thus, I changed the power up to a burst shot, where the bullets lined up horizontally, and made the player lose health when touching the walls. Sometime after making this write-up, I thought “hey, wouldn’t it be cool if the bullets bounced off the walls?” So I added a health value to the bullet, and when bouncing off walls or hitting enemies, the health would go down by one, with this value increasing every 50 points. At the same time, I got rid of the losing-health-when-touching-walls mechanism, and replaced it with a bounce-off-the-walls mechanism, which complemented my bullets bouncing off the walls.&lt;/p&gt;
 &lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
 
-&lt;p&gt;In conclusion, this game has been pretty enjoyable to make, and I also learnt a lot from it. For example, I learnt how to track the mouse’s location in the canvas, how to track &lt;code class=&quot;highlighter-rouge&quot;&gt;keydown&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;keyup&lt;/code&gt;, the purpose of &lt;code class=&quot;highlighter-rouge&quot;&gt;setTimeout()&lt;/code&gt; and why it is superior to just using a while loop, how to store data locally in the browser’s cache and even something as simple as just making the canvas fit the size of the window, and something as trivial as how &lt;code class=&quot;highlighter-rouge&quot;&gt;Math.random&lt;/code&gt; obtains a random value which helped entertain me while I was stuck at something. I intend to keep updating the game with more game modes, maybe one where the player controls the enemies and the tank is controlled by the computer. Also, I am working on another game now, but it will probably take a much longer time to make. And you might want to try using the Konami code at the game over screen :)&lt;/p&gt;</content><author><name>Lucas Tan</name></author><summary type="html">Project Demo</summary></entry></feed>
+&lt;p&gt;In conclusion, this game has been pretty enjoyable to make, and I also learnt a lot from it. For example, I learnt how to track the mouse’s location in the canvas, how to track &lt;code class=&quot;highlighter-rouge&quot;&gt;keydown&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;keyup&lt;/code&gt;, the purpose of &lt;code class=&quot;highlighter-rouge&quot;&gt;setTimeout()&lt;/code&gt; and why it is superior to just using a while loop, how to store data locally in the browser’s cache and even something as simple as just making the canvas fit the size of the window, and something as trivial as how &lt;code class=&quot;highlighter-rouge&quot;&gt;Math.random&lt;/code&gt; obtains a random value which helped entertain me while I was stuck at something. I intend to keep updating the game with more game modes, maybe one where the player controls the enemies and the tank is controlled by the computer. Also, I am working on another game now, but it will probably take a much longer time to make. And you might want to try using the Konami code at the game over screen :)&lt;/p&gt;</content><author><name>Lucas Tan</name></author><summary type="html">Project Demo</summary></entry><entry><title type="html">MedACS</title><link href="http://localhost:4000/club/medACS/" rel="alternate" type="text/html" title="MedACS" /><published>2019-11-05T00:00:00+08:00</published><updated>2019-11-05T00:00:00+08:00</updated><id>http://localhost:4000/club/medACS</id><content type="html" xml:base="http://localhost:4000/club/medACS/">&lt;p&gt;&lt;img src=&quot;../../projects/club/MedACS/projectslide.png&quot; alt=&quot;product&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;MedACS (Medicine Automated Control System) is an integrated medication scheduling, provision and reminder system designed to reduce the burden on stay-at-home caregivers and patients by eliminating medicinal nonadherence and protecting users from accidental overdose. Working with a smartphone app, MedACS supersedes existing systems by remotely and automatically tabulating and scheduling pill dispensal.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../projects/club/MedACS/annotated.png&quot; alt=&quot;product&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;MedACS comprises two components: A Companion Smartphone App allows caregivers to remotely input medical information, while an Automated Pill Dispenser monitors consumption patterns and noncompliance, detecting when and if patients take the dispensed medication to alert caregivers to irregularities. To safeguard patients from overdosing on Over-The-Counter (OTC) medication, MedACS is also equipped with an adjustable safeguard, utilising the integrated display to provide visual and aural cues.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../projects/club/MedACS/poster.jpg&quot; alt=&quot;poster&quot; /&gt;&lt;/p&gt;</content><author><name>8059Blank.</name></author><summary type="html">Development of a novel automated drug scheduling, provision and reminder system with the BBC micro:bit</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/projects/club/MedACS/product.png" /><media:content medium="image" url="http://localhost:4000/projects/club/MedACS/product.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

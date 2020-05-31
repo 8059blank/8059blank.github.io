@@ -1,4 +1,10 @@
 var store = [{
+        "title": "MedACS",
+        "excerpt":"MedACS (Medicine Automated Control System) is an integrated medication scheduling, provision and reminder system designed to reduce the burden on stay-at-home caregivers and patients by eliminating medicinal nonadherence and protecting users from accidental overdose. Working with a smartphone app, MedACS supersedes existing systems by remotely and automatically tabulating and scheduling...","categories": ["club"],
+        "tags": [],
+        "url": "http://localhost:4000/club/medACS/",
+        "teaser": null
+      },{
         "title": "Aspera",
         "excerpt":"Project Demo Intro: I didn’t actually know what I wanted to make, except that it would be a game. Originally I wanted to make a cross between a platformer and a shooter, but I couldn’t think of how to spawn the enemies in a way that would be fun and...","categories": ["individual"],
         "tags": [],
@@ -27,5 +33,11 @@ var store = [{
         "excerpt":"3D printing may seem hard, but this should introduce you to all the basic concepts and ideas in 3D printing. Parts of a 3D Printer Just the important parts and their names. We will be calling them by these names as we go on. Source: http://my3dconcepts.com/explore/main-components-of-desktop-3d-printers/ Note: not all printers...","categories": ["individual"],
         "tags": [],
         "url": "http://localhost:4000/individual/3D-printers-101/",
+        "teaser": null
+      },{
+        "title": "3D Printers 102",
+        "excerpt":"You really want to know how each part works, if not good luck fixing your printer. Parts of a 3d Printer Recap. You should have been paying attention to 3d printers 101 :( Source: http://my3dconcepts.com/explore/main-components-of-desktop-3d-printers/ Nozzle (found attatched to your hotend) Nozzle Size Nozzle diameters affect many aspects of your...","categories": ["individual"],
+        "tags": [],
+        "url": "http://localhost:4000/individual/3D-printers-102/",
         "teaser": null
       }]
