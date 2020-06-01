@@ -22,7 +22,7 @@ Evans Soh (5.13),
 Jarrett Tan (6.02),
 Alvin Ng (6.04)]
 download_tracker: onClick="_gaq.push(['_trackEvent','File Download',this.href]);"
-download_tracker_all_btn: onClick="location.href='../../projects/club/AC-Minecraft/AC-Minecraft-Resource-Pack-All.zip';_gaq.push(['_trackEvent','File Download',this.href]);"
+download_tracker_all_btn: onClick="location.href='../../projects/club/AC-Minecraft/AC-Minecraft-Resource-Pack-All.zip';_gaq.push(['_trackEvent','File Download All',this.href]);"
 ---
 <style>
 .two-col-flex{
