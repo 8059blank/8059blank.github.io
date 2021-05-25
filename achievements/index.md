@@ -2,9 +2,18 @@
 layout: single
 title: Achievements
 ---
+## 2021
+- Singapore VRC National Skills Challenge - Champion (Tertiary 1st, 2nd, 3rd Placing), Middle School Champion
+- Vex Robotics World Championships - Middle School World Finalist
+
 ## 2020
 - Singapore VRC National Championship - Robot Skills Champion, Excellence Award 
 - Cyberthon - 3rd Placing, Data Science Award
+- National Olympiad in Informatics - 2 Silver, 6 Bronze
+- SUTD 3D-printing Design & Innovation Challenge - Tournament Champion
+- RoboMaster Youth Tournament (Singapore) - Tournament Champion (1st, 2nd, 3rd Placing)
+- Microsoft Imagine Cup Junior – 3rd Placing
+- STACK the Flags - 3rd Placing
 
 ## 2019
 - Singapore VRC National Championship - Tournament Champion (Tertiary), Excellence Award, Design Award
