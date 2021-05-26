@@ -4,7 +4,9 @@ title: Achievements
 ---
 ## 2021
 - Singapore VRC National Skills Challenge - Champion (Tertiary 1st, 2nd, 3rd Placing), Middle School Champion
-- Vex Robotics World Championships - Middle School World Finalist
+- Vex Robotics World Championships - Middle School Division Champion, Middle School Worlds Finalist
+- Cyberthon - 2nd Placing
+- National Olympiad in Informatics - 3 Silver, 2 Bronze
 
 ## 2020
 - Singapore VRC National Championship - Robot Skills Champion, Excellence Award 
