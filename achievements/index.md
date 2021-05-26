@@ -7,6 +7,7 @@ title: Achievements
 - Vex Robotics World Championships - Middle School Division Champion, Middle School Worlds Finalist
 - Cyberthon - 2nd Placing
 - National Olympiad in Informatics - 3 Silver, 2 Bronze
+- Global Cybersecurity Camp - Robust Protocol Open Challenge Champion
 
 ## 2020
 - Singapore VRC National Championship - Robot Skills Champion, Excellence Award 
