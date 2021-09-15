@@ -4,4 +4,7 @@ title: Events
 ---
 # mAChine week
 
-Hack@AC
+`<insert poster>`
+
+`<Insert Details>`
+

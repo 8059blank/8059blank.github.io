@@ -8,7 +8,7 @@ main:
     url: /projects/
   - title: "Gallery"
     url: /gallery/
-  - events: "Events"
+  - title: "Events"
     url: /events/
 
 
