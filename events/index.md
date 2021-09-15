@@ -2,6 +2,6 @@
 layout: single
 title: Events
 ---
-# Events
+# mAChine week
 
-<yes>
+Hack@AC

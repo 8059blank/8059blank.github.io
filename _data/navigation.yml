@@ -8,6 +8,8 @@ main:
     url: /projects/
   - title: "Gallery"
     url: /gallery/
+  - events: "Events"
+    url: /events/
 
 
  
