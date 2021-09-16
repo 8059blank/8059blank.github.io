@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-09-16T15:57:20+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">8059Blank.</title><subtitle>Anglo Chinese School (Independent)</subtitle><author><name>8059Blank.</name></author><entry><title type="html">ACtionBotz Information</title><link href="http://localhost:4000/actionbotz/ACtionBotz-Information/" rel="alternate" type="text/html" title="ACtionBotz Information" /><published>2021-09-16T00:00:00+08:00</published><updated>2021-09-16T00:00:00+08:00</updated><id>http://localhost:4000/actionbotz/ACtionBotz%20Information</id><content type="html" xml:base="http://localhost:4000/actionbotz/ACtionBotz-Information/">&lt;h4 id=&quot;programme-details&quot;&gt;Programme Details&lt;/h4&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-09-16T16:12:09+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">8059Blank.</title><subtitle>Anglo Chinese School (Independent)</subtitle><author><name>8059Blank.</name></author><entry><title type="html">ACtionBotz Information</title><link href="http://localhost:4000/actionbotz/ACtionBotz-Information/" rel="alternate" type="text/html" title="ACtionBotz Information" /><published>2021-09-16T00:00:00+08:00</published><updated>2021-09-16T00:00:00+08:00</updated><id>http://localhost:4000/actionbotz/ACtionBotz%20Information</id><content type="html" xml:base="http://localhost:4000/actionbotz/ACtionBotz-Information/">&lt;h4 id=&quot;programme-details&quot;&gt;Programme Details&lt;/h4&gt;
 
 &lt;p&gt;ACtionBotz is a fast-paced competition where you can form a team of 2-3 students from the same class to build your own combat bot to battle in an arena. During the event, you will be able to discover and apply new STEM knowledge. Robotics Technology Society (RTS) members wil conduct workshops where your team can learn about the bascis of Arduino in order to construct and program a simple remote-controlled robot. Then, you will face off against other teams to fight for the championship in a 1v1 tournament.&lt;/p&gt;
 
@@ -198,6 +198,25 @@ An email will be sent to confirmed teams with more information about the competi
 &lt;p&gt;Q: Is there a winner for each challenge/category?&lt;/p&gt;
 
 &lt;p&gt;A: No, winners are decided based on the overall score, subject to follow-on verification.&lt;/p&gt;
+
+&lt;p&gt;Q: What should I bring to the competition and workshop?&lt;/p&gt;
+
+&lt;p&gt;A: All participants are required to use their own laptops for the Training Workshop and competition. 
+	The minimum specifications required of participants’ laptops are as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Processor: Intel Core i5 Processor&lt;/li&gt;
+  &lt;li&gt;Memory: 8GB Ram&lt;/li&gt;
+  &lt;li&gt;Storage: Min 80GB HDD&lt;/li&gt;
+  &lt;li&gt;Connectivity: Wireless and Wired Internet Connection&lt;/li&gt;
+  &lt;li&gt;Operating Systems: Windows&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Recommended Software: VMWare Workstation Player/VirtualBox&lt;/p&gt;
+
+&lt;p&gt;Q: What is the format of the competition?&lt;/p&gt;
+
+&lt;p&gt;A: Participants will attempt to earn the most points by solving competition challenges. At the end of the competition, points scored by each team will be added. The tiebreaker will be the time taken to solve the challenge.&lt;/p&gt;
 
 &lt;h2 id=&quot;workshop-details-intra-school&quot;&gt;Workshop Details (Intra-School)&lt;/h2&gt;
 

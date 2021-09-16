@@ -70,6 +70,8 @@ Q: How many challenges are there?
 
 A: There will be several challenges per category. If you want to know the exact number, you'll have to join to find out ;) 
 
+
+
 Q: What training or skills would I need to prepare for the CTF? 
 
 A: Here are some online resources that will help you get started in your preparation for CTF competitions:
@@ -83,10 +85,33 @@ A: Here are some online resources that will help you get started in your prepara
 * https://vulnhub.com  
 
   These resources will help you build a good foundation around the skill-set and critical thinking required to solve CTF challenges. In addition, write-ups on solving challenges in past CTF competitions may be found online. These write-ups would also provide you a good understanding of how CTF challenges may be solved. 
+  
+  
 
 Q: Is there a winner for each challenge/category? 
 
 A: No, winners are decided based on the overall score, subject to follow-on verification.
+
+
+
+Q: What should I bring to the competition and workshop?
+
+A: All participants are required to use their own laptops for the Training Workshop and competition. 
+	The minimum specifications required of participants’ laptops are as follows:
+
+- Processor: Intel Core i5 Processor
+- Memory: 8GB Ram
+- Storage: Min 80GB HDD
+- Connectivity: Wireless and Wired Internet Connection
+- Operating Systems: Windows
+
+Recommended Software: VMWare Workstation Player/VirtualBox
+
+
+
+Q: What is the format of the competition?
+
+A: Participants will attempt to earn the most points by solving competition challenges. At the end of the competition, points scored by each team will be added. The tiebreaker will be the time taken to solve the challenge.
 
 ## Workshop Details (Intra-School)
 
