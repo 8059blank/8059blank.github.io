@@ -40,4 +40,16 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/individual/3D-printers-102/",
         "teaser": null
+      },{
+        "title": "ACtionBotz Information",
+        "excerpt":"Programme Details ACtionBotz is a fast-paced competition where you can form a team of 2-3 students from the same class to build your own combat bot to battle in an arena. During the event, you will be able to discover and apply new STEM knowledge. Robotics Technology Society (RTS) members...","categories": ["actionbotz"],
+        "tags": [],
+        "url": "http://localhost:4000/actionbotz/ACtionBotz-Information/",
+        "teaser": null
+      },{
+        "title": "HACK@AC Information",
+        "excerpt":"Competition Details HACK@AC is a Capture-The-Flag competition, where participants play to earn points by solving problems relating to cryptography, data security, and other prominent cybersecurity issues. HACK@AC has 3 categories grouped under 2 competitions. Intra-School Competition: Open to all ACSI Year 1-3s Solo competition Date: 22nd October Time: 2.30pm -...","categories": ["hackac"],
+        "tags": [],
+        "url": "http://localhost:4000/hackac/HACK@AC-Information/",
+        "teaser": null
       }]
