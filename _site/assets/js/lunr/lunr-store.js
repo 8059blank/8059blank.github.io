@@ -47,8 +47,14 @@ var store = [{
         "url": "http://localhost:4000/actionbotz/ACtionBotz-Information/",
         "teaser": null
       },{
+        "title": "HACK@AC Terms and Conditions",
+        "excerpt":"General Terms and Conditions On Collection, Use, or Disclosure of Information or Personal Data: 1) I understand and agree that any personal information which has been provided or will be provided for the purposes of participating in the competition may also be used for publicity, student outreach, and analysis for...","categories": ["hackac"],
+        "tags": [],
+        "url": "http://localhost:4000/hackac/HACK@AC-Conditions/",
+        "teaser": null
+      },{
         "title": "HACK@AC Information",
-        "excerpt":"Competition Details HACK@AC is a Capture-The-Flag competition, where participants play to earn points by solving problems relating to cryptography, data security, and other prominent cybersecurity issues. HACK@AC has 3 categories grouped under 2 competitions. Intra-School Competition: Open to all ACSI Year 1-3s Solo competition Date: 22nd October Time: 2.30pm -...","categories": ["hackac"],
+        "excerpt":"Competition Details HACK@AC is a Capture-The-Flag competition, where participants play to earn points by solving problems relating to cryptography, data security, and other prominent cybersecurity issues. HACK@AC has 3 categories grouped under 2 competitions. Intra-School Competition: Open to all ACS Year 1-3 Students Solo competition Date: 22nd October Time: 2.30pm...","categories": ["hackac"],
         "tags": [],
         "url": "http://localhost:4000/hackac/HACK@AC-Information/",
         "teaser": null

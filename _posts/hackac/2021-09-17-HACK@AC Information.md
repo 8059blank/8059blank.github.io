@@ -114,24 +114,25 @@ A: Participants will attempt to earn the most points by solving competition chal
 
 ## Workshop Details (Intra-School)
 
-Workshops will be conducted prior to the Intra-School event for ACS Students. These workshops will also be recorded and uploaded for interested participants from the Inter-School competition. A training platform will also be open for Intra-School participants to practice what has been taught at the 2 workshops. More information on the training platform will be released during the workshops itself. 
+Workshops will be conducted prior to the Intra-School event for ACS Students. These workshops will also be recorded and uploaded for interested participants from the Inter-School competition. 
+
+A training platform will also be open for Intra-School participants to practice what has been taught at the 2 workshops. More information on the training platform will be released during the workshops itself. 
 
 **Workshop 1**
-Dates: 13 October 2021
-Time:  10am - 12pm
-Venue: Online on Teams
+Dates: 13 October 2021  
+Time:  10am - 12pm  
+Venue: Online on Teams  
 
 **Workshop 2**
-Dates: 14 October 2021
-Time:  10am - 12pm
-Venue: Online on Teams
+Dates: 14 October 2021  
+Time:  10am - 12pm  
+Venue: Online on Teams  
 
 ## Sign Up
 
-Intra-School Sign Up Link: [Click here]()
-Inter-School Sign Up Link: [Click here](https://forms.office.com/r/DjC31Y0j1T)
+Intra-School Sign Up Link: [Click here ]()  
+Inter-School Sign Up Link: [Click here](https://forms.office.com/r/DjC31Y0j1T)  
 
-[Terms And Conditions](https://8059blank.github.io/hackac/HACK@AC-Conditions/)
+[Terms And Conditions](https://8059blank.github.io/hackac/HACK@AC-Conditions/)  
 
-Spots will be filled on a first-come first-serve basis so sign up quickly!
-An email will be sent to confirmed participants with more information about the competition closer to the date.
+Spots will be filled on a first-come first-serve basis so sign up quickly! An email will be sent to confirmed participants with more information about the competition closer to the date.
