@@ -10,9 +10,9 @@ author:
 
 HACK@AC is a Capture-The-Flag competition, where participants play to earn points by solving problems relating to cryptography, data security, and other prominent cybersecurity issues.
 
-HACK@AC has 3 categories grouped under 2 competitions. 
+HACK@AC has 3 categories grouped under 2 CTF events. 
 
-**Intra-School Competition:**
+**HACK@AC (ACS):**
 
 * Open to all **ACS Year 1-3 Students**
 
@@ -26,7 +26,7 @@ HACK@AC has 3 categories grouped under 2 competitions.
 
   
 
-**Inter-School Competition**
+**HACK@AC (Inter-School)**
 
 * Open to all Secondary School Students in Singapore and **ACS(I) Year 4-6s**
 * Note that ACS(I) students will be in a separate leader-board for this event
@@ -112,11 +112,11 @@ Q: What is the format of the competition?
 
 A: Participants will attempt to earn the most points by solving competition challenges. At the end of the competition, points scored by each team will be added. The tiebreaker will be the time taken to solve the challenge.
 
-## Workshop Details (Intra-School)
+## Workshop Details for HACK@AC (ACS)
 
-Workshops will be conducted prior to the Intra-School event for ACS Students. These workshops will also be recorded and uploaded for interested participants from the Inter-School competition. 
+Workshops will be conducted prior to the HACK@AC (ACS) CTF for ACS Students. These workshops will also be recorded and uploaded for interested participants from the HACK@AC (Inter-School) CTF. 
 
-A training platform will also be open for Intra-School participants to practice what has been taught at the 2 workshops. More information on the training platform will be released during the workshops itself. 
+A training platform will also be open for HACK@AC (ACS) participants to practice what has been taught at the 2 workshops. More information on the training platform will be released during the workshops itself. 
 
 **Workshop 1**  
 Dates: 13 October 2021  
@@ -130,8 +130,8 @@ Venue: Online on Teams
 
 ## Sign Up
 
-Intra-School Sign Up Link: [Click here ]()  
-Inter-School Sign Up Link: [Click here](https://forms.office.com/r/DjC31Y0j1T)  
+HACK@AC (ACS) Sign Up Link: [Click here ](https://forms.office.com/r/00ta9aRnXY)  
+HACK@AC Sign Up Link: [Click here](https://forms.office.com/r/DjC31Y0j1T)  
 
 [Terms And Conditions](https://8059blank.github.io/hackac/HACK@AC-Conditions/)  
 
