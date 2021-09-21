@@ -135,4 +135,6 @@ HACK@AC Sign Up Link: [Click here](https://forms.office.com/r/DjC31Y0j1T)
 
 [Terms And Conditions](https://8059blank.github.io/hackac/HACK@AC-Conditions/)  
 
-Spots will be filled on a first-come first-serve basis so sign up quickly! An email will be sent to confirmed participants with more information about the competition closer to the date.
+Spots will be filled on a first-come first-serve basis so sign up quickly!  
+
+An email will be sent to confirmed participants with more information about the competition closer to the date.
