@@ -14,7 +14,7 @@ HACK@AC has 3 categories grouped under 2 competitions.
 
 **Intra-School Competition:**
 
-* Open to all **ACSI Year 1-3s**
+* Open to all **ACS Year 1-3 Students**
 
 * Solo competition
 
@@ -28,20 +28,20 @@ HACK@AC has 3 categories grouped under 2 competitions.
 
 **Inter-School Competition**
 
-* Open to all Secondary School Students in Singapore and **ACSI Year 4-6s**
-* Note that ACSI students will be in a separate leader-board for this event
+* Open to all Secondary School Students in Singapore and **ACS(I) Year 4-6s**
+* Note that ACS(I) students will be in a separate leader-board for this event
 * Solo Competition
 * **Date:** 16th October
-* **Time:** 9am - 5pm
+* **Time:** 8am - 5pm
 * **Venue:** Online
 
 ## Rules
 
 * Hack@AC is open only to current students from local secondary schools. Both Singaporean and non-Singaporean students from local secondary schools are welcome to participate.
 
-* You may participate only as an individual
+* You may only participate as an individual.
 
-* Winners will be decided based on the scores, subject to follow-on verification using (but not limited to) the following means:
+* Winners will be decided based on the scores, subject to follow up verification using (but not limited to) the following means:
   * submission of sufficiently detailed writeups challenges selected by the Organisers
   * elaboration on how challenges are solved over video conference
 
@@ -59,7 +59,7 @@ HACK@AC has 3 categories grouped under 2 competitions.
 
 * To ensure fairness, any team wholly or partially consisting of the following personnel will not be eligible for prizes:
   * A participant who is not an existing student from a local educational institution
-  * Personnel from ACS(I) and CSA involved in the organisation of DSO-NUS CTF 2021
+  * Personnel from ACS(I) and CSA involved in the organisation of HACK@AC
   * Existing CSA staff, including interns and temporary staff
 
 * All decisions made by the Organisers are final, including decisions on eligibility, awarding of prizes, cheating or misconduct, termination of activity, or disqualification. The Organisers reserve the right to change the rules where required.
@@ -90,14 +90,13 @@ A: Here are some online resources that will help you get started in your prepara
 
 Q: Is there a winner for each challenge/category? 
 
-A: No, winners are decided based on the overall score, subject to follow-on verification.
+A: No, winners are decided based on the overall score, subject to follow up verification.
 
 
 
-Q: What should I bring to the competition and workshop?
+Q: What do i need to prepare for the competition?
 
-A: All participants are required to use their own laptops for the Training Workshop and competition. 
-	The minimum specifications required of participants’ laptops are as follows:
+A: All participants are required to use their own laptops. The minimum specifications required of participants’ laptops are as follows:
 
 - Processor: Intel Core i5 Processor
 - Memory: 8GB Ram
@@ -119,17 +118,20 @@ Workshops will be conducted prior to the Intra-School event for ACS Students. Th
 
 **Workshop 1**
 Dates: 13 October 2021
-Time: 
+Time:  10am - 12pm
 Venue: Online on Teams
 
 **Workshop 2**
 Dates: 14 October 2021
-Time: 
+Time:  10am - 12pm
 Venue: Online on Teams
 
 ## Sign Up
 
-Here is the link to the sign up form: [Sign Up]()
+Intra-School Sign Up Link: [Click here]()
+Inter-School Sign Up Link: [Click here](https://forms.office.com/r/DjC31Y0j1T)
+
+[Terms And Conditions](https://8059blank.github.io/hackac/HACK@AC-Conditions/)
+
 Spots will be filled on a first-come first-serve basis so sign up quickly!
 An email will be sent to confirmed participants with more information about the competition closer to the date.
-
