@@ -76,13 +76,13 @@ Q: What training or skills would I need to prepare for the CTF?
 
 A: Here are some online resources that will help you get started in your preparation for CTF competitions:
 
-* https://overthewire.org/wargames/ 
+* [https://overthewire.org/wargames/](https://overthewire.org/wargames/)
 
-* https://hackthebox.eu
+* [https://hackthebox.eu](https://hackthebox.eu)
 
-* https://tryhackme.com 
+* [https://tryhackme.com](https://tryhackme.com)
 
-* https://vulnhub.com  
+* [https://vulnhub.com](https://vulnhub.com)
 
   These resources will help you build a good foundation around the skill-set and critical thinking required to solve CTF challenges. In addition, write-ups on solving challenges in past CTF competitions may be found online. These write-ups would also provide you a good understanding of how CTF challenges may be solved. 
   
