@@ -120,34 +120,58 @@ a.read-more {
 
 `insert poster`
 
-## ACtionBotz
-{% for post in site.categories.actionbotz %}
-<div class="post">
-  <header class="post-header">
-    <br/>
-    <h4 style="margin-top: 0px;">
-      <a href="{{ site.url }}{{ post.url }}" class="post-title" title="{{ post.title | escape }}">{{ post.title }}</a>
-      •
-       {{ post.author.name }} 
-    </h4>
-  </header>
-</div>
-{% endfor%}
+## ACtionBots
+
+
+<table>
+{% for project in site.categories.actionbots %}
+  <tr>
+    <td style="text-align: center">
+        <img src="{{ project.image }}" width="150px"/>
+    </td>
+    <td style="text-align: left; padding-left: 16px;"/>
+    <td>
+      <header class="post-header">
+        <h1 style="margin-top: 15px; font-size: 30px">
+          <a href="{{ site.url }}{{ project.url }}" class="post-title" title="{{ project.title | escape }}">{{ project.title }}</a>
+          {% if project.link %}
+          {% endif %}
+        </h1>
+      </header>
+      {% if project.excerpt %}
+      <h6 style="margin-top: 5px; font-size: 20px;">
+          {{ project.excerpt }}
+      </h6>
+      {% endif %}
+    </td>
+  </tr>
+{% endfor %}	
+</table>
 
 ## HACK@AC
-{% for post in site.categories.hackac %}
-<div class="post">
-  <header class="post-header">
-    <br/>
-    <h4 style="margin-top: 0px;">
-      <a href="{{ site.url }}{{ post.url }}" class="post-title" title="{{ post.title | escape }}">{{ post.title }}</a>
-      •
-       {{ post.author.name }} 
-    </h4>
-  </header>
-</div>
-{% endfor%}
 
 
-Test image
-
+<table>
+{% for project in site.categories.hackac %}
+  <tr>
+    <td style="text-align: center">
+        <img src="{{ project.image }}" width="150px"/>
+    </td>
+    <td style="text-align: left; padding-left: 16px;"/>
+    <td>
+      <header class="post-header">
+        <h1 style="margin-top: 15px; font-size: 30px">
+          <a href="{{ site.url }}{{ project.url }}" class="post-title" title="{{ project.title | escape }}">{{ project.title }}</a>
+          {% if project.link %}
+          {% endif %}
+        </h1>
+      </header>
+      {% if project.excerpt %}
+      <h6 style="margin-top: 5px; font-size: 20px;">
+          {{ project.excerpt }}
+      </h6>
+      {% endif %}
+    </td>
+  </tr>
+{% endfor %}	
+</table>

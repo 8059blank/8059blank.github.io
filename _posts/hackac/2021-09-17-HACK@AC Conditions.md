@@ -1,6 +1,7 @@
 ---
 layout: posts
 title: HACK@AC Terms and Conditions
+image: ../events/hack.png
 categories: hackac
 author:
   name: HACK@AC Organisers

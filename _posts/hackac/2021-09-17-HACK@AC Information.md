@@ -1,11 +1,11 @@
 ﻿---
 layout: posts
 title: HACK@AC Information
+image: ../events/hack.png
 categories: hackac
 author:
   name: HACK@AC Organisers
 ---
-
 ## Competition Details
 
 HACK@AC is a Capture-The-Flag competition, where participants play to earn points by solving problems relating to cryptography, data security, and other prominent cybersecurity issues.
@@ -118,12 +118,12 @@ Workshops will be conducted prior to the Intra-School event for ACS Students. Th
 
 A training platform will also be open for Intra-School participants to practice what has been taught at the 2 workshops. More information on the training platform will be released during the workshops itself. 
 
-**Workshop 1**
+**Workshop 1**  
 Dates: 13 October 2021  
 Time:  10am - 12pm  
 Venue: Online on Teams  
 
-**Workshop 2**
+**Workshop 2**  
 Dates: 14 October 2021  
 Time:  10am - 12pm  
 Venue: Online on Teams  

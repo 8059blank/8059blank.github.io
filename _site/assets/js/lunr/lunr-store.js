@@ -41,10 +41,10 @@ var store = [{
         "url": "http://localhost:4000/individual/3D-printers-102/",
         "teaser": null
       },{
-        "title": "ACtionBotz Information",
-        "excerpt":"Programme Details ACtionBotz is a fast-paced competition where you can form a team of 2-3 students from the same class to build your own combat bot to battle in an arena. During the event, you will be able to discover and apply new STEM knowledge. Robotics Technology Society (RTS) members...","categories": ["actionbotz"],
+        "title": "ACtionBots Information",
+        "excerpt":"Programme Details ACtionBotz is a fast-paced competition where you can form a team of 2-3 students from the same class to build your own combat bot to battle in an arena. During the event, you will be able to discover and apply new STEM knowledge. Robotics Technology Society (RTS) members...","categories": ["actionbots"],
         "tags": [],
-        "url": "http://localhost:4000/actionbotz/ACtionBotz-Information/",
+        "url": "http://localhost:4000/actionbots/ACtionBots-Information/",
         "teaser": null
       },{
         "title": "HACK@AC Terms and Conditions",
