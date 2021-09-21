@@ -1,4 +1,10 @@
 var store = [{
+        "title": "ACtionBots Information",
+        "excerpt":"Programme Details ACtionBots is a fast-paced competition where you can form a team of 2-3 students from the same class to build your own combat bot to battle in an arena. During the event, you will be able to discover and apply new STEM knowledge. Robotics Technology Society (RTS) members...","categories": ["actionbots"],
+        "tags": [],
+        "url": "/actionbots/ACtionBots-Information/",
+        "teaser": null
+      },{
         "title": "MedACS",
         "excerpt":"MedACS (Medicine Automated Control System) is an integrated medication scheduling, provision and reminder system designed to reduce the burden on stay-at-home caregivers and patients by eliminating medicinal nonadherence and protecting users from accidental overdose. Working with a smartphone app, MedACS supersedes existing systems by remotely and automatically tabulating and scheduling...","categories": ["club"],
         "tags": [],
@@ -39,12 +45,6 @@ var store = [{
         "excerpt":"You really want to know how each part works, if not good luck fixing your printer. Parts of a 3d Printer Recap. You should have been paying attention to 3d printers 101 :( Source: http://my3dconcepts.com/explore/main-components-of-desktop-3d-printers/ Nozzle (found attatched to your hotend) Nozzle Size Nozzle diameters affect many aspects of your...","categories": ["individual"],
         "tags": [],
         "url": "/individual/3D-printers-102/",
-        "teaser": null
-      },{
-        "title": "ACtionBots Information",
-        "excerpt":"Programme Details ACtionBotz is a fast-paced competition where you can form a team of 2-3 students from the same class to build your own combat bot to battle in an arena. During the event, you will be able to discover and apply new STEM knowledge. Robotics Technology Society (RTS) members...","categories": ["actionbots"],
-        "tags": [],
-        "url": "/actionbots/ACtionBots-Information/",
         "teaser": null
       },{
         "title": "HACK@AC Terms and Conditions",
