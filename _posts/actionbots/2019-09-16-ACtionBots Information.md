@@ -35,13 +35,13 @@ Date: 21 October 2021, Thursday
 Time: 1.30pm - 4.30pm  
 Venue: IB Foyer  
 
-**Senior Category - Driver **   
+**Senior Category - Driver**    
 Date: 20 October 2021, Wednesday  
 Time: 2.30pm - 5.30pm  
 Venue: IB Foyer  
 *Year 5 Teams will be released early at 2.00pm*  
 
-**Senior Category - Autonomous**
+**Senior Category - Autonomous**  
 Date: 20 October 2021, Wednesday  
 Time: 2.30pm - 4.30pm  
 Venue: Robotics Garage  
