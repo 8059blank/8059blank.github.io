@@ -54,7 +54,7 @@ var store = [{
         "teaser": null
       },{
         "title": "HACK@AC Information",
-        "excerpt":"Competition Details HACK@AC is a Capture-The-Flag competition, where participants play to earn points by solving problems relating to cryptography, data security, and other prominent cybersecurity issues. HACK@AC has 3 categories grouped under 2 competitions. Intra-School Competition: Open to all ACS Year 1-3 Students Solo competition Date: 22nd October Time: 2.30pm...","categories": ["hackac"],
+        "excerpt":"Competition Details HACK@AC is a Capture-The-Flag competition, where participants play to earn points by solving problems relating to cryptography, data security, and other prominent cybersecurity issues. HACK@AC has 3 categories grouped under 2 CTF events. HACK@AC (ACS): Open to all ACS Year 1-3 Students Solo competition Date: 22nd October Time:...","categories": ["hackac"],
         "tags": [],
         "url": "/hackac/HACK@AC-Information/",
         "teaser": null
