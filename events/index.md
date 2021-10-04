@@ -116,10 +116,6 @@ a.read-more {
  }
 </style>
 
-## mAChine Week
-
-`insert poster`
-
 ## HACK@AC
 
 
