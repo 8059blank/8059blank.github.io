@@ -96,7 +96,7 @@ A: No, winners are decided based on the overall score, subject to follow up veri
 
 Q: What do i need to prepare for the competition?
 
-A: All participants are required to use their own laptops. The minimum specifications required of participants’ laptops are as follows:
+A: All participants are required to use their own laptops. The minimum specifications **recommended** of participants’ laptops are as follows:
 
 - Processor: Intel Core i5 Processor
 - Memory: 8GB Ram
