@@ -118,7 +118,7 @@ a.read-more {
 
 ## mAChine Week
 
-`insert poster`
+![image-20211007234133530](poster.PNG)
 
 ## ACtionBots
 
