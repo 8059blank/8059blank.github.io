@@ -11,7 +11,7 @@ author:
 
 #### Programme Details
 
-ACtionBots is a fast-paced competition where you can form a team of 2-3 students to build your own combat bot to battle in an arena. During the event, you will be able to discover and apply new STEM knowledge. Robotics Technology Society (RTS) members wil conduct workshops where your team can learn about the bascis of Arduino in order to construct and program a simple remote-controlled robot. Then, you will face off against other teams to fight for the championship and prize money in a 1v1 tournament. 
+ACtionBots is a fast-paced competition where you can form a team of 2-3 students to build your own 3D printed combat bot to battle in an arena. During the event, you will be able to discover and apply new STEM knowledge. Robotics Technology Society (RTS) members wil conduct workshops where your team can learn about the basics of Arduino in order to construct and program a simple remote-controlled robot. Then, you will face off against other teams to fight for the championship and prize money in a 1v1 tournament. 
 
 ACtionBots has 2 categories: 
 
@@ -34,7 +34,9 @@ ACtionBots has 2 categories:
 #### Workshop Details 
 
 RTS will provide all your robot parts as well as video tutorials on how to build and program your robot on the first day of the workshops.
-The workshops are for your team to build, program and test your robot. RTS members will be present for consultation if you have any questions. The workshops will be held during the 2022 March Holidays; exact dates will be given at a later time.
+*Senior teams can design your own 3D printed parts and send the CAD file to RTS for approval and printing (PETG filament).
+Your team can build, program and test your robot while RTS members are present for consultation if you have any questions. 
+The workshops will be held during the 2022 March Holidays; exact dates will be given at a later time.
 
 #### Sign Up
 
