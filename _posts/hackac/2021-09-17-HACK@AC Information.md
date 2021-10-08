@@ -61,7 +61,8 @@ HACK@AC has 3 categories grouped under 2 CTF events.
   * A participant who is not an existing student from a local educational institution
   * Personnel from ACS(I) and CSA involved in the organisation of HACK@AC
   * Existing CSA staff, including interns and temporary staff
-
+  * Existing ACS(I) RTS Members
+  
 * All decisions made by the Organisers are final, including decisions on eligibility, awarding of prizes, cheating or misconduct, termination of activity, or disqualification. The Organisers reserve the right to change the rules where required.
 
 ## FAQ
