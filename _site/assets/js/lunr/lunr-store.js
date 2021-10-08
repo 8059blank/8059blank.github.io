@@ -1,6 +1,6 @@
 var store = [{
         "title": "ACtionBots Information",
-        "excerpt":"Programme Details ACtionBots is a fast-paced competition where you can form a team of 2-3 students from the same class to build your own combat bot to battle in an arena. During the event, you will be able to discover and apply new STEM knowledge. Robotics Technology Society (RTS) members...","categories": ["actionbots"],
+        "excerpt":"Due to the current Covid-19 situation, the in-person competition will be postponed to the 2022 March holiday Programme Details ACtionBots is a fast-paced competition where you can form a team of 2-3 students to build your own combat bot to battle in an arena. During the event, you will be...","categories": ["actionbots"],
         "tags": [],
         "url": "/actionbots/ACtionBots-Information/",
         "teaser": null

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-10-07T23:45:55+08:00</updated><id>/feed.xml</id><title type="html">8059Blank.</title><subtitle>Anglo Chinese School (Independent)</subtitle><author><name>8059Blank.</name></author><entry><title type="html">HACK@AC Terms and Conditions</title><link href="/hackac/HACK@AC-Conditions/" rel="alternate" type="text/html" title="HACK@AC Terms and Conditions" /><published>2021-09-17T00:00:00+08:00</published><updated>2021-09-17T00:00:00+08:00</updated><id>/hackac/HACK@AC%20Conditions</id><content type="html" xml:base="/hackac/HACK@AC-Conditions/">&lt;h2 id=&quot;general-terms-and-conditions&quot;&gt;General Terms and Conditions&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-10-08T17:05:20+08:00</updated><id>/feed.xml</id><title type="html">8059Blank.</title><subtitle>Anglo Chinese School (Independent)</subtitle><author><name>8059Blank.</name></author><entry><title type="html">HACK@AC Terms and Conditions</title><link href="/hackac/HACK@AC-Conditions/" rel="alternate" type="text/html" title="HACK@AC Terms and Conditions" /><published>2021-09-17T00:00:00+08:00</published><updated>2021-09-17T00:00:00+08:00</updated><id>/hackac/HACK@AC%20Conditions</id><content type="html" xml:base="/hackac/HACK@AC-Conditions/">&lt;h2 id=&quot;general-terms-and-conditions&quot;&gt;General Terms and Conditions&lt;/h2&gt;
 
 &lt;h3 id=&quot;on-collection-use-or-disclosure-of-information-or-personal-data&quot;&gt;On Collection, Use, or Disclosure of Information or Personal Data:&lt;/h3&gt;
 &lt;p&gt;1) I understand and agree that any personal information which has been provided or will be provided for the purposes of participating in the competition may also be used for publicity, student outreach, and analysis for policy recommendation purposes by ACS(I) or Cyber Security Agency of Singapore (CSA). This may include receiving communications on programmes, courses and events arranged or organized by ACS(I) or CSA.&lt;/p&gt;
@@ -91,6 +91,7 @@
       &lt;li&gt;A participant who is not an existing student from a local educational institution&lt;/li&gt;
       &lt;li&gt;Personnel from ACS(I) and CSA involved in the organisation of HACK@AC&lt;/li&gt;
       &lt;li&gt;Existing CSA staff, including interns and temporary staff&lt;/li&gt;
+      &lt;li&gt;Existing ACS(I) RTS Members&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;All decisions made by the Organisers are final, including decisions on eligibility, awarding of prizes, cheating or misconduct, termination of activity, or disqualification. The Organisers reserve the right to change the rules where required.&lt;/li&gt;
@@ -1317,9 +1318,11 @@ snakeheadx,snakeheady = cells[131][0],cells[131][1]&lt;/p&gt;
 
 &lt;p&gt;MedACS comprises two components: A Companion Smartphone App allows caregivers to remotely input medical information, while an Automated Pill Dispenser monitors consumption patterns and noncompliance, detecting when and if patients take the dispensed medication to alert caregivers to irregularities. To safeguard patients from overdosing on Over-The-Counter (OTC) medication, MedACS is also equipped with an adjustable safeguard, utilising the integrated display to provide visual and aural cues.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../../projects/club/MedACS/poster.jpg&quot; alt=&quot;poster&quot; /&gt;&lt;/p&gt;</content><author><name>8059Blank.</name></author><summary type="html">Development of a novel automated drug scheduling, provision and reminder system with the BBC micro:bit</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/projects/club/MedACS/product.png" /><media:content medium="image" url="/projects/club/MedACS/product.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">ACtionBots Information</title><link href="/actionbots/ACtionBots-Information/" rel="alternate" type="text/html" title="ACtionBots Information" /><published>2019-09-16T00:00:00+08:00</published><updated>2019-09-16T00:00:00+08:00</updated><id>/actionbots/ACtionBots%20Information</id><content type="html" xml:base="/actionbots/ACtionBots-Information/">&lt;h4 id=&quot;programme-details&quot;&gt;Programme Details&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;../../projects/club/MedACS/poster.jpg&quot; alt=&quot;poster&quot; /&gt;&lt;/p&gt;</content><author><name>8059Blank.</name></author><summary type="html">Development of a novel automated drug scheduling, provision and reminder system with the BBC micro:bit</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/projects/club/MedACS/product.png" /><media:content medium="image" url="/projects/club/MedACS/product.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">ACtionBots Information</title><link href="/actionbots/ACtionBots-Information/" rel="alternate" type="text/html" title="ACtionBots Information" /><published>2019-09-16T00:00:00+08:00</published><updated>2019-09-16T00:00:00+08:00</updated><id>/actionbots/ACtionBots%20Information</id><content type="html" xml:base="/actionbots/ACtionBots-Information/">&lt;h5 id=&quot;due-to-the-current-covid-19-situation-the-in-person-competition-will-be-postponed-to-the-2022-march-holiday&quot;&gt;Due to the current Covid-19 situation, the in-person competition will be postponed to the 2022 March holiday&lt;/h5&gt;
 
-&lt;p&gt;ACtionBots is a fast-paced competition where you can form a team of 2-3 students from the same class to build your own combat bot to battle in an arena. During the event, you will be able to discover and apply new STEM knowledge. Robotics Technology Society (RTS) members wil conduct workshops where your team can learn about the bascis of Arduino in order to construct and program a simple remote-controlled robot. Then, you will face off against other teams to fight for the championship and prize money in a 1v1 tournament.&lt;/p&gt;
+&lt;h4 id=&quot;programme-details&quot;&gt;Programme Details&lt;/h4&gt;
+
+&lt;p&gt;ACtionBots is a fast-paced competition where you can form a team of 2-3 students to build your own combat bot to battle in an arena. During the event, you will be able to discover and apply new STEM knowledge. Robotics Technology Society (RTS) members wil conduct workshops where your team can learn about the bascis of Arduino in order to construct and program a simple remote-controlled robot. Then, you will face off against other teams to fight for the championship and prize money in a 1v1 tournament.&lt;/p&gt;
 
 &lt;p&gt;ACtionBots has 2 categories:&lt;/p&gt;
 
@@ -1345,22 +1348,18 @@ snakeheadx,snakeheady = cells[131][0],cells[131][1]&lt;/p&gt;
   &lt;li&gt;$50  - Best Strategy Award (Overall)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;competition-details&quot;&gt;Competition Details&lt;/h4&gt;
-
-&lt;p&gt;Due to the current Covid-19 situation, the in-person competition will be postponed to the 2022 March holiday.&lt;/p&gt;
-
 &lt;h4 id=&quot;workshop-details&quot;&gt;Workshop Details&lt;/h4&gt;
 
 &lt;p&gt;RTS will provide all your robot parts as well as video tutorials on how to build and program your robot on the first day of the workshops.
-The workshops are for your team to build, program and test your robot. RTS members will be present for consultation if you have any questions.&lt;/p&gt;
+The workshops are for your team to build, program and test your robot. RTS members will be present for consultation if you have any questions. The workshops will be held during the 2022 March Holidays; exact dates will be given at a later time.&lt;/p&gt;
 
 &lt;h4 id=&quot;sign-up&quot;&gt;Sign Up&lt;/h4&gt;
 
-&lt;p&gt;The link to the sign up form will be added closer to the competition date.
-Remember that all team members must be from the same class because of Safe Management Measures.
-Team spots will be filled on a first-come first-serve basis so sign up quickly!
+&lt;p&gt;Here is the link to the sign up form: &lt;a href=&quot;https://forms.office.com/r/rk2qXWjxPN&quot;&gt;Click here&lt;/a&gt;
+Please fill in the form with your level in 2022 (ie. if you are Year 3 in 2021, sign up as a Year 4)
+Team spots will be filled on a first-come first-serve basis so sign up quickly! 
 A Teams message will be sent to confirmed teams with more information about the competition, workshops and your robot.&lt;/p&gt;
 
 &lt;h4 id=&quot;contact-information&quot;&gt;Contact Information&lt;/h4&gt;
 
-&lt;p&gt;Feel free to contact 17nicholle.tang or 17he.ruizhi on Teams if you have any queries.&lt;/p&gt;</content><author><name>ACtionBotz Organisers</name></author><summary type="html">Programme Details</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/events/actionbots.png" /><media:content medium="image" url="/events/actionbots.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;Feel free to contact 17nicholle.tang or 17he.ruizhi on Teams if you have any queries.&lt;/p&gt;</content><author><name>ACtionBotz Organisers</name></author><summary type="html">Due to the current Covid-19 situation, the in-person competition will be postponed to the 2022 March holiday</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/events/actionbots.png" /><media:content medium="image" url="/events/actionbots.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
