@@ -1,6 +1,6 @@
 var store = [{
         "title": "ACtionBots Information",
-        "excerpt":"Due to the current Covid-19 situation, the in-person competition will be postponed to the 2022 March holiday Programme Details ACtionBots is a fast-paced competition where you can form a team of 2-3 students to build your own combat bot to battle in an arena. During the event, you will be...","categories": ["actionbots"],
+        "excerpt":"Due to the current Covid-19 situation, the in-person competition will be postponed to the 2022 March holiday Programme Details ACtionBots is a fast-paced competition where you can form a team of 2-3 students to build your own 3D printed combat bot to battle in an arena. Robotics Technology Society (RTS)...","categories": ["actionbots"],
         "tags": [],
         "url": "/actionbots/ACtionBots-Information/",
         "teaser": null

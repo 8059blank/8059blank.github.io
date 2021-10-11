@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-10-08T17:05:20+08:00</updated><id>/feed.xml</id><title type="html">8059Blank.</title><subtitle>Anglo Chinese School (Independent)</subtitle><author><name>8059Blank.</name></author><entry><title type="html">HACK@AC Terms and Conditions</title><link href="/hackac/HACK@AC-Conditions/" rel="alternate" type="text/html" title="HACK@AC Terms and Conditions" /><published>2021-09-17T00:00:00+08:00</published><updated>2021-09-17T00:00:00+08:00</updated><id>/hackac/HACK@AC%20Conditions</id><content type="html" xml:base="/hackac/HACK@AC-Conditions/">&lt;h2 id=&quot;general-terms-and-conditions&quot;&gt;General Terms and Conditions&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-10-11T22:20:23+08:00</updated><id>/feed.xml</id><title type="html">8059Blank.</title><subtitle>Anglo Chinese School (Independent)</subtitle><author><name>8059Blank.</name></author><entry><title type="html">HACK@AC Terms and Conditions</title><link href="/hackac/HACK@AC-Conditions/" rel="alternate" type="text/html" title="HACK@AC Terms and Conditions" /><published>2021-09-17T00:00:00+08:00</published><updated>2021-09-17T00:00:00+08:00</updated><id>/hackac/HACK@AC%20Conditions</id><content type="html" xml:base="/hackac/HACK@AC-Conditions/">&lt;h2 id=&quot;general-terms-and-conditions&quot;&gt;General Terms and Conditions&lt;/h2&gt;
 
 &lt;h3 id=&quot;on-collection-use-or-disclosure-of-information-or-personal-data&quot;&gt;On Collection, Use, or Disclosure of Information or Personal Data:&lt;/h3&gt;
 &lt;p&gt;1) I understand and agree that any personal information which has been provided or will be provided for the purposes of participating in the competition may also be used for publicity, student outreach, and analysis for policy recommendation purposes by ACS(I) or Cyber Security Agency of Singapore (CSA). This may include receiving communications on programmes, courses and events arranged or organized by ACS(I) or CSA.&lt;/p&gt;
@@ -46,8 +46,7 @@
 &lt;p&gt;&lt;strong&gt;HACK@AC (Inter-School)&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Open to all Secondary School Students in Singapore and &lt;strong&gt;ACS(I) Year 4-6s&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Note that ACS(I) students will be in a separate leader-board for this event&lt;/li&gt;
+  &lt;li&gt;Open to all Secondary School Students in Singapore&lt;/li&gt;
   &lt;li&gt;Solo Competition&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 16th October&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Time:&lt;/strong&gt; 8am - 5pm&lt;/li&gt;
@@ -1322,9 +1321,9 @@ snakeheadx,snakeheady = cells[131][0],cells[131][1]&lt;/p&gt;
 
 &lt;h4 id=&quot;programme-details&quot;&gt;Programme Details&lt;/h4&gt;
 
-&lt;p&gt;ACtionBots is a fast-paced competition where you can form a team of 2-3 students to build your own combat bot to battle in an arena. During the event, you will be able to discover and apply new STEM knowledge. Robotics Technology Society (RTS) members wil conduct workshops where your team can learn about the bascis of Arduino in order to construct and program a simple remote-controlled robot. Then, you will face off against other teams to fight for the championship and prize money in a 1v1 tournament.&lt;/p&gt;
+&lt;p&gt;ACtionBots is a fast-paced competition where you can form a team of 2-3 students to build your own 3D printed combat bot to battle in an arena. Robotics Technology Society (RTS) members wil conduct workshops where your team can learn about the basics of building a robot and Arduino in order to construct and program a simple remote-controlled robot. Then, you will face off against other teams to fight for the championship and prize money in a 1v1 tournament.&lt;/p&gt;
 
-&lt;p&gt;ACtionBots has 2 categories:&lt;/p&gt;
+&lt;p&gt;ACtionBots has 2 categories (based on your level in 2022):&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Junior Category&lt;/strong&gt;&lt;/p&gt;
 
@@ -1350,14 +1349,16 @@ snakeheadx,snakeheady = cells[131][0],cells[131][1]&lt;/p&gt;
 
 &lt;h4 id=&quot;workshop-details&quot;&gt;Workshop Details&lt;/h4&gt;
 
-&lt;p&gt;RTS will provide all your robot parts as well as video tutorials on how to build and program your robot on the first day of the workshops.
-The workshops are for your team to build, program and test your robot. RTS members will be present for consultation if you have any questions. The workshops will be held during the 2022 March Holidays; exact dates will be given at a later time.&lt;/p&gt;
+&lt;p&gt;RTS will provide all your robot parts as well as video tutorials on how to build and program your robot on the first day of the workshops.&lt;br /&gt;
+*Senior teams can design your own 3D printed parts and send the CAD file to RTS for approval and printing (PETG filament).&lt;br /&gt;
+Your team can build, program and test your robot while RTS members are present for consultation if you have any questions.&lt;br /&gt;
+The workshops will be held during the 2022 March Holidays; exact dates will be given at a later time.&lt;/p&gt;
 
 &lt;h4 id=&quot;sign-up&quot;&gt;Sign Up&lt;/h4&gt;
 
-&lt;p&gt;Here is the link to the sign up form: &lt;a href=&quot;https://forms.office.com/r/rk2qXWjxPN&quot;&gt;Click here&lt;/a&gt;
-Please fill in the form with your level in 2022 (ie. if you are Year 3 in 2021, sign up as a Year 4)
-Team spots will be filled on a first-come first-serve basis so sign up quickly! 
+&lt;p&gt;Here is the link to the sign up form: &lt;a href=&quot;https://forms.office.com/r/rk2qXWjxPN&quot;&gt;Click here&lt;/a&gt;&lt;br /&gt;
+Please sign up with your level in 2022 (ie. if you are Y3 in 2021, sign up as a Y4)&lt;br /&gt;
+Team spots will be filled on a first-come first-serve basis so sign up quickly!&lt;br /&gt;
 A Teams message will be sent to confirmed teams with more information about the competition, workshops and your robot.&lt;/p&gt;
 
 &lt;h4 id=&quot;contact-information&quot;&gt;Contact Information&lt;/h4&gt;
