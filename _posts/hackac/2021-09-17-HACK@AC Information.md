@@ -28,8 +28,7 @@ HACK@AC has 3 categories grouped under 2 CTF events.
 
 **HACK@AC (Inter-School)**
 
-* Open to all Secondary School Students in Singapore and **ACS(I) Year 4-6s**
-* Note that ACS(I) students will be in a separate leader-board for this event
+* Open to all Secondary School Students in Singapore
 * Solo Competition
 * **Date:** 16th October
 * **Time:** 8am - 5pm
