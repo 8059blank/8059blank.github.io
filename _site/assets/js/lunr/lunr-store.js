@@ -47,6 +47,12 @@ var store = [{
         "url": "/individual/3D-printers-102/",
         "teaser": null
       },{
+        "title": "SurfACe",
+        "excerpt":"SurfACe is an automated surface sterilisation robot, developed in response to growing concern over the sanitization of public spaces, especially with incewased emphases during the current COVID-19 pandemic. Made to be simple and intuitive to use, this robot reduces manpower and resources needed for surface sanitisation, as well as being...","categories": ["club"],
+        "tags": [],
+        "url": "/club/SurfACe/",
+        "teaser": null
+      },{
         "title": "HACK@AC Terms and Conditions",
         "excerpt":"General Terms and Conditions On Collection, Use, or Disclosure of Information or Personal Data: 1) I understand and agree that any personal information which has been provided or will be provided for the purposes of participating in the competition may also be used for publicity, student outreach, and analysis for...","categories": ["hackac"],
         "tags": [],

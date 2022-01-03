@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-10-11T22:20:23+08:00</updated><id>/feed.xml</id><title type="html">8059Blank.</title><subtitle>Anglo Chinese School (Independent)</subtitle><author><name>8059Blank.</name></author><entry><title type="html">HACK@AC Terms and Conditions</title><link href="/hackac/HACK@AC-Conditions/" rel="alternate" type="text/html" title="HACK@AC Terms and Conditions" /><published>2021-09-17T00:00:00+08:00</published><updated>2021-09-17T00:00:00+08:00</updated><id>/hackac/HACK@AC%20Conditions</id><content type="html" xml:base="/hackac/HACK@AC-Conditions/">&lt;h2 id=&quot;general-terms-and-conditions&quot;&gt;General Terms and Conditions&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-01-04T00:15:53+08:00</updated><id>/feed.xml</id><title type="html">8059Blank.</title><subtitle>Anglo Chinese School (Independent)</subtitle><author><name>8059Blank.</name></author><entry><title type="html">HACK@AC Terms and Conditions</title><link href="/hackac/HACK@AC-Conditions/" rel="alternate" type="text/html" title="HACK@AC Terms and Conditions" /><published>2021-09-17T00:00:00+08:00</published><updated>2021-09-17T00:00:00+08:00</updated><id>/hackac/HACK@AC%20Conditions</id><content type="html" xml:base="/hackac/HACK@AC-Conditions/">&lt;h2 id=&quot;general-terms-and-conditions&quot;&gt;General Terms and Conditions&lt;/h2&gt;
 
 &lt;h3 id=&quot;on-collection-use-or-disclosure-of-information-or-personal-data&quot;&gt;On Collection, Use, or Disclosure of Information or Personal Data:&lt;/h3&gt;
 &lt;p&gt;1) I understand and agree that any personal information which has been provided or will be provided for the purposes of participating in the competition may also be used for publicity, student outreach, and analysis for policy recommendation purposes by ACS(I) or Cyber Security Agency of Singapore (CSA). This may include receiving communications on programmes, courses and events arranged or organized by ACS(I) or CSA.&lt;/p&gt;
@@ -170,7 +170,13 @@ HACK@AC Sign Up Link: &lt;a href=&quot;https://forms.office.com/r/DjC31Y0j1T&quo
 
 &lt;p&gt;Spots will be filled on a first-come first-serve basis so sign up quickly!&lt;/p&gt;
 
-&lt;p&gt;An email will be sent to confirmed participants with more information about the competition closer to the date.&lt;/p&gt;</content><author><name>HACK@AC Organisers</name></author><summary type="html">Competition Details</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/events/hack.png" /><media:content medium="image" url="/events/hack.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">3D Printers 102</title><link href="/individual/3D-printers-102/" rel="alternate" type="text/html" title="3D Printers 102" /><published>2020-05-31T00:00:00+08:00</published><updated>2020-05-31T00:00:00+08:00</updated><id>/individual/3D-printers-102</id><content type="html" xml:base="/individual/3D-printers-102/">&lt;p&gt;You really want to know how each part works, if not good luck fixing your printer.&lt;/p&gt;
+&lt;p&gt;An email will be sent to confirmed participants with more information about the competition closer to the date.&lt;/p&gt;</content><author><name>HACK@AC Organisers</name></author><summary type="html">Competition Details</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/events/hack.png" /><media:content medium="image" url="/events/hack.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">SurfACe</title><link href="/club/SurfACe/" rel="alternate" type="text/html" title="SurfACe" /><published>2020-11-12T00:00:00+08:00</published><updated>2020-11-12T00:00:00+08:00</updated><id>/club/SurfACe</id><content type="html" xml:base="/club/SurfACe/">&lt;p&gt;SurfACe is an automated surface sterilisation robot, developed in response to growing concern over the sanitization of public spaces, especially with incewased emphases during the current COVID-19 pandemic. Made to be simple and intuitive to use, this robot reduces manpower and resources needed for surface sanitisation, as well as being environmentally friendly&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../projects/club/SurfACe/image1.jpg&quot; alt=&quot;product&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;SurfACe disinfects surfaces through the use of a contained UV light bulb, shielding any harmful effects, which is particularly useful from home to public areas. On tables, it has ultrasonic detection for the corners, and is also inexpensive and easily constructed, being 3D printed and utlizing easily obtainable electronics. An integrated web server with remote control also notifies the user when the robot is finished cleaning.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../projects/club/SurfACe/image2.jpg&quot; alt=&quot;product&quot; /&gt;&lt;/p&gt;</content><author><name>8059Blank.</name></author><summary type="html">Development of an automated surface sterilization robot for use in public areas</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/projects/club/SurfACe/cover.jpg" /><media:content medium="image" url="/projects/club/SurfACe/cover.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">3D Printers 102</title><link href="/individual/3D-printers-102/" rel="alternate" type="text/html" title="3D Printers 102" /><published>2020-05-31T00:00:00+08:00</published><updated>2020-05-31T00:00:00+08:00</updated><id>/individual/3D-printers-102</id><content type="html" xml:base="/individual/3D-printers-102/">&lt;p&gt;You really want to know how each part works, if not good luck fixing your printer.&lt;/p&gt;
 &lt;h2 id=&quot;parts-of-a-3d-printer&quot;&gt;Parts of a 3d Printer&lt;/h2&gt;
 &lt;p&gt;Recap. You should have been paying attention to 3d printers 101 :(&lt;/p&gt;
 
@@ -329,91 +335,7 @@ Source: &lt;a href=&quot;http://my3dconcepts.com/explore/main-components-of-desk
 
 &lt;h3 id=&quot;some-side-notes&quot;&gt;Some side notes&lt;/h3&gt;
 
-&lt;p&gt;So in our school (ACSI) we have multiple 3D printers. All of our 3D printers are Cartessian printers which allows fast and relatively acurrate prints.&lt;/p&gt;</content><author><name>Sean Seah</name></author><summary type="html">3D printing may seem hard, but this should introduce you to all the basic concepts and ideas in 3D printing.</summary></entry><entry><title type="html">Minecraft - ACS(Independent) Edition</title><link href="/club/acs-minecraft-map/" rel="alternate" type="text/html" title="Minecraft - ACS(Independent) Edition" /><published>2020-05-29T00:00:00+08:00</published><updated>2020-05-29T00:00:00+08:00</updated><id>/club/acs-minecraft-map</id><content type="html" xml:base="/club/acs-minecraft-map/">&lt;style&gt;
-.two-col-flex{
-    column-count: 2;
-}
-
-.image-width-flex{
-    width: 22%;
-}
-
-@media (max-width: 800px) {
-    .two-col-flex{
-        column-count: 1;
-    }
-
-    .image-width-flex{
-        width: 45%;
-    }
-}
-
-@media (max-width: 400px) {
-    .image-width-flex{
-        width: 90%;
-    }
-}
-
-.two-col-flex li {
-  /* Just in case there are inline attributes */
-  width: 100% !important;
-  height: auto !important;
-}
-&lt;/style&gt;
-
-&lt;p&gt;During the COVID-19 outbreak in Singapore, schools and workplaces were closed, and students were required to embark on full home-based learning online. In the light of this situation, the Robotics and Technological Society took our ACS(I) campus online, making a virtual rendition of our school in Minecraft. Working for over 3 months to complete this project, we are finally releasing it to the student body on 1st June 2020, where they will be able to explore parts of school they had long missed with classmates. Our club is grateful for this opportunity to give back to the school family and use our creative skills to strengthen our AC bond in spirit while apart.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7AWT9jVgOBE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;acsi-resource-pack-download&quot;&gt;ACS(I) Resource Pack Download&lt;/h2&gt;
-&lt;p&gt;Click on each image to download individual resource packs.&lt;/p&gt;
-
-&lt;p&gt;&lt;button style=&quot;background-color: #4CAF50;  border: none;  color: white;  padding: 15px 32px;  text-align: center;  text-decoration: none;  display: inline-block;  font-size: 16px;&quot; onclick=&quot;location.href='../../projects/club/AC-Minecraft/AC-Minecraft-Resource-Pack-All.zip';_gaq.push(['_trackEvent','File Download All',this.href]);&quot; type=&quot;button&quot;&gt;Download All&lt;/button&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;../../projects/club/AC-Minecraft/IB-Male-Skin.zip&quot; onclick=&quot;_gaq.push(['_trackEvent','File Download',this.href]);&quot;&gt;&lt;img src=&quot;../../projects/club/AC-Minecraft/ibmale.png&quot; class=&quot;image-width-flex&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;../../projects/club/AC-Minecraft/IB-Female-Skin.zip&quot; onclick=&quot;_gaq.push(['_trackEvent','File Download',this.href]);&quot;&gt;&lt;img src=&quot;../../projects/club/AC-Minecraft/ibfemale.png&quot; class=&quot;image-width-flex&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;../../projects/club/AC-Minecraft/Secondary-Pants-Skin.zip&quot; onclick=&quot;_gaq.push(['_trackEvent','File Download',this.href]);&quot;&gt;&lt;img src=&quot;../../projects/club/AC-Minecraft/sec1.png&quot; class=&quot;image-width-flex&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;../../projects/club/AC-Minecraft/Secondary-Berms-Skin.zip&quot; onclick=&quot;_gaq.push(['_trackEvent','File Download',this.href]);&quot;&gt;&lt;img src=&quot;../../projects/club/AC-Minecraft/sec2.png&quot; class=&quot;image-width-flex&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;contributors&quot;&gt;Contributors&lt;/h2&gt;
-
-&lt;section class=&quot;two-col-flex&quot;&gt;
-    
-        &lt;li&gt;Marcus Chin (3.07)&lt;/li&gt;
-    
-        &lt;li&gt;Ryan Yap (3.09)&lt;/li&gt;
-    
-        &lt;li&gt;Quek Teck Yong (3.11)&lt;/li&gt;
-    
-        &lt;li&gt;Wong Yeh Siang (3.11)&lt;/li&gt;
-    
-        &lt;li&gt;Joel Teo (3.11)&lt;/li&gt;
-    
-        &lt;li&gt;Chen An Hong (3.12)&lt;/li&gt;
-    
-        &lt;li&gt;Zachary Lim (3.12)&lt;/li&gt;
-    
-        &lt;li&gt;Toh Xue Hong (3.12)&lt;/li&gt;
-    
-        &lt;li&gt;Marcus Quek (4.12)&lt;/li&gt;
-    
-        &lt;li&gt;Benjamin Chia (5.04)&lt;/li&gt;
-    
-        &lt;li&gt;Yuan Jing Xin (5.04)&lt;/li&gt;
-    
-        &lt;li&gt;Dylan Michael Chong (5.05)&lt;/li&gt;
-    
-        &lt;li&gt;Aloysius Wong (5.08)&lt;/li&gt;
-    
-        &lt;li&gt;Julian Khong (5.09)&lt;/li&gt;
-    
-        &lt;li&gt;Evans Soh (5.13)&lt;/li&gt;
-    
-        &lt;li&gt;Jarrett Tan (6.02)&lt;/li&gt;
-    
-        &lt;li&gt;Alvin Ng (6.04)&lt;/li&gt;
-    
-&lt;/section&gt;</content><author><name>8059Blank.</name></author><summary type="html">Creation of Anglo-Chinese School (Independent) in Minecraft</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/projects/club/AC-Minecraft/cover.png" /><media:content medium="image" url="/projects/club/AC-Minecraft/cover.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Making a Snake Game</title><link href="/individual/snake-game/" rel="alternate" type="text/html" title="Making a Snake Game" /><published>2020-05-29T00:00:00+08:00</published><updated>2020-05-29T00:00:00+08:00</updated><id>/individual/snake-game</id><content type="html" xml:base="/individual/snake-game/">&lt;p&gt;This project was my first real project I ever really took the time to properly finish, and it was quite an enriching experience for me. I learnt more about python and more specifically, pygame, which before this I was quite inexperienced in.&lt;/p&gt;
+&lt;p&gt;So in our school (ACSI) we have multiple 3D printers. All of our 3D printers are Cartessian printers which allows fast and relatively acurrate prints.&lt;/p&gt;</content><author><name>Sean Seah</name></author><summary type="html">3D printing may seem hard, but this should introduce you to all the basic concepts and ideas in 3D printing.</summary></entry><entry><title type="html">Making a Snake Game</title><link href="/individual/snake-game/" rel="alternate" type="text/html" title="Making a Snake Game" /><published>2020-05-29T00:00:00+08:00</published><updated>2020-05-29T00:00:00+08:00</updated><id>/individual/snake-game</id><content type="html" xml:base="/individual/snake-game/">&lt;p&gt;This project was my first real project I ever really took the time to properly finish, and it was quite an enriching experience for me. I learnt more about python and more specifically, pygame, which before this I was quite inexperienced in.&lt;/p&gt;
 
 &lt;p&gt;I began by trying to plan the code out in my head. I decided where roughly each part of the code will be, but other than that it was a very simple plan. On hindsight, I should have spent more work and time on the plan, and not have rushed into the code.&lt;/p&gt;
 
@@ -502,7 +424,91 @@ snakeheadx,snakeheady = cells[131][0],cells[131][1]&lt;/p&gt;
 
 &lt;p&gt;Lastly were the embellishments like the sound and the endscreen. I did not know much about sound and rendering text in pygame, but thanks to this project I managed to learn them.&lt;/p&gt;
 
-&lt;p&gt;Though snake is a very simple game to code compared to other games, the novice that I am had much to learn and had a very fun time doing this project over the course of the weekend. I look forward to doing something like this in the future again&lt;/p&gt;</content><author><name>Marcus Cheong</name></author><summary type="html">This project was my first real project I ever really took the time to properly finish, and it was quite an enriching experience for me. I learnt more about python and more specifically, pygame, which before this I was quite inexperienced in.</summary></entry><entry><title type="html">The Artist’s Masterpiece</title><link href="/individual/artists-masterpiece/" rel="alternate" type="text/html" title="The Artist's Masterpiece" /><published>2020-05-11T00:00:00+08:00</published><updated>2020-05-11T00:00:00+08:00</updated><id>/individual/artists-masterpiece</id><content type="html" xml:base="/individual/artists-masterpiece/">&lt;p&gt;&lt;a href=&quot;../../projects/indiv/2020-05-11-artists-masterpiece/Artists-Masterpiece.exe&quot;&gt;EXE Download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Though snake is a very simple game to code compared to other games, the novice that I am had much to learn and had a very fun time doing this project over the course of the weekend. I look forward to doing something like this in the future again&lt;/p&gt;</content><author><name>Marcus Cheong</name></author><summary type="html">This project was my first real project I ever really took the time to properly finish, and it was quite an enriching experience for me. I learnt more about python and more specifically, pygame, which before this I was quite inexperienced in.</summary></entry><entry><title type="html">Minecraft - ACS(Independent) Edition</title><link href="/club/acs-minecraft-map/" rel="alternate" type="text/html" title="Minecraft - ACS(Independent) Edition" /><published>2020-05-29T00:00:00+08:00</published><updated>2020-05-29T00:00:00+08:00</updated><id>/club/acs-minecraft-map</id><content type="html" xml:base="/club/acs-minecraft-map/">&lt;style&gt;
+.two-col-flex{
+    column-count: 2;
+}
+
+.image-width-flex{
+    width: 22%;
+}
+
+@media (max-width: 800px) {
+    .two-col-flex{
+        column-count: 1;
+    }
+
+    .image-width-flex{
+        width: 45%;
+    }
+}
+
+@media (max-width: 400px) {
+    .image-width-flex{
+        width: 90%;
+    }
+}
+
+.two-col-flex li {
+  /* Just in case there are inline attributes */
+  width: 100% !important;
+  height: auto !important;
+}
+&lt;/style&gt;
+
+&lt;p&gt;During the COVID-19 outbreak in Singapore, schools and workplaces were closed, and students were required to embark on full home-based learning online. In the light of this situation, the Robotics and Technological Society took our ACS(I) campus online, making a virtual rendition of our school in Minecraft. Working for over 3 months to complete this project, we are finally releasing it to the student body on 1st June 2020, where they will be able to explore parts of school they had long missed with classmates. Our club is grateful for this opportunity to give back to the school family and use our creative skills to strengthen our AC bond in spirit while apart.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7AWT9jVgOBE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;acsi-resource-pack-download&quot;&gt;ACS(I) Resource Pack Download&lt;/h2&gt;
+&lt;p&gt;Click on each image to download individual resource packs.&lt;/p&gt;
+
+&lt;p&gt;&lt;button style=&quot;background-color: #4CAF50;  border: none;  color: white;  padding: 15px 32px;  text-align: center;  text-decoration: none;  display: inline-block;  font-size: 16px;&quot; onclick=&quot;location.href='../../projects/club/AC-Minecraft/AC-Minecraft-Resource-Pack-All.zip';_gaq.push(['_trackEvent','File Download All',this.href]);&quot; type=&quot;button&quot;&gt;Download All&lt;/button&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;../../projects/club/AC-Minecraft/IB-Male-Skin.zip&quot; onclick=&quot;_gaq.push(['_trackEvent','File Download',this.href]);&quot;&gt;&lt;img src=&quot;../../projects/club/AC-Minecraft/ibmale.png&quot; class=&quot;image-width-flex&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;../../projects/club/AC-Minecraft/IB-Female-Skin.zip&quot; onclick=&quot;_gaq.push(['_trackEvent','File Download',this.href]);&quot;&gt;&lt;img src=&quot;../../projects/club/AC-Minecraft/ibfemale.png&quot; class=&quot;image-width-flex&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;../../projects/club/AC-Minecraft/Secondary-Pants-Skin.zip&quot; onclick=&quot;_gaq.push(['_trackEvent','File Download',this.href]);&quot;&gt;&lt;img src=&quot;../../projects/club/AC-Minecraft/sec1.png&quot; class=&quot;image-width-flex&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;../../projects/club/AC-Minecraft/Secondary-Berms-Skin.zip&quot; onclick=&quot;_gaq.push(['_trackEvent','File Download',this.href]);&quot;&gt;&lt;img src=&quot;../../projects/club/AC-Minecraft/sec2.png&quot; class=&quot;image-width-flex&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;contributors&quot;&gt;Contributors&lt;/h2&gt;
+
+&lt;section class=&quot;two-col-flex&quot;&gt;
+    
+        &lt;li&gt;Marcus Chin (3.07)&lt;/li&gt;
+    
+        &lt;li&gt;Ryan Yap (3.09)&lt;/li&gt;
+    
+        &lt;li&gt;Quek Teck Yong (3.11)&lt;/li&gt;
+    
+        &lt;li&gt;Wong Yeh Siang (3.11)&lt;/li&gt;
+    
+        &lt;li&gt;Joel Teo (3.11)&lt;/li&gt;
+    
+        &lt;li&gt;Chen An Hong (3.12)&lt;/li&gt;
+    
+        &lt;li&gt;Zachary Lim (3.12)&lt;/li&gt;
+    
+        &lt;li&gt;Toh Xue Hong (3.12)&lt;/li&gt;
+    
+        &lt;li&gt;Marcus Quek (4.12)&lt;/li&gt;
+    
+        &lt;li&gt;Benjamin Chia (5.04)&lt;/li&gt;
+    
+        &lt;li&gt;Yuan Jing Xin (5.04)&lt;/li&gt;
+    
+        &lt;li&gt;Dylan Michael Chong (5.05)&lt;/li&gt;
+    
+        &lt;li&gt;Aloysius Wong (5.08)&lt;/li&gt;
+    
+        &lt;li&gt;Julian Khong (5.09)&lt;/li&gt;
+    
+        &lt;li&gt;Evans Soh (5.13)&lt;/li&gt;
+    
+        &lt;li&gt;Jarrett Tan (6.02)&lt;/li&gt;
+    
+        &lt;li&gt;Alvin Ng (6.04)&lt;/li&gt;
+    
+&lt;/section&gt;</content><author><name>8059Blank.</name></author><summary type="html">Creation of Anglo-Chinese School (Independent) in Minecraft</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/projects/club/AC-Minecraft/cover.png" /><media:content medium="image" url="/projects/club/AC-Minecraft/cover.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Artist’s Masterpiece</title><link href="/individual/artists-masterpiece/" rel="alternate" type="text/html" title="The Artist's Masterpiece" /><published>2020-05-11T00:00:00+08:00</published><updated>2020-05-11T00:00:00+08:00</updated><id>/individual/artists-masterpiece</id><content type="html" xml:base="/individual/artists-masterpiece/">&lt;p&gt;&lt;a href=&quot;../../projects/indiv/2020-05-11-artists-masterpiece/Artists-Masterpiece.exe&quot;&gt;EXE Download&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;(Note: This game can only be played if you download Adobe Flash Like getting a Nintendo to play Super Mario)&lt;/p&gt;
 
@@ -1317,50 +1323,4 @@ snakeheadx,snakeheady = cells[131][0],cells[131][1]&lt;/p&gt;
 
 &lt;p&gt;MedACS comprises two components: A Companion Smartphone App allows caregivers to remotely input medical information, while an Automated Pill Dispenser monitors consumption patterns and noncompliance, detecting when and if patients take the dispensed medication to alert caregivers to irregularities. To safeguard patients from overdosing on Over-The-Counter (OTC) medication, MedACS is also equipped with an adjustable safeguard, utilising the integrated display to provide visual and aural cues.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../../projects/club/MedACS/poster.jpg&quot; alt=&quot;poster&quot; /&gt;&lt;/p&gt;</content><author><name>8059Blank.</name></author><summary type="html">Development of a novel automated drug scheduling, provision and reminder system with the BBC micro:bit</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/projects/club/MedACS/product.png" /><media:content medium="image" url="/projects/club/MedACS/product.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">ACtionBots Information</title><link href="/actionbots/ACtionBots-Information/" rel="alternate" type="text/html" title="ACtionBots Information" /><published>2019-09-16T00:00:00+08:00</published><updated>2019-09-16T00:00:00+08:00</updated><id>/actionbots/ACtionBots%20Information</id><content type="html" xml:base="/actionbots/ACtionBots-Information/">&lt;h5 id=&quot;due-to-the-current-covid-19-situation-the-in-person-competition-will-be-postponed-to-the-2022-march-holiday&quot;&gt;Due to the current Covid-19 situation, the in-person competition will be postponed to the 2022 March holiday&lt;/h5&gt;
-
-&lt;h4 id=&quot;programme-details&quot;&gt;Programme Details&lt;/h4&gt;
-
-&lt;p&gt;ACtionBots is a fast-paced competition where you can form a team of 2-3 students to build your own 3D printed combat bot to battle in an arena. Robotics Technology Society (RTS) members wil conduct workshops where your team can learn about the basics of building a robot and Arduino in order to construct and program a simple remote-controlled robot. Then, you will face off against other teams to fight for the championship and prize money in a 1v1 tournament.&lt;/p&gt;
-
-&lt;p&gt;ACtionBots has 2 categories (based on your level in 2022):&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Junior Category&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Year 1-3s&lt;/li&gt;
-  &lt;li&gt;14 Driver Teams&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Senior Category&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Year 4-6s&lt;/li&gt;
-  &lt;li&gt;14 Driver Teams&lt;/li&gt;
-  &lt;li&gt;8 Autonomous Teams&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Awards&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;$100 - Champions of each category (Junior, Senior Driver and Senior Autonomous)&lt;/li&gt;
-  &lt;li&gt;$50  - Best Strategy Award (Overall)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;workshop-details&quot;&gt;Workshop Details&lt;/h4&gt;
-
-&lt;p&gt;RTS will provide all your robot parts as well as video tutorials on how to build and program your robot on the first day of the workshops.&lt;br /&gt;
-*Senior teams can design your own 3D printed parts and send the CAD file to RTS for approval and printing (PETG filament).&lt;br /&gt;
-Your team can build, program and test your robot while RTS members are present for consultation if you have any questions.&lt;br /&gt;
-The workshops will be held during the 2022 March Holidays; exact dates will be given at a later time.&lt;/p&gt;
-
-&lt;h4 id=&quot;sign-up&quot;&gt;Sign Up&lt;/h4&gt;
-
-&lt;p&gt;Here is the link to the sign up form: &lt;a href=&quot;https://forms.office.com/r/rk2qXWjxPN&quot;&gt;Click here&lt;/a&gt;&lt;br /&gt;
-Please sign up with your level in 2022 (ie. if you are Y3 in 2021, sign up as a Y4)&lt;br /&gt;
-Team spots will be filled on a first-come first-serve basis so sign up quickly!&lt;br /&gt;
-A Teams message will be sent to confirmed teams with more information about the competition, workshops and your robot.&lt;/p&gt;
-
-&lt;h4 id=&quot;contact-information&quot;&gt;Contact Information&lt;/h4&gt;
-
-&lt;p&gt;Feel free to contact 17nicholle.tang or 17he.ruizhi on Teams if you have any queries.&lt;/p&gt;</content><author><name>ACtionBotz Organisers</name></author><summary type="html">Due to the current Covid-19 situation, the in-person competition will be postponed to the 2022 March holiday</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/events/actionbots.png" /><media:content medium="image" url="/events/actionbots.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;&lt;img src=&quot;../../projects/club/MedACS/poster.jpg&quot; alt=&quot;poster&quot; /&gt;&lt;/p&gt;</content><author><name>8059Blank.</name></author><summary type="html">Development of a novel automated drug scheduling, provision and reminder system with the BBC micro:bit</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/projects/club/MedACS/product.png" /><media:content medium="image" url="/projects/club/MedACS/product.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
