@@ -9,7 +9,7 @@ title: Achievements
 - National Olympiad in Informatics - 3 Silver, 2 Bronze
 - Global Cybersecurity Camp - Robust Protocol Open Challenge Champion
 - FGC Grand Challenge Award - Silver
-- EWASTENOMORE - Gold, Bronze
+- EWASTENOMORE - 1st Placing, 3rd Placing
 
 ## 2020
 - Singapore VRC National Championship - Robot Skills Champion, Excellence Award 
