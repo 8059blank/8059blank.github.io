@@ -2,6 +2,12 @@
 layout: single
 title: Achievements
 ---
+## 2022
+- SUTD Pre-U Roboclash - First Runners Up, Most Innovative Design
+- Singapore VRC National Championship - High School and Middle School Robot Skills Champion
+- Whitehacks 2022 - 3rd, 4th
+- 3d Tronics - Godzilla Award, Best Coder Award, Theme Award
+
 ## 2021
 - Singapore VRC National Skills Challenge - Champion (Tertiary 1st, 2nd, 3rd Placing), Middle School Champion
 - Vex Robotics World Championships - Middle School Division Champion, Middle School Worlds Finalist
