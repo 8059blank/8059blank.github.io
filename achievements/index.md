@@ -7,6 +7,7 @@ title: Achievements
 - Singapore VRC National Championship - High School and Middle School Robot Skills Champion
 - Whitehacks 2022 - 3rd, 4th
 - 3d Tronics - Godzilla Award, Best Coder Award, Theme Award
+- National Olympiad in Informatics - 1 Silver, 4 Bronze
 
 ## 2021
 - Singapore VRC National Skills Challenge - Champion (Tertiary 1st, 2nd, 3rd Placing), Middle School Champion
