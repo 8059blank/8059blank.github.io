@@ -116,10 +116,6 @@ a.read-more {
  }
 </style>
 
-## mAChine Week
-
-![image-20211007234133530](poster.png)
-
 ## ACtionBots
 
 

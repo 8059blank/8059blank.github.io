@@ -1,57 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-01-04T01:10:14+08:00</updated><id>/feed.xml</id><title type="html">8059Blank.</title><subtitle>Anglo Chinese School (Independent)</subtitle><author><name>8059Blank.</name></author><entry><title type="html">HACK@AC Terms and Conditions</title><link href="/hackac/HACK@AC-Conditions/" rel="alternate" type="text/html" title="HACK@AC Terms and Conditions" /><published>2021-09-17T00:00:00+08:00</published><updated>2021-09-17T00:00:00+08:00</updated><id>/hackac/HACK@AC%20Conditions</id><content type="html" xml:base="/hackac/HACK@AC-Conditions/">&lt;h2 id=&quot;general-terms-and-conditions&quot;&gt;General Terms and Conditions&lt;/h2&gt;
-
-&lt;h3 id=&quot;on-collection-use-or-disclosure-of-information-or-personal-data&quot;&gt;On Collection, Use, or Disclosure of Information or Personal Data:&lt;/h3&gt;
-&lt;p&gt;1) I understand and agree that any personal information which has been provided or will be provided for the purposes of participating in the competition may also be used for publicity, student outreach, and analysis for policy recommendation purposes by ACS(I) or Cyber Security Agency of Singapore (CSA). This may include receiving communications on programmes, courses and events arranged or organized by ACS(I) or CSA.&lt;/p&gt;
-
-&lt;p&gt;2) I understand that I am personally responsible for any voluntary disclosure of personal or confidential information disclosed to others during the competition activities, including, but not limited to, through interactions with (among others) representatives of the organizing team and other participants.&lt;/p&gt;
-
-&lt;p&gt;3) I undertake that I will treat such information as confidential. I also undertake that I will not collect, use or retain such information for any purpose or disclose such information to any other person, without the prior consent of the owner(s) of such information.&lt;/p&gt;
-
-&lt;h3 id=&quot;on-conduct&quot;&gt;On Conduct:&lt;/h3&gt;
-&lt;p&gt;1) I am aware that any information disclosed and skills imparted during the Camp are for awareness, educational and/or illustrative purposes only. Any misuse or unauthorised use of any information or computer material is prohibited under the Computer Misuse Act (Cap 50A), the breach of which may lead to prosecution under Singapore law.&lt;/p&gt;
-
-&lt;p&gt;2) I undertake that I will not engage in the unethical misuse or unauthorised use of any information or computer material. I will not carry out any acts of sabotage, tampering, misuse, or attacks on other participants or outside of the competition environment.&lt;/p&gt;
-
-&lt;p&gt;The organisers reserves the right to amend the terms and conditions where and when it is necessary.&lt;/p&gt;
-
-&lt;h2 id=&quot;additional-information&quot;&gt;Additional Information&lt;/h2&gt;
-
-&lt;h3 id=&quot;data-protection-policy&quot;&gt;Data Protection Policy:&lt;/h3&gt;
-&lt;p&gt;Anglo-Chinese School (Independent) recognises the importance of personal data entrusted to us. We strongly believe and are committed to discharging our duty to ensure that your personal data is properly managed, protected and processed. This Data Protection Policy is intended to assist you in understanding how we collect, use, disclose, protect and process any personal data that we receive from you, and designed in accordance with the requirements under the Personal Data Protection Act 2012 (“PDPA”). For more information, visit &lt;a href=&quot;http://sites.acsindep.edu.sg/pdpa/pdpa.pdf&quot;&gt;http://sites.acsindep.edu.sg/pdpa/pdpa.pdf&lt;/a&gt;.&lt;/p&gt;</content><author><name>HACK@AC Organisers</name></author><summary type="html">General Terms and Conditions</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/events/hack.png" /><media:content medium="image" url="/events/hack.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">HACK@AC Information</title><link href="/hackac/HACK@AC-Information/" rel="alternate" type="text/html" title="HACK@AC Information" /><published>2021-09-17T00:00:00+08:00</published><updated>2021-09-17T00:00:00+08:00</updated><id>/hackac/HACK@AC%20Information</id><content type="html" xml:base="/hackac/HACK@AC-Information/">&lt;h2 id=&quot;competition-details&quot;&gt;Competition Details&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-09-03T00:34:25+08:00</updated><id>/feed.xml</id><title type="html">8059Blank.</title><subtitle>Anglo Chinese School (Independent)</subtitle><author><name>8059Blank.</name></author><entry><title type="html">ACtionBots Information</title><link href="/actionbots/ACtionBots-Information/" rel="alternate" type="text/html" title="ACtionBots Information" /><published>2022-09-03T00:00:00+08:00</published><updated>2022-09-03T00:00:00+08:00</updated><id>/actionbots/ACtionBots%20Information</id><content type="html" xml:base="/actionbots/ACtionBots-Information/">&lt;p&gt;More Details coming soon!&lt;/p&gt;</content><author><name>ACtionBotz Organisers</name></author><summary type="html">More Details coming soon!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/events/actionbots.png" /><media:content medium="image" url="/events/actionbots.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">HACK@AC Information</title><link href="/hackac/HACK@AC-Information/" rel="alternate" type="text/html" title="HACK@AC Information" /><published>2022-09-03T00:00:00+08:00</published><updated>2022-09-03T00:00:00+08:00</updated><id>/hackac/HACK@AC%20Information</id><content type="html" xml:base="/hackac/HACK@AC-Information/">&lt;h2 id=&quot;competition-details&quot;&gt;Competition Details&lt;/h2&gt;
 
 &lt;p&gt;HACK@AC is a Capture-The-Flag competition, where participants play to earn points by solving problems relating to cryptography, data security, and other prominent cybersecurity issues.&lt;/p&gt;
 
-&lt;p&gt;HACK@AC has 3 categories grouped under 2 CTF events.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;HACK@AC (ACS):&lt;/strong&gt;&lt;/p&gt;
-
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Open to all &lt;strong&gt;ACS Year 1-3 Students&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Solo competition&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Date:&lt;/strong&gt; 22nd October&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Time:&lt;/strong&gt; 2.30pm - 6.30pm&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Online&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 22nd October (7:30am) to 23rd October (8am)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;CTF Duration:&lt;/strong&gt; 24h&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Online&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Team Size:&lt;/strong&gt; Up to 3 members from the &lt;strong&gt;same school&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;HACK@AC (Inter-School)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;HACK@AC has 2 categories. &lt;br /&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;ACS Schools:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Open to all &lt;strong&gt;ACS School Students&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;ACS Schools include ACS Barker, ACS (Independent) and ACS (International)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Inter School:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Open to all Secondary School Students in Singapore&lt;/li&gt;
-  &lt;li&gt;Solo Competition&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; 16th October&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Time:&lt;/strong&gt; 8am - 5pm&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Venue:&lt;/strong&gt; Online&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Prizes:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;1st Place: $400&lt;/li&gt;
+  &lt;li&gt;2nd Place: $200&lt;/li&gt;
+  &lt;li&gt;3rd Place: $100&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;workshop-details-for-acs-students&quot;&gt;Workshop Details for ACS Students&lt;/h2&gt;
+
+&lt;p&gt;Workshops will be conducted prior to the HACK@AC CTF for ACS Students. These workshops will also be recorded and uploaded for interested participants.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Workshop Details&lt;/strong&gt;&lt;br /&gt;
+Dates: 21 Oct 2022&lt;br /&gt;
+Time:  4pm to 8pm
+Venue: Online on Teams&lt;/p&gt;
+
+&lt;h2 id=&quot;sign-up&quot;&gt;Sign Up&lt;/h2&gt;
+
+&lt;p&gt;HACK@AC Sign Up Link: &lt;a href=&quot;https://forms.office.com/r/XiQWLA1u1p&quot;&gt;Click here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://8059blank.github.io/hackac/HACK@AC-Conditions/&quot;&gt;Terms And Conditions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Spots will be filled on a first-come first-serve basis so sign up quickly!&lt;/p&gt;
+
+&lt;p&gt;An email will be sent to confirmed participants with more information about the competition closer to the date.&lt;/p&gt;
 
 &lt;h2 id=&quot;rules&quot;&gt;Rules&lt;/h2&gt;
 
@@ -60,7 +55,7 @@
     &lt;p&gt;Hack@AC is open only to current students from local secondary schools. Both Singaporean and non-Singaporean students from local secondary schools are welcome to participate.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;You may only participate as an individual.&lt;/p&gt;
+    &lt;p&gt;You may only participate as team of &lt;strong&gt;up to 3 members&lt;/strong&gt; from the &lt;strong&gt;same school&lt;/strong&gt;. Solo and pair teams are welcome to participate.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;Winners will be decided based on the scores, subject to follow up verification using (but not limited to) the following means:
     &lt;ul&gt;
@@ -74,7 +69,7 @@
   &lt;li&gt;Participants are bound by the laws of the Republic of Singapore, including but not limited to the Computer Misuse Act. In addition, participants who engage in cheating or anomalous behaviour will be disqualified at the sole discretion of the organisers. This includes:
     &lt;ul&gt;
       &lt;li&gt;Seeking help from any external party outside your team&lt;/li&gt;
-      &lt;li&gt;Sharing of flags or hints to another individual&lt;/li&gt;
+      &lt;li&gt;Sharing of flags or hints to another individual or team&lt;/li&gt;
       &lt;li&gt;Denial/interruption of services required for the competition&lt;/li&gt;
       &lt;li&gt;Obtaining or attempting to obtain illegal access to computer systems&lt;/li&gt;
     &lt;/ul&gt;
@@ -143,38 +138,30 @@
 
 &lt;p&gt;Q: What is the format of the competition?&lt;/p&gt;
 
-&lt;p&gt;A: Participants will attempt to earn the most points by solving competition challenges. At the end of the competition, points scored by each team will be added. The tiebreaker will be the time taken to solve the challenge.&lt;/p&gt;
+&lt;p&gt;A: Participants will attempt to earn the most points by solving competition challenges. At the end of the competition, points scored by each team will be added. The tiebreaker will be the time taken to solve the challenge.&lt;/p&gt;</content><author><name>HACK@AC Organisers</name></author><summary type="html">Competition Details</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/events/hack.png" /><media:content medium="image" url="/events/hack.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">HACK@AC Terms and Conditions</title><link href="/hackac/HACK@AC-Conditions/" rel="alternate" type="text/html" title="HACK@AC Terms and Conditions" /><published>2022-09-03T00:00:00+08:00</published><updated>2022-09-03T00:00:00+08:00</updated><id>/hackac/HACK@AC%20Conditions</id><content type="html" xml:base="/hackac/HACK@AC-Conditions/">&lt;h2 id=&quot;general-terms-and-conditions&quot;&gt;General Terms and Conditions&lt;/h2&gt;
 
-&lt;h2 id=&quot;workshop-details-for-hackac-acs&quot;&gt;Workshop Details for HACK@AC (ACS)&lt;/h2&gt;
+&lt;h3 id=&quot;on-collection-use-or-disclosure-of-information-or-personal-data&quot;&gt;On Collection, Use, or Disclosure of Information or Personal Data:&lt;/h3&gt;
+&lt;p&gt;1) I understand and agree that any personal information which has been provided or will be provided for the purposes of participating in the competition may also be used for publicity, student outreach, and analysis for policy recommendation purposes by ACS(I) or Cyber Security Agency of Singapore (CSA). This may include receiving communications on programmes, courses and events arranged or organized by ACS(I) or CSA.&lt;/p&gt;
 
-&lt;p&gt;Workshops will be conducted prior to the HACK@AC (ACS) CTF for ACS Students. These workshops will also be recorded and uploaded for interested participants from the HACK@AC (Inter-School) CTF.&lt;/p&gt;
+&lt;p&gt;2) I understand that I am personally responsible for any voluntary disclosure of personal or confidential information disclosed to others during the competition activities, including, but not limited to, through interactions with (among others) representatives of the organizing team and other participants.&lt;/p&gt;
 
-&lt;p&gt;A training platform will also be open for HACK@AC (ACS) participants to practice what has been taught at the 2 workshops. More information on the training platform will be released during the workshops itself.&lt;/p&gt;
+&lt;p&gt;3) I undertake that I will treat such information as confidential. I also undertake that I will not collect, use or retain such information for any purpose or disclose such information to any other person, without the prior consent of the owner(s) of such information.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Workshop 1&lt;/strong&gt;&lt;br /&gt;
-Dates: 13 October 2021&lt;br /&gt;
-Time:  10am - 12pm&lt;br /&gt;
-Venue: Online on Teams&lt;/p&gt;
+&lt;h3 id=&quot;on-conduct&quot;&gt;On Conduct:&lt;/h3&gt;
+&lt;p&gt;1) I am aware that any information disclosed and skills imparted during the Camp are for awareness, educational and/or illustrative purposes only. Any misuse or unauthorised use of any information or computer material is prohibited under the Computer Misuse Act (Cap 50A), the breach of which may lead to prosecution under Singapore law.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Workshop 2&lt;/strong&gt;&lt;br /&gt;
-Dates: 14 October 2021&lt;br /&gt;
-Time:  10am - 12pm&lt;br /&gt;
-Venue: Online on Teams&lt;/p&gt;
+&lt;p&gt;2) I undertake that I will not engage in the unethical misuse or unauthorised use of any information or computer material. I will not carry out any acts of sabotage, tampering, misuse, or attacks on other participants or outside of the competition environment.&lt;/p&gt;
 
-&lt;h2 id=&quot;sign-up&quot;&gt;Sign Up&lt;/h2&gt;
+&lt;p&gt;The organisers reserves the right to amend the terms and conditions where and when it is necessary.&lt;/p&gt;
 
-&lt;p&gt;HACK@AC (ACS) Sign Up Link: &lt;a href=&quot;https://forms.office.com/r/00ta9aRnXY&quot;&gt;Click here &lt;/a&gt;&lt;br /&gt;
-HACK@AC Sign Up Link: &lt;a href=&quot;https://forms.office.com/r/DjC31Y0j1T&quot;&gt;Click here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;additional-information&quot;&gt;Additional Information&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://8059blank.github.io/hackac/HACK@AC-Conditions/&quot;&gt;Terms And Conditions&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Spots will be filled on a first-come first-serve basis so sign up quickly!&lt;/p&gt;
-
-&lt;p&gt;An email will be sent to confirmed participants with more information about the competition closer to the date.&lt;/p&gt;</content><author><name>HACK@AC Organisers</name></author><summary type="html">Competition Details</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/events/hack.png" /><media:content medium="image" url="/events/hack.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">SurfACe</title><link href="/club/SurfACe/" rel="alternate" type="text/html" title="SurfACe" /><published>2020-11-12T00:00:00+08:00</published><updated>2020-11-12T00:00:00+08:00</updated><id>/club/SurfACe</id><content type="html" xml:base="/club/SurfACe/">&lt;p&gt;SurfACe is an automated surface sterilisation robot, developed in response to growing concern over the sanitization of public spaces, especially with incewased emphases during the current COVID-19 pandemic. Made to be simple and intuitive to use, this robot reduces manpower and resources needed for surface sanitisation, as well as being environmentally friendly&lt;/p&gt;
+&lt;h3 id=&quot;data-protection-policy&quot;&gt;Data Protection Policy:&lt;/h3&gt;
+&lt;p&gt;Anglo-Chinese School (Independent) recognises the importance of personal data entrusted to us. We strongly believe and are committed to discharging our duty to ensure that your personal data is properly managed, protected and processed. This Data Protection Policy is intended to assist you in understanding how we collect, use, disclose, protect and process any personal data that we receive from you, and designed in accordance with the requirements under the Personal Data Protection Act 2012 (“PDPA”). For more information, visit &lt;a href=&quot;http://sites.acsindep.edu.sg/pdpa/pdpa.pdf&quot;&gt;http://sites.acsindep.edu.sg/pdpa/pdpa.pdf&lt;/a&gt;.&lt;/p&gt;</content><author><name>HACK@AC Organisers</name></author><summary type="html">General Terms and Conditions</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/events/hack.png" /><media:content medium="image" url="/events/hack.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">SurfACe</title><link href="/club/SurfACe/" rel="alternate" type="text/html" title="SurfACe" /><published>2020-11-12T00:00:00+08:00</published><updated>2020-11-12T00:00:00+08:00</updated><id>/club/SurfACe</id><content type="html" xml:base="/club/SurfACe/">&lt;p&gt;SurfACe is an automated surface sterilisation robot, developed in response to growing concern over the sanitisation of public spaces, especially with increased emphasis during the current COVID-19 pandemic. Made to be simple and intuitive to use, this robot reduces manpower and resources needed for surface sanitisation, as well as being environmentally friendly&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../../projects/club/SurfACe/image1.jpg&quot; alt=&quot;product&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;SurfACe disinfects surfaces through the use of a contained UV light bulb, shielding any harmful effects, which is particularly useful from home to public areas. On tables, it has ultrasonic detection for the corners, and is also inexpensive and easily constructed, being 3D printed and utlizing easily obtainable electronics. An integrated web server with remote control also notifies the user when the robot is finished cleaning.&lt;/p&gt;
+&lt;p&gt;SurfACe disinfects surfaces using a contained UV light bulb, shielding any harmful effects, which is particularly useful from home to public areas. On tables, it has ultrasonic detection for the corners, and is also inexpensive and easily constructed, being 3D printed and utilizing easily obtainable electronics. An integrated web server with remote control also notifies the user when the robot is finished cleaning.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../../projects/club/SurfACe/image2.jpg&quot; alt=&quot;product&quot; /&gt;&lt;/p&gt;</content><author><name>8059Blank.</name></author><summary type="html">Development of an automated surface sterilization robot for use in public areas</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/projects/club/SurfACe/cover.jpg" /><media:content medium="image" url="/projects/club/SurfACe/cover.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">3D Printers 102</title><link href="/individual/3D-printers-102/" rel="alternate" type="text/html" title="3D Printers 102" /><published>2020-05-31T00:00:00+08:00</published><updated>2020-05-31T00:00:00+08:00</updated><id>/individual/3D-printers-102</id><content type="html" xml:base="/individual/3D-printers-102/">&lt;p&gt;You really want to know how each part works, if not good luck fixing your printer.&lt;/p&gt;
 &lt;h2 id=&quot;parts-of-a-3d-printer&quot;&gt;Parts of a 3d Printer&lt;/h2&gt;
@@ -335,7 +322,91 @@ Source: &lt;a href=&quot;http://my3dconcepts.com/explore/main-components-of-desk
 
 &lt;h3 id=&quot;some-side-notes&quot;&gt;Some side notes&lt;/h3&gt;
 
-&lt;p&gt;So in our school (ACSI) we have multiple 3D printers. All of our 3D printers are Cartessian printers which allows fast and relatively acurrate prints.&lt;/p&gt;</content><author><name>Sean Seah</name></author><summary type="html">3D printing may seem hard, but this should introduce you to all the basic concepts and ideas in 3D printing.</summary></entry><entry><title type="html">Making a Snake Game</title><link href="/individual/snake-game/" rel="alternate" type="text/html" title="Making a Snake Game" /><published>2020-05-29T00:00:00+08:00</published><updated>2020-05-29T00:00:00+08:00</updated><id>/individual/snake-game</id><content type="html" xml:base="/individual/snake-game/">&lt;p&gt;This project was my first real project I ever really took the time to properly finish, and it was quite an enriching experience for me. I learnt more about python and more specifically, pygame, which before this I was quite inexperienced in.&lt;/p&gt;
+&lt;p&gt;So in our school (ACSI) we have multiple 3D printers. All of our 3D printers are Cartessian printers which allows fast and relatively acurrate prints.&lt;/p&gt;</content><author><name>Sean Seah</name></author><summary type="html">3D printing may seem hard, but this should introduce you to all the basic concepts and ideas in 3D printing.</summary></entry><entry><title type="html">Minecraft - ACS(Independent) Edition</title><link href="/club/acs-minecraft-map/" rel="alternate" type="text/html" title="Minecraft - ACS(Independent) Edition" /><published>2020-05-29T00:00:00+08:00</published><updated>2020-05-29T00:00:00+08:00</updated><id>/club/acs-minecraft-map</id><content type="html" xml:base="/club/acs-minecraft-map/">&lt;style&gt;
+.two-col-flex{
+    column-count: 2;
+}
+
+.image-width-flex{
+    width: 22%;
+}
+
+@media (max-width: 800px) {
+    .two-col-flex{
+        column-count: 1;
+    }
+
+    .image-width-flex{
+        width: 45%;
+    }
+}
+
+@media (max-width: 400px) {
+    .image-width-flex{
+        width: 90%;
+    }
+}
+
+.two-col-flex li {
+  /* Just in case there are inline attributes */
+  width: 100% !important;
+  height: auto !important;
+}
+&lt;/style&gt;
+
+&lt;p&gt;During the COVID-19 outbreak in Singapore, schools and workplaces were closed, and students were required to embark on full home-based learning online. In the light of this situation, the Robotics and Technological Society took our ACS(I) campus online, making a virtual rendition of our school in Minecraft. Working for over 3 months to complete this project, we are finally releasing it to the student body on 1st June 2020, where they will be able to explore parts of school they had long missed with classmates. Our club is grateful for this opportunity to give back to the school family and use our creative skills to strengthen our AC bond in spirit while apart.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7AWT9jVgOBE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;acsi-resource-pack-download&quot;&gt;ACS(I) Resource Pack Download&lt;/h2&gt;
+&lt;p&gt;Click on each image to download individual resource packs.&lt;/p&gt;
+
+&lt;p&gt;&lt;button style=&quot;background-color: #4CAF50;  border: none;  color: white;  padding: 15px 32px;  text-align: center;  text-decoration: none;  display: inline-block;  font-size: 16px;&quot; onclick=&quot;location.href='../../projects/club/AC-Minecraft/AC-Minecraft-Resource-Pack-All.zip';_gaq.push(['_trackEvent','File Download All',this.href]);&quot; type=&quot;button&quot;&gt;Download All&lt;/button&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;../../projects/club/AC-Minecraft/IB-Male-Skin.zip&quot; onclick=&quot;_gaq.push(['_trackEvent','File Download',this.href]);&quot;&gt;&lt;img src=&quot;../../projects/club/AC-Minecraft/ibmale.png&quot; class=&quot;image-width-flex&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;../../projects/club/AC-Minecraft/IB-Female-Skin.zip&quot; onclick=&quot;_gaq.push(['_trackEvent','File Download',this.href]);&quot;&gt;&lt;img src=&quot;../../projects/club/AC-Minecraft/ibfemale.png&quot; class=&quot;image-width-flex&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;../../projects/club/AC-Minecraft/Secondary-Pants-Skin.zip&quot; onclick=&quot;_gaq.push(['_trackEvent','File Download',this.href]);&quot;&gt;&lt;img src=&quot;../../projects/club/AC-Minecraft/sec1.png&quot; class=&quot;image-width-flex&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;../../projects/club/AC-Minecraft/Secondary-Berms-Skin.zip&quot; onclick=&quot;_gaq.push(['_trackEvent','File Download',this.href]);&quot;&gt;&lt;img src=&quot;../../projects/club/AC-Minecraft/sec2.png&quot; class=&quot;image-width-flex&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;contributors&quot;&gt;Contributors&lt;/h2&gt;
+
+&lt;section class=&quot;two-col-flex&quot;&gt;
+    
+        &lt;li&gt;Marcus Chin (3.07)&lt;/li&gt;
+    
+        &lt;li&gt;Ryan Yap (3.09)&lt;/li&gt;
+    
+        &lt;li&gt;Quek Teck Yong (3.11)&lt;/li&gt;
+    
+        &lt;li&gt;Wong Yeh Siang (3.11)&lt;/li&gt;
+    
+        &lt;li&gt;Joel Teo (3.11)&lt;/li&gt;
+    
+        &lt;li&gt;Chen An Hong (3.12)&lt;/li&gt;
+    
+        &lt;li&gt;Zachary Lim (3.12)&lt;/li&gt;
+    
+        &lt;li&gt;Toh Xue Hong (3.12)&lt;/li&gt;
+    
+        &lt;li&gt;Marcus Quek (4.12)&lt;/li&gt;
+    
+        &lt;li&gt;Benjamin Chia (5.04)&lt;/li&gt;
+    
+        &lt;li&gt;Yuan Jing Xin (5.04)&lt;/li&gt;
+    
+        &lt;li&gt;Dylan Michael Chong (5.05)&lt;/li&gt;
+    
+        &lt;li&gt;Aloysius Wong (5.08)&lt;/li&gt;
+    
+        &lt;li&gt;Julian Khong (5.09)&lt;/li&gt;
+    
+        &lt;li&gt;Evans Soh (5.13)&lt;/li&gt;
+    
+        &lt;li&gt;Jarrett Tan (6.02)&lt;/li&gt;
+    
+        &lt;li&gt;Alvin Ng (6.04)&lt;/li&gt;
+    
+&lt;/section&gt;</content><author><name>8059Blank.</name></author><summary type="html">Creation of Anglo-Chinese School (Independent) in Minecraft</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/projects/club/AC-Minecraft/cover.png" /><media:content medium="image" url="/projects/club/AC-Minecraft/cover.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Making a Snake Game</title><link href="/individual/snake-game/" rel="alternate" type="text/html" title="Making a Snake Game" /><published>2020-05-29T00:00:00+08:00</published><updated>2020-05-29T00:00:00+08:00</updated><id>/individual/snake-game</id><content type="html" xml:base="/individual/snake-game/">&lt;p&gt;This project was my first real project I ever really took the time to properly finish, and it was quite an enriching experience for me. I learnt more about python and more specifically, pygame, which before this I was quite inexperienced in.&lt;/p&gt;
 
 &lt;p&gt;I began by trying to plan the code out in my head. I decided where roughly each part of the code will be, but other than that it was a very simple plan. On hindsight, I should have spent more work and time on the plan, and not have rushed into the code.&lt;/p&gt;
 
@@ -424,91 +495,7 @@ snakeheadx,snakeheady = cells[131][0],cells[131][1]&lt;/p&gt;
 
 &lt;p&gt;Lastly were the embellishments like the sound and the endscreen. I did not know much about sound and rendering text in pygame, but thanks to this project I managed to learn them.&lt;/p&gt;
 
-&lt;p&gt;Though snake is a very simple game to code compared to other games, the novice that I am had much to learn and had a very fun time doing this project over the course of the weekend. I look forward to doing something like this in the future again&lt;/p&gt;</content><author><name>Marcus Cheong</name></author><summary type="html">This project was my first real project I ever really took the time to properly finish, and it was quite an enriching experience for me. I learnt more about python and more specifically, pygame, which before this I was quite inexperienced in.</summary></entry><entry><title type="html">Minecraft - ACS(Independent) Edition</title><link href="/club/acs-minecraft-map/" rel="alternate" type="text/html" title="Minecraft - ACS(Independent) Edition" /><published>2020-05-29T00:00:00+08:00</published><updated>2020-05-29T00:00:00+08:00</updated><id>/club/acs-minecraft-map</id><content type="html" xml:base="/club/acs-minecraft-map/">&lt;style&gt;
-.two-col-flex{
-    column-count: 2;
-}
-
-.image-width-flex{
-    width: 22%;
-}
-
-@media (max-width: 800px) {
-    .two-col-flex{
-        column-count: 1;
-    }
-
-    .image-width-flex{
-        width: 45%;
-    }
-}
-
-@media (max-width: 400px) {
-    .image-width-flex{
-        width: 90%;
-    }
-}
-
-.two-col-flex li {
-  /* Just in case there are inline attributes */
-  width: 100% !important;
-  height: auto !important;
-}
-&lt;/style&gt;
-
-&lt;p&gt;During the COVID-19 outbreak in Singapore, schools and workplaces were closed, and students were required to embark on full home-based learning online. In the light of this situation, the Robotics and Technological Society took our ACS(I) campus online, making a virtual rendition of our school in Minecraft. Working for over 3 months to complete this project, we are finally releasing it to the student body on 1st June 2020, where they will be able to explore parts of school they had long missed with classmates. Our club is grateful for this opportunity to give back to the school family and use our creative skills to strengthen our AC bond in spirit while apart.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7AWT9jVgOBE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;acsi-resource-pack-download&quot;&gt;ACS(I) Resource Pack Download&lt;/h2&gt;
-&lt;p&gt;Click on each image to download individual resource packs.&lt;/p&gt;
-
-&lt;p&gt;&lt;button style=&quot;background-color: #4CAF50;  border: none;  color: white;  padding: 15px 32px;  text-align: center;  text-decoration: none;  display: inline-block;  font-size: 16px;&quot; onclick=&quot;location.href='../../projects/club/AC-Minecraft/AC-Minecraft-Resource-Pack-All.zip';_gaq.push(['_trackEvent','File Download All',this.href]);&quot; type=&quot;button&quot;&gt;Download All&lt;/button&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;../../projects/club/AC-Minecraft/IB-Male-Skin.zip&quot; onclick=&quot;_gaq.push(['_trackEvent','File Download',this.href]);&quot;&gt;&lt;img src=&quot;../../projects/club/AC-Minecraft/ibmale.png&quot; class=&quot;image-width-flex&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;../../projects/club/AC-Minecraft/IB-Female-Skin.zip&quot; onclick=&quot;_gaq.push(['_trackEvent','File Download',this.href]);&quot;&gt;&lt;img src=&quot;../../projects/club/AC-Minecraft/ibfemale.png&quot; class=&quot;image-width-flex&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;../../projects/club/AC-Minecraft/Secondary-Pants-Skin.zip&quot; onclick=&quot;_gaq.push(['_trackEvent','File Download',this.href]);&quot;&gt;&lt;img src=&quot;../../projects/club/AC-Minecraft/sec1.png&quot; class=&quot;image-width-flex&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;../../projects/club/AC-Minecraft/Secondary-Berms-Skin.zip&quot; onclick=&quot;_gaq.push(['_trackEvent','File Download',this.href]);&quot;&gt;&lt;img src=&quot;../../projects/club/AC-Minecraft/sec2.png&quot; class=&quot;image-width-flex&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;contributors&quot;&gt;Contributors&lt;/h2&gt;
-
-&lt;section class=&quot;two-col-flex&quot;&gt;
-    
-        &lt;li&gt;Marcus Chin (3.07)&lt;/li&gt;
-    
-        &lt;li&gt;Ryan Yap (3.09)&lt;/li&gt;
-    
-        &lt;li&gt;Quek Teck Yong (3.11)&lt;/li&gt;
-    
-        &lt;li&gt;Wong Yeh Siang (3.11)&lt;/li&gt;
-    
-        &lt;li&gt;Joel Teo (3.11)&lt;/li&gt;
-    
-        &lt;li&gt;Chen An Hong (3.12)&lt;/li&gt;
-    
-        &lt;li&gt;Zachary Lim (3.12)&lt;/li&gt;
-    
-        &lt;li&gt;Toh Xue Hong (3.12)&lt;/li&gt;
-    
-        &lt;li&gt;Marcus Quek (4.12)&lt;/li&gt;
-    
-        &lt;li&gt;Benjamin Chia (5.04)&lt;/li&gt;
-    
-        &lt;li&gt;Yuan Jing Xin (5.04)&lt;/li&gt;
-    
-        &lt;li&gt;Dylan Michael Chong (5.05)&lt;/li&gt;
-    
-        &lt;li&gt;Aloysius Wong (5.08)&lt;/li&gt;
-    
-        &lt;li&gt;Julian Khong (5.09)&lt;/li&gt;
-    
-        &lt;li&gt;Evans Soh (5.13)&lt;/li&gt;
-    
-        &lt;li&gt;Jarrett Tan (6.02)&lt;/li&gt;
-    
-        &lt;li&gt;Alvin Ng (6.04)&lt;/li&gt;
-    
-&lt;/section&gt;</content><author><name>8059Blank.</name></author><summary type="html">Creation of Anglo-Chinese School (Independent) in Minecraft</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/projects/club/AC-Minecraft/cover.png" /><media:content medium="image" url="/projects/club/AC-Minecraft/cover.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Artist’s Masterpiece</title><link href="/individual/artists-masterpiece/" rel="alternate" type="text/html" title="The Artist's Masterpiece" /><published>2020-05-11T00:00:00+08:00</published><updated>2020-05-11T00:00:00+08:00</updated><id>/individual/artists-masterpiece</id><content type="html" xml:base="/individual/artists-masterpiece/">&lt;p&gt;&lt;a href=&quot;../../projects/indiv/2020-05-11-artists-masterpiece/Artists-Masterpiece.exe&quot;&gt;EXE Download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Though snake is a very simple game to code compared to other games, the novice that I am had much to learn and had a very fun time doing this project over the course of the weekend. I look forward to doing something like this in the future again&lt;/p&gt;</content><author><name>Marcus Cheong</name></author><summary type="html">This project was my first real project I ever really took the time to properly finish, and it was quite an enriching experience for me. I learnt more about python and more specifically, pygame, which before this I was quite inexperienced in.</summary></entry><entry><title type="html">The Artist’s Masterpiece</title><link href="/individual/artists-masterpiece/" rel="alternate" type="text/html" title="The Artist's Masterpiece" /><published>2020-05-11T00:00:00+08:00</published><updated>2020-05-11T00:00:00+08:00</updated><id>/individual/artists-masterpiece</id><content type="html" xml:base="/individual/artists-masterpiece/">&lt;p&gt;&lt;a href=&quot;../../projects/indiv/2020-05-11-artists-masterpiece/Artists-Masterpiece.exe&quot;&gt;EXE Download&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;(Note: This game can only be played if you download Adobe Flash Like getting a Nintendo to play Super Mario)&lt;/p&gt;
 
@@ -1315,12 +1302,4 @@ snakeheadx,snakeheady = cells[131][0],cells[131][1]&lt;/p&gt;
 &lt;p&gt;Lastly, I wanted to include some way for the player to regenerate health. First, I tried making some enemies have a heal tag so when they die the player regenerates health. However, it was perhaps too effective, especially late-game, with many many enemies spawning at the same time. The player was basically invincible. When I tried lowering the chance for an enemy to carry the heal tag, it became so negligible that it wasn’t really that useful anymore. Thus, I got rid of that idea, and tried spawning in a healer that heals the player every 20 points or so. It actually sounded pretty cool, but was really difficult. I may consider adding that some day. Lastly, I made it such that the player heals every 100 points, similar to the healer. However, like before, it was too overpowered late-game, and the player became invincible. Thus, I tried making the player shoot multiple bullets per shot. At first, I made the bullets shoot horizontally, sort of like a shotgun but the bullets remain parallel. It was pretty easy to implement, but I realised that the player could just stay in a corner and become practically untouchable. Thus, I changed the power up to a burst shot, where the bullets lined up horizontally, and made the player lose health when touching the walls. Sometime after making this write-up, I thought “hey, wouldn’t it be cool if the bullets bounced off the walls?” So I added a health value to the bullet, and when bouncing off walls or hitting enemies, the health would go down by one, with this value increasing every 50 points. At the same time, I got rid of the losing-health-when-touching-walls mechanism, and replaced it with a bounce-off-the-walls mechanism, which complemented my bullets bouncing off the walls.&lt;/p&gt;
 &lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
 
-&lt;p&gt;In conclusion, this game has been pretty enjoyable to make, and I also learnt a lot from it. For example, I learnt how to track the mouse’s location in the canvas, how to track &lt;code class=&quot;highlighter-rouge&quot;&gt;keydown&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;keyup&lt;/code&gt;, the purpose of &lt;code class=&quot;highlighter-rouge&quot;&gt;setTimeout()&lt;/code&gt; and why it is superior to just using a while loop, how to store data locally in the browser’s cache and even something as simple as just making the canvas fit the size of the window, and something as trivial as how &lt;code class=&quot;highlighter-rouge&quot;&gt;Math.random&lt;/code&gt; obtains a random value which helped entertain me while I was stuck at something. I intend to keep updating the game with more game modes, maybe one where the player controls the enemies and the tank is controlled by the computer. Also, I am working on another game now, but it will probably take a much longer time to make. And you might want to try using the Konami code at the game over screen :)&lt;/p&gt;</content><author><name>Lucas Tan</name></author><summary type="html">Project Demo</summary></entry><entry><title type="html">MedACS</title><link href="/club/medACS/" rel="alternate" type="text/html" title="MedACS" /><published>2019-11-05T00:00:00+08:00</published><updated>2019-11-05T00:00:00+08:00</updated><id>/club/medACS</id><content type="html" xml:base="/club/medACS/">&lt;p&gt;&lt;img src=&quot;../../projects/club/MedACS/projectslide.png&quot; alt=&quot;product&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;MedACS (Medicine Automated Control System) is an integrated medication scheduling, provision and reminder system designed to reduce the burden on stay-at-home caregivers and patients by eliminating medicinal nonadherence and protecting users from accidental overdose. Working with a smartphone app, MedACS supersedes existing systems by remotely and automatically tabulating and scheduling pill dispensal.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../projects/club/MedACS/annotated.png&quot; alt=&quot;product&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;MedACS comprises two components: A Companion Smartphone App allows caregivers to remotely input medical information, while an Automated Pill Dispenser monitors consumption patterns and noncompliance, detecting when and if patients take the dispensed medication to alert caregivers to irregularities. To safeguard patients from overdosing on Over-The-Counter (OTC) medication, MedACS is also equipped with an adjustable safeguard, utilising the integrated display to provide visual and aural cues.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../../projects/club/MedACS/poster.jpg&quot; alt=&quot;poster&quot; /&gt;&lt;/p&gt;</content><author><name>8059Blank.</name></author><summary type="html">Development of a novel automated drug scheduling, provision and reminder system with the BBC micro:bit</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/projects/club/MedACS/product.png" /><media:content medium="image" url="/projects/club/MedACS/product.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;In conclusion, this game has been pretty enjoyable to make, and I also learnt a lot from it. For example, I learnt how to track the mouse’s location in the canvas, how to track &lt;code class=&quot;highlighter-rouge&quot;&gt;keydown&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;keyup&lt;/code&gt;, the purpose of &lt;code class=&quot;highlighter-rouge&quot;&gt;setTimeout()&lt;/code&gt; and why it is superior to just using a while loop, how to store data locally in the browser’s cache and even something as simple as just making the canvas fit the size of the window, and something as trivial as how &lt;code class=&quot;highlighter-rouge&quot;&gt;Math.random&lt;/code&gt; obtains a random value which helped entertain me while I was stuck at something. I intend to keep updating the game with more game modes, maybe one where the player controls the enemies and the tank is controlled by the computer. Also, I am working on another game now, but it will probably take a much longer time to make. And you might want to try using the Konami code at the game over screen :)&lt;/p&gt;</content><author><name>Lucas Tan</name></author><summary type="html">Project Demo</summary></entry></feed>

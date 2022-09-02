@@ -10,35 +10,49 @@ author:
 
 HACK@AC is a Capture-The-Flag competition, where participants play to earn points by solving problems relating to cryptography, data security, and other prominent cybersecurity issues.
 
-HACK@AC has 3 categories grouped under 2 CTF events. 
-
-**HACK@AC (ACS):**
-
-* Open to all **ACS Year 1-3 Students**
-
-* Solo competition
-
-* **Date:** 22nd October
-
-* **Time:** 2.30pm - 6.30pm
-
+* **Date:** 22nd October (7:30am) to 23rd October (8am)
+* **CTF Duration:** 24h
 * **Venue:** Online
+* **Team Size:** Up to 3 members from the **same school**
 
-  
+HACK@AC has 2 categories. <br>
 
-**HACK@AC (Inter-School)**
+**ACS Schools:**
+* Open to all **ACS School Students**
+* ACS Schools include ACS Barker, ACS (Independent) and ACS (International)  
 
+**Inter School:**
 * Open to all Secondary School Students in Singapore
-* Solo Competition
-* **Date:** 16th October
-* **Time:** 8am - 5pm
-* **Venue:** Online
+
+**Prizes:**
+* 1st Place: $400
+* 2nd Place: $200
+* 3rd Place: $100
+
+## Workshop Details for ACS Students
+
+Workshops will be conducted prior to the HACK@AC CTF for ACS Students. These workshops will also be recorded and uploaded for interested participants. 
+
+**Workshop Details**  
+Dates: 21 Oct 2022  
+Time:  4pm to 8pm
+Venue: Online on Teams  
+
+## Sign Up
+
+HACK@AC Sign Up Link: [Click here](https://forms.office.com/r/XiQWLA1u1p)  
+
+[Terms And Conditions](https://8059blank.github.io/hackac/HACK@AC-Conditions/)  
+
+Spots will be filled on a first-come first-serve basis so sign up quickly!  
+
+An email will be sent to confirmed participants with more information about the competition closer to the date.
 
 ## Rules
 
 * Hack@AC is open only to current students from local secondary schools. Both Singaporean and non-Singaporean students from local secondary schools are welcome to participate.
 
-* You may only participate as an individual.
+* You may only participate as team of **up to 3 members** from the **same school**. Solo and pair teams are welcome to participate.
 
 * Winners will be decided based on the scores, subject to follow up verification using (but not limited to) the following means:
   * submission of sufficiently detailed writeups challenges selected by the Organisers
@@ -48,7 +62,7 @@ HACK@AC has 3 categories grouped under 2 CTF events.
 
 * Participants are bound by the laws of the Republic of Singapore, including but not limited to the Computer Misuse Act. In addition, participants who engage in cheating or anomalous behaviour will be disqualified at the sole discretion of the organisers. This includes:
   * Seeking help from any external party outside your team
-  * Sharing of flags or hints to another individual
+  * Sharing of flags or hints to another individual or team
   * Denial/interruption of services required for the competition
   * Obtaining or attempting to obtain illegal access to computer systems
 
@@ -112,29 +126,4 @@ Q: What is the format of the competition?
 
 A: Participants will attempt to earn the most points by solving competition challenges. At the end of the competition, points scored by each team will be added. The tiebreaker will be the time taken to solve the challenge.
 
-## Workshop Details for HACK@AC (ACS)
 
-Workshops will be conducted prior to the HACK@AC (ACS) CTF for ACS Students. These workshops will also be recorded and uploaded for interested participants from the HACK@AC (Inter-School) CTF. 
-
-A training platform will also be open for HACK@AC (ACS) participants to practice what has been taught at the 2 workshops. More information on the training platform will be released during the workshops itself. 
-
-**Workshop 1**  
-Dates: 13 October 2021  
-Time:  10am - 12pm  
-Venue: Online on Teams  
-
-**Workshop 2**  
-Dates: 14 October 2021  
-Time:  10am - 12pm  
-Venue: Online on Teams  
-
-## Sign Up
-
-HACK@AC (ACS) Sign Up Link: [Click here ](https://forms.office.com/r/00ta9aRnXY)  
-HACK@AC Sign Up Link: [Click here](https://forms.office.com/r/DjC31Y0j1T)  
-
-[Terms And Conditions](https://8059blank.github.io/hackac/HACK@AC-Conditions/)  
-
-Spots will be filled on a first-come first-serve basis so sign up quickly!  
-
-An email will be sent to confirmed participants with more information about the competition closer to the date.

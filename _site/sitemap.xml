@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/actionbots/ACtionBots-Information/</loc>
-<lastmod>2019-09-16T00:00:00+08:00</lastmod>
-</url>
-<url>
 <loc>/club/medACS/</loc>
 <lastmod>2019-11-05T00:00:00+08:00</lastmod>
 </url>
@@ -37,12 +33,16 @@
 <lastmod>2020-11-12T00:00:00+08:00</lastmod>
 </url>
 <url>
+<loc>/actionbots/ACtionBots-Information/</loc>
+<lastmod>2022-09-03T00:00:00+08:00</lastmod>
+</url>
+<url>
 <loc>/hackac/HACK@AC-Conditions/</loc>
-<lastmod>2021-09-17T00:00:00+08:00</lastmod>
+<lastmod>2022-09-03T00:00:00+08:00</lastmod>
 </url>
 <url>
 <loc>/hackac/HACK@AC-Information/</loc>
-<lastmod>2021-09-17T00:00:00+08:00</lastmod>
+<lastmod>2022-09-03T00:00:00+08:00</lastmod>
 </url>
 <url>
 <loc>/about/</loc>
@@ -64,6 +64,6 @@
 </url>
 <url>
 <loc>/projects/indiv/2020-05-03-aspera/</loc>
-<lastmod>2022-01-03T23:44:57+08:00</lastmod>
+<lastmod>2022-09-03T00:09:02+08:00</lastmod>
 </url>
 </urlset>

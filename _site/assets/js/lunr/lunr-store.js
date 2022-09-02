@@ -1,10 +1,4 @@
 var store = [{
-        "title": "ACtionBots Information",
-        "excerpt":"Due to the current Covid-19 situation, the in-person competition will be postponed to the 2022 March holiday Programme Details ACtionBots is a fast-paced competition where you can form a team of 2-3 students to build your own 3D printed combat bot to battle in an arena. Robotics Technology Society (RTS)...","categories": ["actionbots"],
-        "tags": [],
-        "url": "/actionbots/ACtionBots-Information/",
-        "teaser": null
-      },{
         "title": "MedACS",
         "excerpt":"MedACS (Medicine Automated Control System) is an integrated medication scheduling, provision and reminder system designed to reduce the burden on stay-at-home caregivers and patients by eliminating medicinal nonadherence and protecting users from accidental overdose. Working with a smartphone app, MedACS supersedes existing systems by remotely and automatically tabulating and scheduling...","categories": ["club"],
         "tags": [],
@@ -48,9 +42,15 @@ var store = [{
         "teaser": null
       },{
         "title": "SurfACe",
-        "excerpt":"SurfACe is an automated surface sterilisation robot, developed in response to growing concern over the sanitization of public spaces, especially with incewased emphases during the current COVID-19 pandemic. Made to be simple and intuitive to use, this robot reduces manpower and resources needed for surface sanitisation, as well as being...","categories": ["club"],
+        "excerpt":"SurfACe is an automated surface sterilisation robot, developed in response to growing concern over the sanitisation of public spaces, especially with increased emphasis during the current COVID-19 pandemic. Made to be simple and intuitive to use, this robot reduces manpower and resources needed for surface sanitisation, as well as being...","categories": ["club"],
         "tags": [],
         "url": "/club/SurfACe/",
+        "teaser": null
+      },{
+        "title": "ACtionBots Information",
+        "excerpt":"More Details coming soon!  ","categories": ["actionbots"],
+        "tags": [],
+        "url": "/actionbots/ACtionBots-Information/",
         "teaser": null
       },{
         "title": "HACK@AC Terms and Conditions",
@@ -60,7 +60,7 @@ var store = [{
         "teaser": null
       },{
         "title": "HACK@AC Information",
-        "excerpt":"Competition Details HACK@AC is a Capture-The-Flag competition, where participants play to earn points by solving problems relating to cryptography, data security, and other prominent cybersecurity issues. HACK@AC has 3 categories grouped under 2 CTF events. HACK@AC (ACS): Open to all ACS Year 1-3 Students Solo competition Date: 22nd October Time:...","categories": ["hackac"],
+        "excerpt":"Competition Details HACK@AC is a Capture-The-Flag competition, where participants play to earn points by solving problems relating to cryptography, data security, and other prominent cybersecurity issues. Date: 22nd October (7:30am) to 23rd October (8am) CTF Duration: 24h Venue: Online Team Size: Up to 3 members from the same school HACK@AC...","categories": ["hackac"],
         "tags": [],
         "url": "/hackac/HACK@AC-Information/",
         "teaser": null
