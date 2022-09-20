@@ -22,8 +22,8 @@ Open to **Year 1 - 5 ACS (Independent) Students**
 **Prizes:** <br>
 The amount provided is for the entire team.
 
-* Tournament Winner Prize: #300
-* Tournament 1st Runner Up Prize: #150
+* Tournament Winner Prize: $300
+* Tournament 1st Runner Up Prize: $150
 * Tournament 2nd Runner Up Prize: $75
 * Amazing Race Winner Prize: $75
 
