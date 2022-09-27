@@ -34,9 +34,8 @@ HACK@AC has 2 categories. <br>
 Workshops will be conducted prior to the HACK@AC CTF for ACS Students. These workshops will also be recorded and uploaded for interested participants. 
 
 **Workshop Details**  
-Dates: 21 Oct 2022  
-Time:  4pm to 8pm
-Venue: Online on Teams  
+* **Date:** 21 Oct 2022 (4pm to 8pm)
+* **Venue**: Online on Microsoft Teams
 
 ## Sign Up
 
@@ -108,7 +107,7 @@ A: No, winners are decided based on the overall score, subject to follow up veri
 
 
 
-Q: What do i need to prepare for the competition?
+Q: What do I need to prepare for the competition?
 
 A: All participants are required to use their own laptops. The minimum specifications **recommended** of participants’ laptops are as follows:
 
