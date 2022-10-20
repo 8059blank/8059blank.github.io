@@ -10,7 +10,7 @@ author:
 
 HACK@AC is a Capture-The-Flag competition, where participants play to earn points by solving problems relating to cryptography, data security, and other prominent cybersecurity issues.
 
-* **Date:** 22nd October (7:30am) to 23rd October (8am)
+* **Date:** 22nd October (7:30am) to 23rd October (9am)
 * **CTF Duration:** 24h
 * **Venue:** Online
 * **Team Size:** Up to 3 members from the **same school**
