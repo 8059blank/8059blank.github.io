@@ -8,6 +8,7 @@ title: Achievements
 - Whitehacks 2022 - 3rd, 4th
 - 3d Tronics - Godzilla Award, Best Coder Award, Theme Award
 - National Olympiad in Informatics - 1 Silver, 4 Bronze
+- Eat a dick sean seah
 
 ## 2021
 - Singapore VRC National Skills Challenge - Champion (Tertiary 1st, 2nd, 3rd Placing), Middle School Champion
