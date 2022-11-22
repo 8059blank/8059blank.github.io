@@ -11,7 +11,7 @@ title: Achievements
 - VEX Robotics World Championship - Division Champion, Create Award, Inspire Award
 - Singapore Vex Robotics Championship - Tournament Champion, Tournament Finalist, Skills Challenge Silver medalist
 - OneArena - Main Event Overall Champion
-- Robomaster Youth - Third Placing
+- Robomaster Youth Tournament (Singapore) - 3rd Placing
 
 ## 2021
 - Singapore VRC National Skills Challenge - Champion (Tertiary 1st, 2nd, 3rd Placing), Middle School Champion
