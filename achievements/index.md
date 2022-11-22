@@ -9,9 +9,9 @@ title: Achievements
 - 3d Tronics - Godzilla Award, Best Coder Award, Theme Award
 - National Olympiad in Informatics - 1 Silver, 4 Bronze
 - VEX Robotics World Championship - Division Champion, Create Award, Inspire Award
-- Singapore Vex Robotics Championship - Tournament Champion, Tournament Finalist, Skills Challenge Silver
+- Singapore Vex Robotics Championship - Tournament Champion, Tournament Finalist, Skills Challenge Silver medalist
 - OneArena - Main Event Overall Champion
-- Robomaster Youth - Second Runners Up
+- Robomaster Youth - Third Placing
 
 ## 2021
 - Singapore VRC National Skills Challenge - Champion (Tertiary 1st, 2nd, 3rd Placing), Middle School Champion
