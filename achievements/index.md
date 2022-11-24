@@ -12,6 +12,9 @@ title: Achievements
 - Singapore Vex Robotics Championship - Tournament Champion, Tournament Finalist, Skills Challenge Silver medalist
 - OneArena - Main Event Overall Champion
 - Robomaster Youth Tournament (Singapore) - 3rd Placing
+- Sentinel Challenge CTF - 1st Runners Up
+- Tan Kah Kee Young Innovators Award - Semifinalists
+- BrainHack CDDC 2022 CTF Challenge - 3rd Placing
 
 ## 2021
 - Singapore VRC National Skills Challenge - Champion (Tertiary 1st, 2nd, 3rd Placing), Middle School Champion
