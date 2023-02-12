@@ -2,6 +2,8 @@
 layout: single
 title: Achievements
 ---
+## 2023
+- Singapore VRC National Championship - Tournament Champion, Judges Award
 ## 2022
 - SUTD Pre-U Roboclash - First Runners Up, Most Innovative Design
 - Singapore VRC National Championship - High School and Middle School Robot Skills Champion
@@ -15,6 +17,7 @@ title: Achievements
 - Sentinel Challenge CTF - 1st Runners Up
 - Tan Kah Kee Young Innovators Award - Semifinalists
 - BrainHack CDDC 2022 CTF Challenge - 3rd Placing
+
 
 ## 2021
 - Singapore VRC National Skills Challenge - Champion (Tertiary 1st, 2nd, 3rd Placing), Middle School Champion
