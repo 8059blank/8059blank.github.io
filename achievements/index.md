@@ -4,6 +4,13 @@ title: Achievements
 ---
 ## 2023
 - Singapore VRC National Championship - Tournament Champion, Judges Award
+- VEX Robotics World Championship - Division Champion
+- National Olympiad for Informatics - 2x Bronze, Silver
+- Whitehacks 2023 - 1st Placing
+- Cyberthon 2023 - 2nd Placing
+- Sieberrsec 2023 - 1st Placing
+- IDEX 2023 - SMU SCIS Technology Award, Abbott High School STEM Internship Award
+
 ## 2022
 - SUTD Pre-U Roboclash - First Runners Up, Most Innovative Design
 - Singapore VRC National Championship - High School and Middle School Robot Skills Champion
