@@ -1,6 +1,6 @@
 <script>
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', '{{ site.analytics.google.tracking_id }}']);
+  _gaq.push(['_setAccount', '{{ site.analytics.google.measurement_id }}']);
   {% if site.analytics.google.anonymize_ip == true %}
     _gaq.push(['_gat._anonymizeIp']);
   {% endif %}
