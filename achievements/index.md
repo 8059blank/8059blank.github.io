@@ -7,7 +7,7 @@ title: Achievements
 - VEX Robotics World Championship - Division Champion
 - National Olympiad for Informatics - 2x Bronze, Silver
 - Whitehacks 2023 - 1st Placing
-- Cyberthon 2023 - 2nd Placing
+- Cyberthon 2023 - 2nd Placing, CSIT Challenge Champion
 - Sieberrsec 2023 - 1st Placing
 - IDEX 2023 - SMU SCIS Technology Award, Abbott High School STEM Internship Award
 
