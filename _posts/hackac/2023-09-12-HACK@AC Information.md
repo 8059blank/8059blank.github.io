@@ -73,8 +73,7 @@ An email will be sent to confirmed participants with more information about the 
 
 * To ensure fairness, any team wholly or partially consisting of the following personnel will not be eligible for prizes:
   * A participant who is not an existing student from a local educational institution
-  * Personnel from ACS(I) and CSA involved in the organisation of HACK@AC
-  * Existing CSA staff, including interns and temporary staff
+  * Personnel from ACS(I) involved in the organisation of HACK@AC
   * Existing ACS(I) RTS Members
   * ACS(I) Students
   
