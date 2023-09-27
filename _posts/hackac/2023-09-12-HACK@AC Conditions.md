@@ -9,7 +9,7 @@ author:
 ## General Terms and Conditions 
 
 ### On Collection, Use, or Disclosure of Information or Personal Data:
-1) I understand and agree that any personal information which has been provided or will be provided for the purposes of participating in the competition may also be used for publicity, student outreach, and analysis for policy recommendation purposes by ACS(I) or Cyber Security Agency of Singapore (CSA). This may include receiving communications on programmes, courses and events arranged or organized by ACS(I) or CSA.  
+1) I understand and agree that any personal information which has been provided or will be provided for the purposes of participating in the competition may also be used for publicity, student outreach, and analysis for policy recommendation purposes by ACS(I). This may include receiving communications on programmes, courses and events arranged or organized by ACS(I).  
    
 2) I understand that I am personally responsible for any voluntary disclosure of personal or confidential information disclosed to others during the competition activities, including, but not limited to, through interactions with (among others) representatives of the organizing team and other participants.  
    
