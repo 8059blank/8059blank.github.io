@@ -5,6 +5,7 @@ title: Achievements
 ## 2023
 - Singapore VRC National Championship - Tournament Champion, Judges Award
 - VEX Robotics World Championship - Division Champion
+- Singapore VRC Tournament - 2x Tournament Champion, Innovate Award, Amaze Award
 - National Olympiad for Informatics - 2x Bronze, Silver
 - Whitehacks 2023 - 1st Placing
 - Cyberthon 2023 - 2nd Placing, CSIT Challenge Champion
