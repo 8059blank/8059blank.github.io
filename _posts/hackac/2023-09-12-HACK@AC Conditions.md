@@ -4,7 +4,7 @@ title: HACK@AC Terms and Conditions
 image: ../events/hack.png
 categories: hackac
 author:
-  name: HACK@AC Organisers
+  name: ACSI-CCT
 ---
 ## General Terms and Conditions 
 
@@ -17,7 +17,7 @@ author:
    
 
 ### On Conduct:
-1) I am aware that any information disclosed and skills imparted during the Camp are for awareness, educational and/or illustrative purposes only. Any misuse or unauthorised use of any information or computer material is prohibited under the Computer Misuse Act (Cap 50A), the breach of which may lead to prosecution under Singapore law.  
+1) I am aware that any information disclosed and skills imparted during the Workshop/Competition are for awareness, educational and/or illustrative purposes only. Any misuse or unauthorised use of any information or computer material is prohibited under the Computer Misuse Act (Cap 50A), the breach of which may lead to prosecution under Singapore law.  
    
 2) I undertake that I will not engage in the unethical misuse or unauthorised use of any information or computer material. I will not carry out any acts of sabotage, tampering, misuse, or attacks on other participants or outside of the competition environment.  
    
@@ -28,4 +28,3 @@ The organisers reserves the right to amend the terms and conditions where and wh
 
 ### Data Protection Policy:
 Anglo-Chinese School (Independent) recognises the importance of personal data entrusted to us. We strongly believe and are committed to discharging our duty to ensure that your personal data is properly managed, protected and processed. This Data Protection Policy is intended to assist you in understanding how we collect, use, disclose, protect and process any personal data that we receive from you, and designed in accordance with the requirements under the Personal Data Protection Act 2012 (“PDPA”). For more information, visit [http://sites.acsindep.edu.sg/pdpa/pdpa.pdf](http://sites.acsindep.edu.sg/pdpa/pdpa.pdf).
-

@@ -4,8 +4,9 @@ title: HACK@AC Information
 image: ../events/hack.png
 categories: hackac
 author:
-  name: HACK@AC Organisers
+  name: ACSI-CCT
 ---
+
 ## Competition Details
 
 HACK@AC is a Capture-The-Flag competition, where participants play to earn points by solving problems relating to cryptography, data security, and other prominent cybersecurity issues.
@@ -17,24 +18,33 @@ HACK@AC is a Capture-The-Flag competition, where participants play to earn point
 
 There will be 2 divisions with separate prize pools: Secondary school Category and JC/Poly/ITE Category.
 
-**Prizes (for each division):**
+**Prizes (Secondary division):**
 * 1st Place: $500
 * 2nd Place: $300
 * 3rd Place: $200
 
-*Note: ACS (Independent) Students are not eligible for prizes*
+**Prizes (JC/Poly/ITE division):**
+* 1st Place: $500
+* 2nd Place: $300
+* 3rd Place: $200
+
+*Note: ACS (Independent) students are not eligible for prizes*
+
+Categories include Crypto, Forensics, Miscellaneous, Programming, Reverse Engineering, Web and Pwn.
 
 ## Workshop Details
 
-Workshops will be conducted prior to the HACK@AC CTF for ACS Students. These workshops will also be recorded and uploaded for interested participants. 
+A training workshop will be conducted prior to the HACK@AC CTF for all participants, alongside training challenges to complement the lessons. These workshops will also be recorded and uploaded.
 
 **Workshop Details**  
-* **Date:** 23 February 2024 (4:00pm - 7:50pm)
-* **Venue**: Online on Microsoft Teams
+* **Date:** 23 February 2024 (4:00pm - 8:00pm)
+* **Venue**: Online on YouTube stream
+
+Categories covered: Crypto, Web and Pwn
 
 ## Finale Details
 
-A week after the competition, a in-person finale will be held consisting of sponsorship talks, challenge walkthroughs, a prize presentation, and a buffet lunch. Participants will also have the chance to participate in trivia quizzes, offering the opportunity to win enticing prizes. Additionally, attendees will receive ACS and HACK@AC collectibles upon registration.
+One week after the competition, an in-person finale will be held, alongside challenge walkthroughs, prize presentation and a buffet lunch. Additionally, all participants will receive limited-edition HACK@AC collectibles!
 
 **Finale Details**  
 * **Date:** 2 March 2024 (9:00am - 2:00pm)
@@ -42,7 +52,7 @@ A week after the competition, a in-person finale will be held consisting of spon
 
 ## Sign Up
 
-HACK@AC Sign Up Link: [Click here](https://forms.office.com/r/7CJueshvk1)  
+[HACK@AC Sign Up Link](https://forms.office.com/r/7CJueshvk1)  
 
 [Terms And Conditions](https://8059blank.github.io/hackac/HACK@AC-Conditions/)  
 
@@ -52,7 +62,7 @@ An email will be sent to confirmed participants with more information about the 
 
 ## Rules
 
-* Hack@AC is open only to current students from local secondary schools or JCs/Polytechnics/ITE. Both Singaporean and non-Singaporean students from local secondary schools are welcome to participate.
+* Hack@AC is open only to current students from local secondary schools or JCs/Polytechnics/ITE. Both Singaporean and non-Singaporean students are welcome to participate.
 
 * You may only participate as team of **up to 4 members** from the **same school**. Teams of smaller size may also participate.
 
@@ -69,14 +79,14 @@ An email will be sent to confirmed participants with more information about the 
   * Obtaining or attempting to obtain illegal access to computer systems
 
 * Each participant is required to be an existing student from a local educational institution, verified as follows:
-  * Each participant is required to use an email address from a Singapore educational institution (Integrated Programme, Secondary School, JC, Polytechnic or ITE) for successful registration
+  * Each participant is required to use an email address from a Singapore educational institution (secondary school or JC/Poly/ITE) for successful registration
   * Each prize winner will be required to present a proof of study
 
-* To ensure fairness, any team wholly or partially consisting of the following personnel will not be eligible for prizes:
-  * A participant who is not an existing student from a local educational institution
+* To ensure fairness, any team wholly or partially consisting of the following may not participate/will not be eligible for prizes:
+  * A participant who is not an existing student from a local secondary school or JC/Poly/ITE
   * Personnel from ACS(I) involved in the organisation of HACK@AC
   * Existing ACS(I) RTS Members
-  * ACS(I) Students
+  * Other ACS(I) Students
   
 * All decisions made by the organisers are final, including decisions on eligibility, awarding of prizes, cheating or misconduct, termination of activity, or disqualification. The organisers reserve the right to change the rules where required.
 
@@ -86,46 +96,23 @@ Q: How many challenges are there?
 
 A: There will be several challenges per category. If you want to know the exact number, you'll have to join to find out ;) 
 
-
-
 Q: What training or skills would I need to prepare for the CTF? 
 
-A: Here are some online resources that will help you get started in your preparation for CTF competitions:
+A: The workshop will cover some basic skills which will be useful for the CTF. However, challenges in the CTF will require skills beyond what is covered in the workshop.
+
+In addition, here are some online resources that will help you get started in your preparation for CTF competitions:
 
 * [Over The Wire](https://overthewire.org/wargames/)
-
 * [Hack The Box](https://hackthebox.eu)
-
 * [Try Hack Me](https://tryhackme.com)
-
 * [Vuln Hub](https://vulnhub.com)
 
-  These resources will help you build a good foundation around the skill-set and critical thinking required to solve CTF challenges. In addition, write-ups on solving challenges in past CTF competitions may be found online. These write-ups would also provide you a good understanding of how CTF challenges may be solved. 
+These resources will help you build a good foundation around the skill-set and critical thinking required to solve CTF challenges. In addition, write-ups on solving challenges in past CTF competitions may be found online. These write-ups would also provide you a good understanding of how CTF challenges may be solved. 
   
-  
-
-Q: Is there a winner for each challenge/category? 
-
-A: No, winners are decided based on the overall score, subject to follow up verification.
-
-
-
 Q: What do I need to prepare for the competition?
 
-A: All participants are required to use their own laptops. The minimum specifications **recommended** of participants’ laptops are as follows:
-
-- Processor: Intel Core i5 Processor
-- Memory: 8GB Ram
-- Storage: Min 80GB HDD
-- Connectivity: Wireless and Wired Internet Connection
-- Operating Systems: Windows
-
-Recommended Software: VMWare Workstation Player/VirtualBox
-
-
+A: All participants are required to setup their own system. Some challenges will require a Unix-based system to solve. You may wish to setup a virtual machine if you do not have one.
 
 Q: What is the format of the competition?
 
 A: Participants will attempt to earn the most points by solving competition challenges. At the end of the competition, points scored by each team will be added. The tiebreaker will be the time taken to solve the challenge.
-
-
