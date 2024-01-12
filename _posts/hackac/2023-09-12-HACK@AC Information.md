@@ -34,10 +34,10 @@ Categories include Crypto, Forensics, Miscellaneous, Programming, Reverse Engine
 
 ## Workshop Details
 
-A training workshop will be conducted prior to the HACK@AC CTF for all participants, alongside training challenges to complement the lessons. These workshops will also be recorded and uploaded.
+A training workshop will be conducted prior to the HACK@AC CTF for all participants, alongside training challenges to complement the workshop. The workshop will also be recorded and uploaded.
 
 **Workshop Details**  
-* **Date:** 23 February 2024 (4:00pm - 8:00pm)
+* **Date:** 23 February 2024 (4:00pm - 7:50pm)
 * **Venue**: Online on YouTube stream
 
 Categories covered: Crypto, Web and Pwn
