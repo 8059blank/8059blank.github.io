@@ -29,6 +29,7 @@ There will be 2 divisions with separate prize pools: Secondary school Category a
 * 3rd Place: $200
 
 *Note: ACS (Independent) students are not eligible for prizes*
+*Note: Poly/ITE students must be 21 years old or younger to participate*
 
 Categories include Crypto, Forensics, Miscellaneous, Programming, Reverse Engineering, Web and Pwn.
 
