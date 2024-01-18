@@ -32,6 +32,8 @@ There will be 2 divisions with separate prize pools: Secondary school Category a
 
 *Note: All participants (including Poly/ITE students) must be 21 years old or younger to participate*
 
+*Note: If you were previously a secondary school student, and are waiting for Poly enrollment in April, you can still play under the Poly category*
+
 Categories include Crypto, Forensics, Miscellaneous, Programming, Reverse Engineering, Web and Pwn.
 
 ## Workshop Details
