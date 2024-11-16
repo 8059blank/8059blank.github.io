@@ -2,6 +2,12 @@
 layout: single
 title: Achievements
 ---
+## 2024
+- Singapore VEX (V5RC) Tournament - Tournament Champion
+- IDE VEX VRC - 
+- National Youth Tech Championship - 3rd Placing
+- IDEX 2024 - 2x Merit
+
 ## 2023
 - Singapore VRC National Championship - Tournament Champion, Judges Award
 - VEX Robotics World Championship - Division Champion
