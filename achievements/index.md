@@ -3,10 +3,11 @@ layout: single
 title: Achievements
 ---
 ## 2024
-- Singapore VEX (V5RC) Tournament - Tournament Champion
-- IDE VEX VRC - 
+- Singapore VEX (V5RC) Tournament - Tournament Champion, Excellence Award
+- IDE VEX VRC - 2x Tournament Champions, Amaze Award
 - National Youth Tech Championship - 3rd Placing
-- IDEX 2024 - 2x Merit
+- Samsung Solve for Tomorrow - Champions, Finalists
+- IDEX 2024 - 2x Merit, A*STAR Award. NUS Design and Engineering Award
 
 ## 2023
 - Singapore VRC National Championship - Tournament Champion, Judges Award
