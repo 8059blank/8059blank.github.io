@@ -3,6 +3,7 @@ layout: single
 title: Achievements
 ---
 ## 2024
+- Singapore VRC National Championship - Tournament Champion, Excellence Award, Design Award
 - Singapore VEX (V5RC) Tournament - Tournament Champion, Excellence Award
 - IDE VEX VRC - 2x Tournament Champions, Amaze Award
 - National Youth Tech Championship - 3rd Placing
