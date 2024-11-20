@@ -3,10 +3,10 @@ layout: single
 title: Achievements
 ---
 ## 2024
-- FIRST Global Challenge - Tournament Finalist, 3rd Placing
 - Singapore VRC National Championship - Tournament Champion, Excellence Award, Design Award
 - Singapore VEX (V5RC) Tournament - Tournament Champion, Excellence Award
 - IDE VEX VRC - 2x Tournament Champions, Amaze Award
+- FIRST Global Challenge - Tournament Finalist, 3rd Placing
 - National Youth Tech Championship - 3rd Placing
 - Samsung Solve for Tomorrow - Finalists
 - IDEX 2024 - 2x Merit, 2x A*STAR Award. NUS Design and Engineering Award
