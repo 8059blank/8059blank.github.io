@@ -6,6 +6,13 @@ title: Achievements
 - Singapore Spooky Robo Rumble V5RC - Tournament Finalists, Create Award, Think Award
 - DSTA-DSO-VJC Robotics Challenge - 1st Runner Up
 - Tan Kah Kee Foundation Young Inventor's Award - Merit
+- SMU Whitehacks - 1st place
+- National Olympiad for Informatics - 3 Silver, 3 Bronze
+- SAFMC - Judge’s Commendation
+- National Cybersecurity Olympiad - 1 Gold, 3 Silver, 1 Bronze
+- International Cybersecurity Olympiad - 1 Gold
+- Lag and Crash CTF - 3rd Place
+- HCI SieberrsecCTF 6.0 - 2nd Place
 
 ## 2024
 - Singapore VRC National Championship - Tournament Champion, Excellence Award, Design Award
@@ -15,6 +22,17 @@ title: Achievements
 - National Youth Tech Championship - 3rd Placing
 - Samsung Solve for Tomorrow - Finalists
 - IDEX 2024 - 2x Merit, 2x A*STAR Award. NUS Design and Engineering Award
+- SMU Whitehacks - 2nd, 7th Place
+- Cyberthon - 3rd Place
+- HCI SieberrsecCTF 5.0 - 1st Place
+- DSTA BrainHack CDDC CTF Challenge - 4th Place
+- NUSH BlahajCTF - 2nd Place
+- Lag and Crash CTF - 3rd Place
+- Yes but No (YBN) CTF - 3rd Place
+- SAFMC - Judge’s Commendation
+- Drone Odyssey - 2nd Place
+- NYTC - 3rd Place
+- National Olympiad for Informatics - 1 Silver, 3 Bronze, Youngest Medallist Award
 
 ## 2023
 - Singapore VRC National Championship - Tournament Champion, Judges Award
