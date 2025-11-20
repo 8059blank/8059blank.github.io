@@ -3,6 +3,7 @@ layout: single
 title: Achievements
 ---
 ## 2025
+- Singapore VEX V5RC Tournament - 1x Tournament Champion, 2x Tournament Finalist, Design Award, Innovate Award
 - Singapore Spooky Robo Rumble V5RC - Tournament Finalists, Create Award, Think Award
 - DSTA-DSO-VJC Robotics Challenge - 1st Runner Up
 - Tan Kah Kee Foundation Young Inventor's Award - Merit
